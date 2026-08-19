@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 12b6f163697ae84419a2514ba15a770b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5783482930150067451
+    second: Archer spritesheet with shadow_0
+  - first:
+      213: -1963416421012768194
+    second: Archer spritesheet with shadow_1
+  - first:
+      213: 1871226773158879682
+    second: Archer spritesheet with shadow_2
+  - first:
+      213: 5249676692747095180
+    second: Archer spritesheet with shadow_3
+  - first:
+      213: 7925738892957570507
+    second: Archer spritesheet with shadow_4
+  - first:
+      213: 2949790514695319344
+    second: Archer spritesheet with shadow_5
+  - first:
+      213: 1087579040546087738
+    second: Archer spritesheet with shadow_6
+  - first:
+      213: -9206892640259156031
+    second: Archer spritesheet with shadow_7
+  - first:
+      213: 8551271006376115816
+    second: Archer spritesheet with shadow_8
+  - first:
+      213: 1663434476416443254
+    second: Archer spritesheet with shadow_9
+  - first:
+      213: 335221325240049120
+    second: Archer spritesheet with shadow_10
+  - first:
+      213: 2086422584675416909
+    second: Archer spritesheet with shadow_11
+  - first:
+      213: 6108943836464746129
+    second: Archer spritesheet with shadow_12
+  - first:
+      213: 8294035725109884889
+    second: Archer spritesheet with shadow_13
+  - first:
+      213: 8554819502642188838
+    second: Archer spritesheet with shadow_14
+  - first:
+      213: -7526678522674826446
+    second: Archer spritesheet with shadow_15
+  - first:
+      213: -4376114857364198574
+    second: Archer spritesheet with shadow_16
+  - first:
+      213: 2446654800084044759
+    second: Archer spritesheet with shadow_17
+  - first:
+      213: -4225784888528648769
+    second: Archer spritesheet with shadow_18
+  - first:
+      213: 8016854539034700633
+    second: Archer spritesheet with shadow_19
+  - first:
+      213: -665432596459276999
+    second: Archer spritesheet with shadow_20
+  - first:
+      213: -2732554025815721501
+    second: Archer spritesheet with shadow_21
+  - first:
+      213: -2596985498168363522
+    second: Archer spritesheet with shadow_22
+  - first:
+      213: 2302190601214815281
+    second: Archer spritesheet with shadow_23
+  - first:
+      213: 4839384325416170943
+    second: Archer spritesheet with shadow_24
+  - first:
+      213: 936022382372357236
+    second: Archer spritesheet with shadow_25
+  - first:
+      213: 1279710122687250997
+    second: Archer spritesheet with shadow_26
+  - first:
+      213: 5449305774345996755
+    second: Archer spritesheet with shadow_27
+  - first:
+      213: -7006705611433770108
+    second: Archer spritesheet with shadow_28
+  - first:
+      213: -364320599024904239
+    second: Archer spritesheet with shadow_29
+  - first:
+      213: -5755028355340323645
+    second: Archer spritesheet with shadow_30
+  - first:
+      213: 596871754470002975
+    second: Archer spritesheet with shadow_31
+  - first:
+      213: 1737113005846736712
+    second: Archer spritesheet with shadow_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503bedfcae0fcbfa0800000000000000
+      internalID: -5783482930150067451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a7d5fea2b80c4e0800000000000000
+      internalID: -1963416421012768194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1e55406dee7f910800000000000000
+      internalID: 1871226773158879682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c86d853299ad840800000000000000
+      internalID: 5249676692747095180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 130
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5db31e781edfd60800000000000000
+      internalID: 7925738892957570507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f2b3e28d2cfe820800000000000000
+      internalID: 2949790514695319344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 98
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33e8e8006bd71f00800000000000000
+      internalID: 1087579040546087738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 98
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7d1348ceb8a3080800000000000000
+      internalID: -9206892640259156031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 98
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e35297ca73ca670800000000000000
+      internalID: 8551271006376115816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 66
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673a0f1d7d4b51710800000000000000
+      internalID: 1663434476416443254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 66
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed911ce402f6a400800000000000000
+      internalID: 335221325240049120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b3ee2594674fc10800000000000000
+      internalID: 2086422584675416909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 66
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e0b4d7d0457c450800000000000000
+      internalID: 6108943836464746129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 66
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7f29d5c855a1370800000000000000
+      internalID: 8294035725109884889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 66
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62252942303d8b670800000000000000
+      internalID: 8554819502642188838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 66
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233b76df2cddb8790800000000000000
+      internalID: -7526678522674826446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 74
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b6f7e09bae443c0800000000000000
+      internalID: -4376114857364198574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 34
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db8307e39344f120800000000000000
+      internalID: 2446654800084044759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb54906780ffa55c0800000000000000
+      internalID: -4225784888528648769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b24276ab6914f60800000000000000
+      internalID: 8016854539034700633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93534124498e3c6f0800000000000000
+      internalID: -665432596459276999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9b0b95794041ad0800000000000000
+      internalID: -2732554025815721501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 10
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef575d6e277a5fbd0800000000000000
+      internalID: -2596985498168363522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_23
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ce6ae772603ff10800000000000000
+      internalID: 2302190601214815281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb536006762f82340800000000000000
+      internalID: 4839384325416170943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4748e13c56b6dfc00800000000000000
+      internalID: 936022382372357236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532ce3e839172c110800000000000000
+      internalID: 1279710122687250997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 7
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9c068eab2df9b40800000000000000
+      internalID: 5449305774345996755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48301c89e5e23ce90800000000000000
+      internalID: -7006705611433770108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d753ce685ca1faf0800000000000000
+      internalID: -364320599024904239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4b3a7c3380220b0800000000000000
+      internalID: -5755028355340323645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1116a5c2b3884800800000000000000
+      internalID: 596871754470002975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer spritesheet with shadow_32
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fa43043177b1810800000000000000
+      internalID: 1737113005846736712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Archer spritesheet with shadow_0: -5783482930150067451
+      Archer spritesheet with shadow_1: -1963416421012768194
+      Archer spritesheet with shadow_10: 335221325240049120
+      Archer spritesheet with shadow_11: 2086422584675416909
+      Archer spritesheet with shadow_12: 6108943836464746129
+      Archer spritesheet with shadow_13: 8294035725109884889
+      Archer spritesheet with shadow_14: 8554819502642188838
+      Archer spritesheet with shadow_15: -7526678522674826446
+      Archer spritesheet with shadow_16: -4376114857364198574
+      Archer spritesheet with shadow_17: 2446654800084044759
+      Archer spritesheet with shadow_18: -4225784888528648769
+      Archer spritesheet with shadow_19: 8016854539034700633
+      Archer spritesheet with shadow_2: 1871226773158879682
+      Archer spritesheet with shadow_20: -665432596459276999
+      Archer spritesheet with shadow_21: -2732554025815721501
+      Archer spritesheet with shadow_22: -2596985498168363522
+      Archer spritesheet with shadow_23: 2302190601214815281
+      Archer spritesheet with shadow_24: 4839384325416170943
+      Archer spritesheet with shadow_25: 936022382372357236
+      Archer spritesheet with shadow_26: 1279710122687250997
+      Archer spritesheet with shadow_27: 5449305774345996755
+      Archer spritesheet with shadow_28: -7006705611433770108
+      Archer spritesheet with shadow_29: -364320599024904239
+      Archer spritesheet with shadow_3: 5249676692747095180
+      Archer spritesheet with shadow_30: -5755028355340323645
+      Archer spritesheet with shadow_31: 596871754470002975
+      Archer spritesheet with shadow_32: 1737113005846736712
+      Archer spritesheet with shadow_4: 7925738892957570507
+      Archer spritesheet with shadow_5: 2949790514695319344
+      Archer spritesheet with shadow_6: 1087579040546087738
+      Archer spritesheet with shadow_7: -9206892640259156031
+      Archer spritesheet with shadow_8: 8551271006376115816
+      Archer spritesheet with shadow_9: 1663434476416443254
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

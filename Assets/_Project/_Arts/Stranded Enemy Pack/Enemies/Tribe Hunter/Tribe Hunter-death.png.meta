@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 91c83bb9dfc78554f9f82056f747701f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2282319150929539477
+    second: Tribe Hunter-death_0
+  - first:
+      213: 1522344166898730708
+    second: Tribe Hunter-death_1
+  - first:
+      213: 8714752282974932953
+    second: Tribe Hunter-death_2
+  - first:
+      213: 368088571627581616
+    second: Tribe Hunter-death_3
+  - first:
+      213: -744767529992473859
+    second: Tribe Hunter-death_4
+  - first:
+      213: 8811618567136992570
+    second: Tribe Hunter-death_5
+  - first:
+      213: 8044281575159509305
+    second: Tribe Hunter-death_6
+  - first:
+      213: -4859023600063623041
+    second: Tribe Hunter-death_7
+  - first:
+      213: -4304600589624922813
+    second: Tribe Hunter-death_8
+  - first:
+      213: 9106495369717526819
+    second: Tribe Hunter-death_9
+  - first:
+      213: -2496051042403993871
+    second: Tribe Hunter-death_10
+  - first:
+      213: -535042265298477610
+    second: Tribe Hunter-death_11
+  - first:
+      213: -8369825759424693240
+    second: Tribe Hunter-death_12
+  - first:
+      213: -5281044288188098203
+    second: Tribe Hunter-death_13
+  - first:
+      213: -4106231059247171365
+    second: Tribe Hunter-death_14
+  - first:
+      213: 1064592688769468271
+    second: Tribe Hunter-death_15
+  - first:
+      213: 7765170787211758219
+    second: Tribe Hunter-death_16
+  - first:
+      213: 6719820922691300787
+    second: Tribe Hunter-death_17
+  - first:
+      213: -5201418314883066772
+    second: Tribe Hunter-death_18
+  - first:
+      213: 3449937511356304147
+    second: Tribe Hunter-death_19
+  - first:
+      213: 3993370225570297484
+    second: Tribe Hunter-death_20
+  - first:
+      213: 3710029251614660604
+    second: Tribe Hunter-death_21
+  - first:
+      213: -8635980270573947647
+    second: Tribe Hunter-death_22
+  - first:
+      213: 3456416873412493784
+    second: Tribe Hunter-death_23
+  - first:
+      213: -9090281138748526855
+    second: Tribe Hunter-death_24
+  - first:
+      213: -4647849168929762475
+    second: Tribe Hunter-death_25
+  - first:
+      213: 4183434679194898384
+    second: Tribe Hunter-death_26
+  - first:
+      213: 8244342750057022674
+    second: Tribe Hunter-death_27
+  - first:
+      213: 3478098145770559388
+    second: Tribe Hunter-death_28
+  - first:
+      213: 5710650418025860388
+    second: Tribe Hunter-death_29
+  - first:
+      213: 5097759338524539483
+    second: Tribe Hunter-death_30
+  - first:
+      213: 3455556006336344241
+    second: Tribe Hunter-death_31
+  - first:
+      213: 764776819492871718
+    second: Tribe Hunter-death_32
+  - first:
+      213: 4894139321007204336
+    second: Tribe Hunter-death_33
+  - first:
+      213: -3483061954243765523
+    second: Tribe Hunter-death_34
+  - first:
+      213: -9056174356706723712
+    second: Tribe Hunter-death_35
+  - first:
+      213: 6478677964646631165
+    second: Tribe Hunter-death_36
+  - first:
+      213: 1245933148850148387
+    second: Tribe Hunter-death_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tribe Hunter-death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591f93fec2d6caf10800000000000000
+      internalID: 2282319150929539477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d603ed34f3702510800000000000000
+      internalID: 1522344166898730708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfce34570501f870800000000000000
+      internalID: 8714752282974932953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b03ebd0b96bb1500800000000000000
+      internalID: 368088571627581616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2bd8e90ed0aa5f0800000000000000
+      internalID: -744767529992473859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ddf6e9668294a70800000000000000
+      internalID: 8811618567136992570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9313a90e87703af60800000000000000
+      internalID: 8044281575159509305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70d7faa7c7419cb0800000000000000
+      internalID: -4859023600063623041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d287b029cf244c0800000000000000
+      internalID: -4304600589624922813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321b0cc5a45c06e70800000000000000
+      internalID: 9106495369717526819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f634443dce3c5dd0800000000000000
+      internalID: -2496051042403993871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd501df4e52398f0800000000000000
+      internalID: -535042265298477610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cb39921d768db80800000000000000
+      internalID: -8369825759424693240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56951773336f5b6b0800000000000000
+      internalID: -5281044288188098203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd875eb7b9cb307c0800000000000000
+      internalID: -4106231059247171365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f670594f86136ce00800000000000000
+      internalID: 1064592688769468271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter-death_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a4ff770bd63cb60800000000000000
+      internalID: 7765170787211758219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 388eba4f2f06ca841a1831c0e387d1d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":17.0,"y":1.0},"gridSpriteSize":{"x":34.0,"y":37.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tribe Hunter-death_0: 2282319150929539477
+      Tribe Hunter-death_1: 1522344166898730708
+      Tribe Hunter-death_10: -2496051042403993871
+      Tribe Hunter-death_11: -535042265298477610
+      Tribe Hunter-death_12: -8369825759424693240
+      Tribe Hunter-death_13: -5281044288188098203
+      Tribe Hunter-death_14: -4106231059247171365
+      Tribe Hunter-death_15: 1064592688769468271
+      Tribe Hunter-death_16: 7765170787211758219
+      Tribe Hunter-death_2: 8714752282974932953
+      Tribe Hunter-death_3: 368088571627581616
+      Tribe Hunter-death_4: -744767529992473859
+      Tribe Hunter-death_5: 8811618567136992570
+      Tribe Hunter-death_6: 8044281575159509305
+      Tribe Hunter-death_7: -4859023600063623041
+      Tribe Hunter-death_8: -4304600589624922813
+      Tribe Hunter-death_9: 9106495369717526819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: 047e7ceae72fc944aa133b4fa26bc034
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1400839651790455895
+    second: Hand (Final)-Death_0
+  - first:
+      213: 3712199432196738019
+    second: Hand (Final)-Death_1
+  - first:
+      213: 5306663291022576201
+    second: Hand (Final)-Death_2
+  - first:
+      213: 3463530918292431635
+    second: Hand (Final)-Death_3
+  - first:
+      213: 5052380546627695500
+    second: Hand (Final)-Death_4
+  - first:
+      213: 2682047027211911030
+    second: Hand (Final)-Death_5
+  - first:
+      213: 4723648673812749296
+    second: Hand (Final)-Death_6
+  - first:
+      213: 8930077740787074710
+    second: Hand (Final)-Death_7
+  - first:
+      213: -3104074916915339079
+    second: Hand (Final)-Death_8
+  - first:
+      213: -3522283734363933378
+    second: Hand (Final)-Death_9
+  - first:
+      213: 2772837711818284566
+    second: Hand (Final)-Death_10
+  - first:
+      213: -2949647828907621982
+    second: Hand (Final)-Death_11
+  - first:
+      213: 5978634278811857182
+    second: Hand (Final)-Death_12
+  - first:
+      213: 3495921871297262975
+    second: Hand (Final)-Death_13
+  - first:
+      213: 7063899314205168851
+    second: Hand (Final)-Death_14
+  - first:
+      213: 1912204410769435561
+    second: Hand (Final)-Death_15
+  - first:
+      213: -5768780327098130632
+    second: Hand (Final)-Death_16
+  - first:
+      213: -7263729535598210588
+    second: Hand (Final)-Death_17
+  - first:
+      213: 7970059588947946725
+    second: Hand (Final)-Death_18
+  - first:
+      213: 5807216831091712897
+    second: Hand (Final)-Death_19
+  - first:
+      213: 4217677221364176163
+    second: Hand (Final)-Death_20
+  - first:
+      213: 6819173844552303293
+    second: Hand (Final)-Death_21
+  - first:
+      213: -3219458603414517849
+    second: Hand (Final)-Death_22
+  - first:
+      213: 913219980492486515
+    second: Hand (Final)-Death_23
+  - first:
+      213: -55650793387312405
+    second: Hand (Final)-Death_24
+  - first:
+      213: -7340149980133670225
+    second: Hand (Final)-Death_25
+  - first:
+      213: 5311753636438733012
+    second: Hand (Final)-Death_26
+  - first:
+      213: -4952710052151915093
+    second: Hand (Final)-Death_27
+  - first:
+      213: -7590723677450244674
+    second: Hand (Final)-Death_28
+  - first:
+      213: -1053720055138467790
+    second: Hand (Final)-Death_29
+  - first:
+      213: 4176337040303257227
+    second: Hand (Final)-Death_30
+  - first:
+      213: 3778071765974505675
+    second: Hand (Final)-Death_31
+  - first:
+      213: 6344671096020875444
+    second: Hand (Final)-Death_32
+  - first:
+      213: 3102555326497668165
+    second: Hand (Final)-Death_33
+  - first:
+      213: 8871826646435410305
+    second: Hand (Final)-Death_34
+  - first:
+      213: 1526396094012529501
+    second: Hand (Final)-Death_35
+  - first:
+      213: -1765270294793891452
+    second: Hand (Final)-Death_36
+  - first:
+      213: -691438496661737754
+    second: Hand (Final)-Death_37
+  - first:
+      213: -4030934342209842528
+    second: Hand (Final)-Death_38
+  - first:
+      213: -3329112949331634754
+    second: Hand (Final)-Death_39
+  - first:
+      213: -2830705968898385809
+    second: Hand (Final)-Death_40
+  - first:
+      213: -7618924705518456394
+    second: Hand (Final)-Death_41
+  - first:
+      213: -8885173634005493274
+    second: Hand (Final)-Death_42
+  - first:
+      213: 3898549563538330113
+    second: Hand (Final)-Death_43
+  - first:
+      213: -4422618220453635784
+    second: Hand (Final)-Death_44
+  - first:
+      213: -5651383132824719468
+    second: Hand (Final)-Death_45
+  - first:
+      213: 583292813324124609
+    second: Hand (Final)-Death_46
+  - first:
+      213: -1425445359513010967
+    second: Hand (Final)-Death_47
+  - first:
+      213: -5586991257621126769
+    second: Hand (Final)-Death_48
+  - first:
+      213: 3275921585940834308
+    second: Hand (Final)-Death_49
+  - first:
+      213: -6883459462490382929
+    second: Hand (Final)-Death_50
+  - first:
+      213: -6212463691791347940
+    second: Hand (Final)-Death_51
+  - first:
+      213: 3773718234336832514
+    second: Hand (Final)-Death_52
+  - first:
+      213: 1002982924730761572
+    second: Hand (Final)-Death_53
+  - first:
+      213: 4487657108410864553
+    second: Hand (Final)-Death_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hand (Final)-Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7548048cd38c07310800000000000000
+      internalID: 1400839651790455895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb4e7b27b1648330800000000000000
+      internalID: 3712199432196738019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a8104b52e05a940800000000000000
+      internalID: 5306663291022576201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3132765050fe01030800000000000000
+      internalID: 3463530918292431635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8376d7a659ad1640800000000000000
+      internalID: 5052380546627695500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fbbd7af8b883520800000000000000
+      internalID: 2682047027211911030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb9a5e1175cd8140800000000000000
+      internalID: 4723648673812749296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6968c3444620eeb70800000000000000
+      internalID: 8930077740787074710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0af052f4c1ce4d0800000000000000
+      internalID: -3104074916915339079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_9
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35f91ffa955e1fc0800000000000000
+      internalID: -3522283734363933378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_10
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e5cb035391b7620800000000000000
+      internalID: 2772837711818284566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_11
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a185717deeb017d0800000000000000
+      internalID: -2949647828907621982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_12
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11fd8e433068f250800000000000000
+      internalID: 5978634278811857182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_13
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7531357b62048030800000000000000
+      internalID: 3495921871297262975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_14
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d413580003080260800000000000000
+      internalID: 7063899314205168851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_15
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abe8d1c7c3898a10800000000000000
+      internalID: 1912204410769435561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_16
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fdd085bdc21ffa0800000000000000
+      internalID: -5768780327098130632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_17
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1d726e87c023b90800000000000000
+      internalID: -7263729535598210588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_18
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec20fd08f65b9e60800000000000000
+      internalID: 7970059588947946725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_19
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18324ee90f0679050800000000000000
+      internalID: 5807216831091712897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_20
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3251bac2613388a30800000000000000
+      internalID: 4217677221364176163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_21
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2cc2a6b7292ae50800000000000000
+      internalID: 6819173844552303293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_22
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a70766257f2253d0800000000000000
+      internalID: -3219458603414517849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_23
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3773b0bdbb86cac00800000000000000
+      internalID: 913219980492486515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_24
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea3ea4f5e94a3ff0800000000000000
+      internalID: -55650793387312405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_25
+      rect:
+        serializedVersion: 2
+        x: 3325
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2ca0c9b7c822a90800000000000000
+      internalID: -7340149980133670225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_26
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0f15a1ac327b940800000000000000
+      internalID: 5311753636438733012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_27
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad8af9b270744bb0800000000000000
+      internalID: -4952710052151915093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_28
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd6e61680558a690800000000000000
+      internalID: -7590723677450244674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_29
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23044c4513f6061f0800000000000000
+      internalID: -1053720055138467790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_30
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86f495396455f930800000000000000
+      internalID: 4176337040303257227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Death_31
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8d7da01486e6430800000000000000
+      internalID: 3778071765974505675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 055e1579546fd4346b47be43939a2d0c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":41.0,"y":1.0},"gridSpriteSize":{"x":133.0,"y":103.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5199999809265137,"y":0.44999998807907107},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hand (Final)-Death_0: 1400839651790455895
+      Hand (Final)-Death_1: 3712199432196738019
+      Hand (Final)-Death_10: 2772837711818284566
+      Hand (Final)-Death_11: -2949647828907621982
+      Hand (Final)-Death_12: 5978634278811857182
+      Hand (Final)-Death_13: 3495921871297262975
+      Hand (Final)-Death_14: 7063899314205168851
+      Hand (Final)-Death_15: 1912204410769435561
+      Hand (Final)-Death_16: -5768780327098130632
+      Hand (Final)-Death_17: -7263729535598210588
+      Hand (Final)-Death_18: 7970059588947946725
+      Hand (Final)-Death_19: 5807216831091712897
+      Hand (Final)-Death_2: 5306663291022576201
+      Hand (Final)-Death_20: 4217677221364176163
+      Hand (Final)-Death_21: 6819173844552303293
+      Hand (Final)-Death_22: -3219458603414517849
+      Hand (Final)-Death_23: 913219980492486515
+      Hand (Final)-Death_24: -55650793387312405
+      Hand (Final)-Death_25: -7340149980133670225
+      Hand (Final)-Death_26: 5311753636438733012
+      Hand (Final)-Death_27: -4952710052151915093
+      Hand (Final)-Death_28: -7590723677450244674
+      Hand (Final)-Death_29: -1053720055138467790
+      Hand (Final)-Death_3: 3463530918292431635
+      Hand (Final)-Death_30: 4176337040303257227
+      Hand (Final)-Death_31: 3778071765974505675
+      Hand (Final)-Death_4: 5052380546627695500
+      Hand (Final)-Death_5: 2682047027211911030
+      Hand (Final)-Death_6: 4723648673812749296
+      Hand (Final)-Death_7: 8930077740787074710
+      Hand (Final)-Death_8: -3104074916915339079
+      Hand (Final)-Death_9: -3522283734363933378
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

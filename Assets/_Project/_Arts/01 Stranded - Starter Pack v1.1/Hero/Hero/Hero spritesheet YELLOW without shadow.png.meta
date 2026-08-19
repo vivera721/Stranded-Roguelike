@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 5db98758667083a4d9ade93e6fdeb8b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2992896784773562367
+    second: Hero spritesheet YELLOW without shadow_0
+  - first:
+      213: -7137710987548204916
+    second: Hero spritesheet YELLOW without shadow_1
+  - first:
+      213: 5335244266798899742
+    second: Hero spritesheet YELLOW without shadow_2
+  - first:
+      213: 417078886273387201
+    second: Hero spritesheet YELLOW without shadow_3
+  - first:
+      213: 6278779620442182599
+    second: Hero spritesheet YELLOW without shadow_4
+  - first:
+      213: 4896458481204320197
+    second: Hero spritesheet YELLOW without shadow_5
+  - first:
+      213: 3204827158087362489
+    second: Hero spritesheet YELLOW without shadow_6
+  - first:
+      213: -1314495767527844171
+    second: Hero spritesheet YELLOW without shadow_7
+  - first:
+      213: -8496689314774756837
+    second: Hero spritesheet YELLOW without shadow_8
+  - first:
+      213: 169721920538156168
+    second: Hero spritesheet YELLOW without shadow_9
+  - first:
+      213: 9132855723381030743
+    second: Hero spritesheet YELLOW without shadow_10
+  - first:
+      213: -6114126028791384832
+    second: Hero spritesheet YELLOW without shadow_11
+  - first:
+      213: 6472604931765751795
+    second: Hero spritesheet YELLOW without shadow_12
+  - first:
+      213: -6322174866882583223
+    second: Hero spritesheet YELLOW without shadow_13
+  - first:
+      213: 3844335287713687760
+    second: Hero spritesheet YELLOW without shadow_14
+  - first:
+      213: 4273332750582742130
+    second: Hero spritesheet YELLOW without shadow_15
+  - first:
+      213: 819711219359672365
+    second: Hero spritesheet YELLOW without shadow_16
+  - first:
+      213: -9060918240482997067
+    second: Hero spritesheet YELLOW without shadow_17
+  - first:
+      213: -4740555981097869290
+    second: Hero spritesheet YELLOW without shadow_18
+  - first:
+      213: 5942694977721220428
+    second: Hero spritesheet YELLOW without shadow_19
+  - first:
+      213: 1934702100925788255
+    second: Hero spritesheet YELLOW without shadow_20
+  - first:
+      213: -3749050051671585845
+    second: Hero spritesheet YELLOW without shadow_21
+  - first:
+      213: 4564518021578588975
+    second: Hero spritesheet YELLOW without shadow_22
+  - first:
+      213: -198199008162250724
+    second: Hero spritesheet YELLOW without shadow_23
+  - first:
+      213: -6226840633456296052
+    second: Hero spritesheet YELLOW without shadow_24
+  - first:
+      213: 8363113634546504188
+    second: Hero spritesheet YELLOW without shadow_25
+  - first:
+      213: -2373408245196141441
+    second: Hero spritesheet YELLOW without shadow_26
+  - first:
+      213: -67288133969694933
+    second: Hero spritesheet YELLOW without shadow_27
+  - first:
+      213: 8042485465703610793
+    second: Hero spritesheet YELLOW without shadow_28
+  - first:
+      213: 8561795139307697662
+    second: Hero spritesheet YELLOW without shadow_29
+  - first:
+      213: 4167230635094125146
+    second: Hero spritesheet YELLOW without shadow_30
+  - first:
+      213: -5851592051711977100
+    second: Hero spritesheet YELLOW without shadow_31
+  - first:
+      213: 3614201409265769735
+    second: Hero spritesheet YELLOW without shadow_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 164
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100c9263b381776d0800000000000000
+      internalID: -2992896784773562367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 164
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8069cd8ca1c1fc90800000000000000
+      internalID: -7137710987548204916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 164
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12ec70b4689a0a40800000000000000
+      internalID: 5335244266798899742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 164
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca04ab8903c9c500800000000000000
+      internalID: 417078886273387201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 164
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c31b636cc4b22750800000000000000
+      internalID: 6278779620442182599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 132
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7d1adcb07b3f340800000000000000
+      internalID: 4896458481204320197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 132
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b762540255d97c20800000000000000
+      internalID: 3204827158087362489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 134
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b69fbd5019f1cde0800000000000000
+      internalID: -1314495767527844171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 134
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b125ef9e512b51a80800000000000000
+      internalID: -8496689314774756837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c16400039fa5200800000000000000
+      internalID: 169721920538156168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 100
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ff40974eb6ebe70800000000000000
+      internalID: 9132855723381030743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 102
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0057be555c2462ba0800000000000000
+      internalID: -6114126028791384832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 102
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffc65164ef43d950800000000000000
+      internalID: 6472604931765751795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 100
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945af83747f1348a0800000000000000
+      internalID: -6322174866882583223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 100
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d86ca57392d95530800000000000000
+      internalID: 3844335287713687760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 102
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cf68dde7ded4b30800000000000000
+      internalID: 4273332750582742130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 102
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28e550d203306b00800000000000000
+      internalID: 819711219359672365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc4729fdd6214280800000000000000
+      internalID: -9060918240482997067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610eec4a379263eb0800000000000000
+      internalID: -4740555981097869290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d3293b891b87250800000000000000
+      internalID: 5942694977721220428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5032ef6f4179da10800000000000000
+      internalID: 1934702100925788255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 68
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb84f067d2b8fbc0800000000000000
+      internalID: -3749050051671585845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f238f0fe4fc685f30800000000000000
+      internalID: 4564518021578588975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1087ab5d0bdf3df0800000000000000
+      internalID: -198199008162250724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f7ed16f61d599a0800000000000000
+      internalID: -6226840633456296052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 70
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1de5b7a8fbf0470800000000000000
+      internalID: 8363113634546504188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cc91e96c5ff0fd0800000000000000
+      internalID: -2373408245196141441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f23257cc1f01ff0800000000000000
+      internalID: -67288133969694933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9718e8be5ac9f60800000000000000
+      internalID: 8042485465703610793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 68
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5f91e115b91d670800000000000000
+      internalID: 8561795139307697662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 68
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a29e50f2af4d930800000000000000
+      internalID: 4167230635094125146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 109
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47955333808facea0800000000000000
+      internalID: -5851592051711977100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet YELLOW without shadow_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 70
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d900a6809382230800000000000000
+      internalID: 3614201409265769735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hero spritesheet YELLOW without shadow_0: -2992896784773562367
+      Hero spritesheet YELLOW without shadow_1: -7137710987548204916
+      Hero spritesheet YELLOW without shadow_10: 9132855723381030743
+      Hero spritesheet YELLOW without shadow_11: -6114126028791384832
+      Hero spritesheet YELLOW without shadow_12: 6472604931765751795
+      Hero spritesheet YELLOW without shadow_13: -6322174866882583223
+      Hero spritesheet YELLOW without shadow_14: 3844335287713687760
+      Hero spritesheet YELLOW without shadow_15: 4273332750582742130
+      Hero spritesheet YELLOW without shadow_16: 819711219359672365
+      Hero spritesheet YELLOW without shadow_17: -9060918240482997067
+      Hero spritesheet YELLOW without shadow_18: -4740555981097869290
+      Hero spritesheet YELLOW without shadow_19: 5942694977721220428
+      Hero spritesheet YELLOW without shadow_2: 5335244266798899742
+      Hero spritesheet YELLOW without shadow_20: 1934702100925788255
+      Hero spritesheet YELLOW without shadow_21: -3749050051671585845
+      Hero spritesheet YELLOW without shadow_22: 4564518021578588975
+      Hero spritesheet YELLOW without shadow_23: -198199008162250724
+      Hero spritesheet YELLOW without shadow_24: -6226840633456296052
+      Hero spritesheet YELLOW without shadow_25: 8363113634546504188
+      Hero spritesheet YELLOW without shadow_26: -2373408245196141441
+      Hero spritesheet YELLOW without shadow_27: -67288133969694933
+      Hero spritesheet YELLOW without shadow_28: 8042485465703610793
+      Hero spritesheet YELLOW without shadow_29: 8561795139307697662
+      Hero spritesheet YELLOW without shadow_3: 417078886273387201
+      Hero spritesheet YELLOW without shadow_30: 4167230635094125146
+      Hero spritesheet YELLOW without shadow_31: -5851592051711977100
+      Hero spritesheet YELLOW without shadow_32: 3614201409265769735
+      Hero spritesheet YELLOW without shadow_4: 6278779620442182599
+      Hero spritesheet YELLOW without shadow_5: 4896458481204320197
+      Hero spritesheet YELLOW without shadow_6: 3204827158087362489
+      Hero spritesheet YELLOW without shadow_7: -1314495767527844171
+      Hero spritesheet YELLOW without shadow_8: -8496689314774756837
+      Hero spritesheet YELLOW without shadow_9: 169721920538156168
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

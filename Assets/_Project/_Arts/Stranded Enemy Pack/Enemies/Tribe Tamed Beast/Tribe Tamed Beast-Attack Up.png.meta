@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 9a1bae8a868a8d145a347c37ae1163de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8748995078993374811
+    second: Tribe Tamed Beast-Attack Up_0
+  - first:
+      213: 4948556043786281075
+    second: Tribe Tamed Beast-Attack Up_1
+  - first:
+      213: 7821637961539236393
+    second: Tribe Tamed Beast-Attack Up_2
+  - first:
+      213: 353156158754924564
+    second: Tribe Tamed Beast-Attack Up_3
+  - first:
+      213: 3535604119295192907
+    second: Tribe Tamed Beast-Attack Up_4
+  - first:
+      213: -8497919226281053447
+    second: Tribe Tamed Beast-Attack Up_5
+  - first:
+      213: 6010336249432185666
+    second: Tribe Tamed Beast-Attack Up_6
+  - first:
+      213: -1377652318892111806
+    second: Tribe Tamed Beast-Attack Up_7
+  - first:
+      213: -8279136471470742333
+    second: Tribe Tamed Beast-Attack Up_8
+  - first:
+      213: 3246238782737695315
+    second: Tribe Tamed Beast-Attack Up_9
+  - first:
+      213: 7520010834484023102
+    second: Tribe Tamed Beast-Attack Up_10
+  - first:
+      213: -1277597604886147179
+    second: Tribe Tamed Beast-Attack Up_11
+  - first:
+      213: 765879476594582673
+    second: Tribe Tamed Beast-Attack Up_12
+  - first:
+      213: 4132630502613180653
+    second: Tribe Tamed Beast-Attack Up_13
+  - first:
+      213: 5736135310716429549
+    second: Tribe Tamed Beast-Attack Up_14
+  - first:
+      213: -4991689248489860258
+    second: Tribe Tamed Beast-Attack Up_15
+  - first:
+      213: -5622373179937580778
+    second: Tribe Tamed Beast-Attack Up_16
+  - first:
+      213: -8179745068326790333
+    second: Tribe Tamed Beast-Attack Up_17
+  - first:
+      213: -3964265192038944142
+    second: Tribe Tamed Beast-Attack Up_18
+  - first:
+      213: -5157597649708837161
+    second: Tribe Tamed Beast-Attack Up_19
+  - first:
+      213: 6421180951223075562
+    second: Tribe Tamed Beast-Attack Up_20
+  - first:
+      213: 7929952983530678422
+    second: Tribe Tamed Beast-Attack Up_21
+  - first:
+      213: -3592349574699156039
+    second: Tribe Tamed Beast-Attack Up_22
+  - first:
+      213: -881658224461548142
+    second: Tribe Tamed Beast-Attack Up_23
+  - first:
+      213: -8897790200904762003
+    second: Tribe Tamed Beast-Attack Up_24
+  - first:
+      213: 2671563647797854979
+    second: Tribe Tamed Beast-Attack Up_25
+  - first:
+      213: 8628549280539505957
+    second: Tribe Tamed Beast-Attack Up_26
+  - first:
+      213: 2428765515116538795
+    second: Tribe Tamed Beast-Attack Up_27
+  - first:
+      213: 1346743644537321587
+    second: Tribe Tamed Beast-Attack Up_28
+  - first:
+      213: 7145511240005806519
+    second: Tribe Tamed Beast-Attack Up_29
+  - first:
+      213: 114298262853844940
+    second: Tribe Tamed Beast-Attack Up_30
+  - first:
+      213: 3693741375467773854
+    second: Tribe Tamed Beast-Attack Up_31
+  - first:
+      213: 5885876396195599702
+    second: Tribe Tamed Beast-Attack Up_32
+  - first:
+      213: -8115520290763192519
+    second: Tribe Tamed Beast-Attack Up_33
+  - first:
+      213: 5335032678346765438
+    second: Tribe Tamed Beast-Attack Up_34
+  - first:
+      213: -3332852290355438394
+    second: Tribe Tamed Beast-Attack Up_35
+  - first:
+      213: -611932562419588615
+    second: Tribe Tamed Beast-Attack Up_36
+  - first:
+      213: 5660989504903757537
+    second: Tribe Tamed Beast-Attack Up_37
+  - first:
+      213: -7911925534480894917
+    second: Tribe Tamed Beast-Attack Up_38
+  - first:
+      213: 6432246469562105061
+    second: Tribe Tamed Beast-Attack Up_39
+  - first:
+      213: -7509935833722028403
+    second: Tribe Tamed Beast-Attack Up_40
+  - first:
+      213: 3809056383762004058
+    second: Tribe Tamed Beast-Attack Up_41
+  - first:
+      213: -2637290565533953357
+    second: Tribe Tamed Beast-Attack Up_42
+  - first:
+      213: -7113805236940961619
+    second: Tribe Tamed Beast-Attack Up_43
+  - first:
+      213: 2045967118687223000
+    second: Tribe Tamed Beast-Attack Up_44
+  - first:
+      213: -8187025580187148969
+    second: Tribe Tamed Beast-Attack Up_45
+  - first:
+      213: -6921191878311235068
+    second: Tribe Tamed Beast-Attack Up_46
+  - first:
+      213: -335952893985862630
+    second: Tribe Tamed Beast-Attack Up_47
+  - first:
+      213: -3413120329821926099
+    second: Tribe Tamed Beast-Attack Up_48
+  - first:
+      213: -8978772782436616789
+    second: Tribe Tamed Beast-Attack Up_49
+  - first:
+      213: -7480523876111761484
+    second: Tribe Tamed Beast-Attack Up_50
+  - first:
+      213: 3620119966618082672
+    second: Tribe Tamed Beast-Attack Up_51
+  - first:
+      213: -7488638898937612433
+    second: Tribe Tamed Beast-Attack Up_52
+  - first:
+      213: 3139577000731647728
+    second: Tribe Tamed Beast-Attack Up_53
+  - first:
+      213: -2132228200526336191
+    second: Tribe Tamed Beast-Attack Up_54
+  - first:
+      213: -6524879589550241979
+    second: Tribe Tamed Beast-Attack Up_55
+  - first:
+      213: -2697055995868994958
+    second: Tribe Tamed Beast-Attack Up_56
+  - first:
+      213: 1060881138919860671
+    second: Tribe Tamed Beast-Attack Up_57
+  - first:
+      213: 545517342664087179
+    second: Tribe Tamed Beast-Attack Up_58
+  - first:
+      213: -6870726994773929216
+    second: Tribe Tamed Beast-Attack Up_59
+  - first:
+      213: -4901114577509254025
+    second: Tribe Tamed Beast-Attack Up_60
+  - first:
+      213: 3070574185142851289
+    second: Tribe Tamed Beast-Attack Up_61
+  - first:
+      213: 2848238333469079433
+    second: Tribe Tamed Beast-Attack Up_62
+  - first:
+      213: 5962468643058499009
+    second: Tribe Tamed Beast-Attack Up_63
+  - first:
+      213: 4011203251868723926
+    second: Tribe Tamed Beast-Attack Up_64
+  - first:
+      213: -2717436251753393570
+    second: Tribe Tamed Beast-Attack Up_65
+  - first:
+      213: -7854254388614076683
+    second: Tribe Tamed Beast-Attack Up_66
+  - first:
+      213: -4292165675231469000
+    second: Tribe Tamed Beast-Attack Up_67
+  - first:
+      213: -4194119833567920530
+    second: Tribe Tamed Beast-Attack Up_68
+  - first:
+      213: 6949829770022697492
+    second: Tribe Tamed Beast-Attack Up_69
+  - first:
+      213: 2787818527764619022
+    second: Tribe Tamed Beast-Attack Up_70
+  - first:
+      213: -6365207408629971519
+    second: Tribe Tamed Beast-Attack Up_71
+  - first:
+      213: 7398391964585710439
+    second: Tribe Tamed Beast-Attack Up_72
+  - first:
+      213: 7879264720677439679
+    second: Tribe Tamed Beast-Attack Up_73
+  - first:
+      213: 2069960709806758920
+    second: Tribe Tamed Beast-Attack Up_74
+  - first:
+      213: 3693435637461348780
+    second: Tribe Tamed Beast-Attack Up_75
+  - first:
+      213: 560555219344921555
+    second: Tribe Tamed Beast-Attack Up_76
+  - first:
+      213: 6198615847468433490
+    second: Tribe Tamed Beast-Attack Up_77
+  - first:
+      213: -8013087371360755003
+    second: Tribe Tamed Beast-Attack Up_78
+  - first:
+      213: 2842280618100300929
+    second: Tribe Tamed Beast-Attack Up_79
+  - first:
+      213: 4887796459826342481
+    second: Tribe Tamed Beast-Attack Up_80
+  - first:
+      213: -6174364208561756868
+    second: Tribe Tamed Beast-Attack Up_81
+  - first:
+      213: 8760248589697969586
+    second: Tribe Tamed Beast-Attack Up_82
+  - first:
+      213: 1538232633435073064
+    second: Tribe Tamed Beast-Attack Up_83
+  - first:
+      213: -1582067098731861405
+    second: Tribe Tamed Beast-Attack Up_84
+  - first:
+      213: 9159455914836686626
+    second: Tribe Tamed Beast-Attack Up_85
+  - first:
+      213: 1911846443051609362
+    second: Tribe Tamed Beast-Attack Up_86
+  - first:
+      213: 6908774531514300431
+    second: Tribe Tamed Beast-Attack Up_87
+  - first:
+      213: -994702958409522980
+    second: Tribe Tamed Beast-Attack Up_88
+  - first:
+      213: 1366203654958499076
+    second: Tribe Tamed Beast-Attack Up_89
+  - first:
+      213: -2258151087214429839
+    second: Tribe Tamed Beast-Attack Up_90
+  - first:
+      213: -6023790933024175100
+    second: Tribe Tamed Beast-Attack Up_91
+  - first:
+      213: -7901908164971122065
+    second: Tribe Tamed Beast-Attack Up_92
+  - first:
+      213: 1033382219824394369
+    second: Tribe Tamed Beast-Attack Up_93
+  - first:
+      213: -3855511711179062381
+    second: Tribe Tamed Beast-Attack Up_94
+  - first:
+      213: -5625257725607530213
+    second: Tribe Tamed Beast-Attack Up_95
+  - first:
+      213: 7734091267329559754
+    second: Tribe Tamed Beast-Attack Up_96
+  - first:
+      213: 3584566956743221260
+    second: Tribe Tamed Beast-Attack Up_97
+  - first:
+      213: 3089928982106151691
+    second: Tribe Tamed Beast-Attack Up_98
+  - first:
+      213: 863941382327436094
+    second: Tribe Tamed Beast-Attack Up_99
+  - first:
+      213: -1784934927746209843
+    second: Tribe Tamed Beast-Attack Up_100
+  - first:
+      213: 4294099318476753652
+    second: Tribe Tamed Beast-Attack Up_101
+  - first:
+      213: 1373016883397067373
+    second: Tribe Tamed Beast-Attack Up_102
+  - first:
+      213: 784900377043906099
+    second: Tribe Tamed Beast-Attack Up_103
+  - first:
+      213: -3765070579572009009
+    second: Tribe Tamed Beast-Attack Up_104
+  - first:
+      213: -516853484453455401
+    second: Tribe Tamed Beast-Attack Up_105
+  - first:
+      213: 6547289551714657114
+    second: Tribe Tamed Beast-Attack Up_106
+  - first:
+      213: -3425399942686205647
+    second: Tribe Tamed Beast-Attack Up_107
+  - first:
+      213: 4104685722374583179
+    second: Tribe Tamed Beast-Attack Up_108
+  - first:
+      213: 2668535534173434174
+    second: Tribe Tamed Beast-Attack Up_109
+  - first:
+      213: 3860039123301911926
+    second: Tribe Tamed Beast-Attack Up_110
+  - first:
+      213: -5931138037072470415
+    second: Tribe Tamed Beast-Attack Up_111
+  - first:
+      213: -1362040658453624214
+    second: Tribe Tamed Beast-Attack Up_112
+  - first:
+      213: -7481142462252362226
+    second: Tribe Tamed Beast-Attack Up_113
+  - first:
+      213: 1193124698496025240
+    second: Tribe Tamed Beast-Attack Up_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e6a019bacaa6970800000000000000
+      internalID: 8748995078993374811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3706ef4d08dcca440800000000000000
+      internalID: 4948556043786281075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922b143094a0c8c60800000000000000
+      internalID: 7821637961539236393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41824d0c7a9a6e400800000000000000
+      internalID: 353156158754924564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f6ffcc63df01130800000000000000
+      internalID: 3535604119295192907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f23e83dc73511a80800000000000000
+      internalID: -8497919226281053447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b1f0889f0096350800000000000000
+      internalID: 6010336249432185666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248417cd38891ece0800000000000000
+      internalID: -1377652318892111806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_8
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c461037e399a1d80800000000000000
+      internalID: -8279136471470742333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3524d2d39f4fc0d20800000000000000
+      internalID: 3246238782737695315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_10
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f4280e2027c5860800000000000000
+      internalID: 7520010834484023102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f0fd25fbf054ee0800000000000000
+      internalID: -1277597604886147179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_12
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194ae2f7353f0aa00800000000000000
+      internalID: 765879476594582673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_13
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0e338eb8d0a5930800000000000000
+      internalID: 4132630502613180653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_14
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4e3da7ca8da9f40800000000000000
+      internalID: 5736135310716429549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Up_15
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5310aa5315f9bab0800000000000000
+      internalID: -4991689248489860258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 52627ea505251104d8a3fdff8948bd1b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":1.0},"gridSpriteSize":{"x":76.0,"y":67.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tribe Tamed Beast-Attack Up_0: 8748995078993374811
+      Tribe Tamed Beast-Attack Up_1: 4948556043786281075
+      Tribe Tamed Beast-Attack Up_10: 7520010834484023102
+      Tribe Tamed Beast-Attack Up_11: -1277597604886147179
+      Tribe Tamed Beast-Attack Up_12: 765879476594582673
+      Tribe Tamed Beast-Attack Up_13: 4132630502613180653
+      Tribe Tamed Beast-Attack Up_14: 5736135310716429549
+      Tribe Tamed Beast-Attack Up_15: -4991689248489860258
+      Tribe Tamed Beast-Attack Up_2: 7821637961539236393
+      Tribe Tamed Beast-Attack Up_3: 353156158754924564
+      Tribe Tamed Beast-Attack Up_4: 3535604119295192907
+      Tribe Tamed Beast-Attack Up_5: -8497919226281053447
+      Tribe Tamed Beast-Attack Up_6: 6010336249432185666
+      Tribe Tamed Beast-Attack Up_7: -1377652318892111806
+      Tribe Tamed Beast-Attack Up_8: -8279136471470742333
+      Tribe Tamed Beast-Attack Up_9: 3246238782737695315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

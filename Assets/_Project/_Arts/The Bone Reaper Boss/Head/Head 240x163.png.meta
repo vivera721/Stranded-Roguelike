@@ -1,0 +1,6090 @@
+fileFormatVersion: 2
+guid: b60b38c9f6bc9994296db2c093f2d914
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2494238965667511044
+    second: Head 240x163_0
+  - first:
+      213: 5172005513529879251
+    second: Head 240x163_1
+  - first:
+      213: -8807436877840290785
+    second: Head 240x163_2
+  - first:
+      213: 470938954364671221
+    second: Head 240x163_3
+  - first:
+      213: 6405511891144516879
+    second: Head 240x163_4
+  - first:
+      213: -7984100240244832401
+    second: Head 240x163_5
+  - first:
+      213: -4898488248988864496
+    second: Head 240x163_6
+  - first:
+      213: 3997757053851486236
+    second: Head 240x163_7
+  - first:
+      213: 708366164277219336
+    second: Head 240x163_8
+  - first:
+      213: -2489248923663813618
+    second: Head 240x163_9
+  - first:
+      213: -654091924937296964
+    second: Head 240x163_10
+  - first:
+      213: 5921823855299504872
+    second: Head 240x163_11
+  - first:
+      213: 4412441081142196916
+    second: Head 240x163_12
+  - first:
+      213: 8700991737325695055
+    second: Head 240x163_13
+  - first:
+      213: 9202499777655426550
+    second: Head 240x163_14
+  - first:
+      213: -5460388878345579356
+    second: Head 240x163_15
+  - first:
+      213: 8499995310638172674
+    second: Head 240x163_16
+  - first:
+      213: -4475728137063614069
+    second: Head 240x163_17
+  - first:
+      213: -6420203987813358033
+    second: Head 240x163_18
+  - first:
+      213: -8876702340212600763
+    second: Head 240x163_19
+  - first:
+      213: 3537044706526983231
+    second: Head 240x163_20
+  - first:
+      213: -1892334060015165717
+    second: Head 240x163_21
+  - first:
+      213: -8287818291473368999
+    second: Head 240x163_22
+  - first:
+      213: 4332078628018996354
+    second: Head 240x163_23
+  - first:
+      213: -2224213709223533971
+    second: Head 240x163_24
+  - first:
+      213: -1300079892249891672
+    second: Head 240x163_25
+  - first:
+      213: -6463926853484802879
+    second: Head 240x163_26
+  - first:
+      213: -5839296880509933369
+    second: Head 240x163_27
+  - first:
+      213: 1268055108088050397
+    second: Head 240x163_28
+  - first:
+      213: 2829673417263866067
+    second: Head 240x163_29
+  - first:
+      213: -1634659287938603540
+    second: Head 240x163_30
+  - first:
+      213: -1308608676033747459
+    second: Head 240x163_31
+  - first:
+      213: -8079955148413898886
+    second: Head 240x163_32
+  - first:
+      213: -1870526670013093781
+    second: Head 240x163_33
+  - first:
+      213: -4113630044936905749
+    second: Head 240x163_34
+  - first:
+      213: -272451925600431491
+    second: Head 240x163_35
+  - first:
+      213: 2732007438905025281
+    second: Head 240x163_36
+  - first:
+      213: -1639844590743734941
+    second: Head 240x163_37
+  - first:
+      213: 3826711696378944476
+    second: Head 240x163_38
+  - first:
+      213: -7472517496871075952
+    second: Head 240x163_39
+  - first:
+      213: 124238796035399964
+    second: Head 240x163_40
+  - first:
+      213: 4078008535650694210
+    second: Head 240x163_41
+  - first:
+      213: 1663089792048614103
+    second: Head 240x163_42
+  - first:
+      213: -1839724549705213060
+    second: Head 240x163_43
+  - first:
+      213: -4022018602008217085
+    second: Head 240x163_44
+  - first:
+      213: 6522781393109964062
+    second: Head 240x163_45
+  - first:
+      213: -558313317101419610
+    second: Head 240x163_46
+  - first:
+      213: 871427394335684366
+    second: Head 240x163_47
+  - first:
+      213: 6097778201811122296
+    second: Head 240x163_48
+  - first:
+      213: 9108744165719325985
+    second: Head 240x163_49
+  - first:
+      213: -4657100274468164940
+    second: Head 240x163_50
+  - first:
+      213: 4056335443412445320
+    second: Head 240x163_51
+  - first:
+      213: -412674978117708097
+    second: Head 240x163_52
+  - first:
+      213: 7073221890108132627
+    second: Head 240x163_53
+  - first:
+      213: 1726335089004923076
+    second: Head 240x163_54
+  - first:
+      213: -7222078203032136726
+    second: Head 240x163_55
+  - first:
+      213: -5459783881900503325
+    second: Head 240x163_56
+  - first:
+      213: -2992831281126934553
+    second: Head 240x163_57
+  - first:
+      213: -6083954808321805808
+    second: Head 240x163_58
+  - first:
+      213: -3080395677087622394
+    second: Head 240x163_59
+  - first:
+      213: -3679472090978271414
+    second: Head 240x163_60
+  - first:
+      213: 711344037577468153
+    second: Head 240x163_61
+  - first:
+      213: 8228484270228275182
+    second: Head 240x163_62
+  - first:
+      213: 4230350497070109962
+    second: Head 240x163_63
+  - first:
+      213: 4095188469816656335
+    second: Head 240x163_64
+  - first:
+      213: 1279968608712941584
+    second: Head 240x163_65
+  - first:
+      213: -4656877690098833619
+    second: Head 240x163_66
+  - first:
+      213: -640306956827145342
+    second: Head 240x163_67
+  - first:
+      213: -4911853029557465107
+    second: Head 240x163_68
+  - first:
+      213: -4699650802207452000
+    second: Head 240x163_69
+  - first:
+      213: -5836810666362888457
+    second: Head 240x163_70
+  - first:
+      213: -6532140456642409888
+    second: Head 240x163_71
+  - first:
+      213: -8096113319895132292
+    second: Head 240x163_72
+  - first:
+      213: 79598180984918922
+    second: Head 240x163_73
+  - first:
+      213: 3245341490404074013
+    second: Head 240x163_74
+  - first:
+      213: -417126133642614138
+    second: Head 240x163_75
+  - first:
+      213: 4083424064553534315
+    second: Head 240x163_76
+  - first:
+      213: -1171501157487225034
+    second: Head 240x163_77
+  - first:
+      213: -218940766261357033
+    second: Head 240x163_78
+  - first:
+      213: -7274234111002301187
+    second: Head 240x163_79
+  - first:
+      213: -1647680105250735710
+    second: Head 240x163_80
+  - first:
+      213: 6754955628431468610
+    second: Head 240x163_81
+  - first:
+      213: 3566455724615197288
+    second: Head 240x163_82
+  - first:
+      213: 3499623082851226769
+    second: Head 240x163_83
+  - first:
+      213: 3141655789263113027
+    second: Head 240x163_84
+  - first:
+      213: -1764789604531695348
+    second: Head 240x163_85
+  - first:
+      213: -8044044866458271217
+    second: Head 240x163_86
+  - first:
+      213: -6162018708722724281
+    second: Head 240x163_87
+  - first:
+      213: -1725857579353056924
+    second: Head 240x163_88
+  - first:
+      213: -749894203677319415
+    second: Head 240x163_89
+  - first:
+      213: 851797564302962116
+    second: Head 240x163_90
+  - first:
+      213: 186296684330174231
+    second: Head 240x163_91
+  - first:
+      213: -7263699488294460459
+    second: Head 240x163_92
+  - first:
+      213: 3058753594332805038
+    second: Head 240x163_93
+  - first:
+      213: -3603009472531628111
+    second: Head 240x163_94
+  - first:
+      213: 3419450873480206352
+    second: Head 240x163_95
+  - first:
+      213: -561864914887886321
+    second: Head 240x163_96
+  - first:
+      213: -5366882177171037703
+    second: Head 240x163_97
+  - first:
+      213: -6520086996555526171
+    second: Head 240x163_98
+  - first:
+      213: -8258412148708976030
+    second: Head 240x163_99
+  - first:
+      213: 6821685240939286480
+    second: Head 240x163_100
+  - first:
+      213: 939365601603704143
+    second: Head 240x163_101
+  - first:
+      213: 1755605688345905559
+    second: Head 240x163_102
+  - first:
+      213: 6740234351630295609
+    second: Head 240x163_103
+  - first:
+      213: -8107745582982514686
+    second: Head 240x163_104
+  - first:
+      213: -2833667137651461792
+    second: Head 240x163_105
+  - first:
+      213: -9071671016826702393
+    second: Head 240x163_106
+  - first:
+      213: 1468881693296602460
+    second: Head 240x163_107
+  - first:
+      213: 149407278653375802
+    second: Head 240x163_108
+  - first:
+      213: 1397840161171319328
+    second: Head 240x163_109
+  - first:
+      213: -2108491693998826633
+    second: Head 240x163_110
+  - first:
+      213: 2049416270355305554
+    second: Head 240x163_111
+  - first:
+      213: -3456844086768507573
+    second: Head 240x163_112
+  - first:
+      213: -3045234371043407928
+    second: Head 240x163_113
+  - first:
+      213: 7125825789517192720
+    second: Head 240x163_114
+  - first:
+      213: 8943785779048483811
+    second: Head 240x163_115
+  - first:
+      213: 159394849216689655
+    second: Head 240x163_116
+  - first:
+      213: 6137897783232106120
+    second: Head 240x163_117
+  - first:
+      213: 992800392445697674
+    second: Head 240x163_118
+  - first:
+      213: 2054573995917020871
+    second: Head 240x163_119
+  - first:
+      213: 8939675252624557313
+    second: Head 240x163_120
+  - first:
+      213: 67481494470087074
+    second: Head 240x163_121
+  - first:
+      213: -3297116215816144941
+    second: Head 240x163_122
+  - first:
+      213: -7819906232712348515
+    second: Head 240x163_123
+  - first:
+      213: -6898760443854976471
+    second: Head 240x163_124
+  - first:
+      213: 3708735688529184429
+    second: Head 240x163_125
+  - first:
+      213: 5220878563547982945
+    second: Head 240x163_126
+  - first:
+      213: -3780612840430240347
+    second: Head 240x163_127
+  - first:
+      213: 6786136608246877632
+    second: Head 240x163_128
+  - first:
+      213: -7607499800195847923
+    second: Head 240x163_129
+  - first:
+      213: -6014901460411978134
+    second: Head 240x163_130
+  - first:
+      213: -7046924763267882613
+    second: Head 240x163_131
+  - first:
+      213: 7673415541599914033
+    second: Head 240x163_132
+  - first:
+      213: 4969545212286817856
+    second: Head 240x163_133
+  - first:
+      213: -6186679337820053405
+    second: Head 240x163_134
+  - first:
+      213: -1025371176480661892
+    second: Head 240x163_135
+  - first:
+      213: -2497205615259221710
+    second: Head 240x163_136
+  - first:
+      213: 3264843278374953686
+    second: Head 240x163_137
+  - first:
+      213: 8883614402301362002
+    second: Head 240x163_138
+  - first:
+      213: 3685301246017541010
+    second: Head 240x163_139
+  - first:
+      213: -2327451826111515398
+    second: Head 240x163_140
+  - first:
+      213: -2771296944761090900
+    second: Head 240x163_141
+  - first:
+      213: 7969410157810450777
+    second: Head 240x163_142
+  - first:
+      213: -642642927583988774
+    second: Head 240x163_143
+  - first:
+      213: 8142739512216202648
+    second: Head 240x163_144
+  - first:
+      213: -5290458508811697949
+    second: Head 240x163_145
+  - first:
+      213: -8399449171958080114
+    second: Head 240x163_146
+  - first:
+      213: -1199298569672737843
+    second: Head 240x163_147
+  - first:
+      213: 1471954194177567039
+    second: Head 240x163_148
+  - first:
+      213: -8790746321219978907
+    second: Head 240x163_149
+  - first:
+      213: 712936890206063881
+    second: Head 240x163_150
+  - first:
+      213: -4605642445505182481
+    second: Head 240x163_151
+  - first:
+      213: 8874106842734474063
+    second: Head 240x163_152
+  - first:
+      213: 2733927441956454604
+    second: Head 240x163_153
+  - first:
+      213: 5747138473228133645
+    second: Head 240x163_154
+  - first:
+      213: -1753961983822421750
+    second: Head 240x163_155
+  - first:
+      213: -3851894509216889307
+    second: Head 240x163_156
+  - first:
+      213: -3591841584167429624
+    second: Head 240x163_157
+  - first:
+      213: -2691276942151839245
+    second: Head 240x163_158
+  - first:
+      213: -6647979624294725949
+    second: Head 240x163_159
+  - first:
+      213: 6923130120963988515
+    second: Head 240x163_160
+  - first:
+      213: 8299952044289096539
+    second: Head 240x163_161
+  - first:
+      213: -2928727847447472843
+    second: Head 240x163_162
+  - first:
+      213: 2603252653242250972
+    second: Head 240x163_163
+  - first:
+      213: -6386955256743576409
+    second: Head 240x163_164
+  - first:
+      213: 1389279360654896436
+    second: Head 240x163_165
+  - first:
+      213: 6837772598847670833
+    second: Head 240x163_166
+  - first:
+      213: -573755495656059763
+    second: Head 240x163_167
+  - first:
+      213: 2923852912172036098
+    second: Head 240x163_168
+  - first:
+      213: 1161560190022688872
+    second: Head 240x163_169
+  - first:
+      213: 6917662087370593084
+    second: Head 240x163_170
+  - first:
+      213: 2814657912487131027
+    second: Head 240x163_171
+  - first:
+      213: 3094138934301672865
+    second: Head 240x163_172
+  - first:
+      213: -3332971169448785993
+    second: Head 240x163_173
+  - first:
+      213: 2840570603408592980
+    second: Head 240x163_174
+  - first:
+      213: 6481511162342770719
+    second: Head 240x163_175
+  - first:
+      213: -7092310704449642010
+    second: Head 240x163_176
+  - first:
+      213: -7089412070150739119
+    second: Head 240x163_177
+  - first:
+      213: 3428884068881612893
+    second: Head 240x163_178
+  - first:
+      213: 4015639333120756285
+    second: Head 240x163_179
+  - first:
+      213: 3892321418442069799
+    second: Head 240x163_180
+  - first:
+      213: 8301672373547105
+    second: Head 240x163_181
+  - first:
+      213: 3208213696668151395
+    second: Head 240x163_182
+  - first:
+      213: -3534219159153220779
+    second: Head 240x163_183
+  - first:
+      213: 889349814110995092
+    second: Head 240x163_184
+  - first:
+      213: 8821636862202854698
+    second: Head 240x163_185
+  - first:
+      213: -4094796411692328830
+    second: Head 240x163_186
+  - first:
+      213: 4678182083931317783
+    second: Head 240x163_187
+  - first:
+      213: 7167045777093242310
+    second: Head 240x163_188
+  - first:
+      213: 6821567020185019749
+    second: Head 240x163_189
+  - first:
+      213: 3323511205350897593
+    second: Head 240x163_190
+  - first:
+      213: 7126056028317499526
+    second: Head 240x163_191
+  - first:
+      213: -86767614808594202
+    second: Head 240x163_192
+  - first:
+      213: 5376249767356212969
+    second: Head 240x163_193
+  - first:
+      213: 4311910273778003530
+    second: Head 240x163_194
+  - first:
+      213: 2719569713806889001
+    second: Head 240x163_195
+  - first:
+      213: -6985989730003772413
+    second: Head 240x163_196
+  - first:
+      213: -8430127879482491588
+    second: Head 240x163_197
+  - first:
+      213: -6071653650056126911
+    second: Head 240x163_198
+  - first:
+      213: -2333476540451316802
+    second: Head 240x163_199
+  - first:
+      213: 2925553074805179964
+    second: Head 240x163_200
+  - first:
+      213: 1583953783947954091
+    second: Head 240x163_201
+  - first:
+      213: 3912779551302229258
+    second: Head 240x163_202
+  - first:
+      213: -8443772636870736270
+    second: Head 240x163_203
+  - first:
+      213: 8482118987129537511
+    second: Head 240x163_204
+  - first:
+      213: -7531483666823354088
+    second: Head 240x163_205
+  - first:
+      213: -1516792364192732773
+    second: Head 240x163_206
+  - first:
+      213: 2193399005452553422
+    second: Head 240x163_207
+  - first:
+      213: -7143125676359250269
+    second: Head 240x163_208
+  - first:
+      213: -5220540043232941924
+    second: Head 240x163_209
+  - first:
+      213: 5220934515214710557
+    second: Head 240x163_210
+  - first:
+      213: -2202147993297491299
+    second: Head 240x163_211
+  - first:
+      213: -5562143299779881245
+    second: Head 240x163_212
+  - first:
+      213: 6348247255850936660
+    second: Head 240x163_213
+  - first:
+      213: 5207454009015501554
+    second: Head 240x163_214
+  - first:
+      213: 8093308245044778723
+    second: Head 240x163_215
+  - first:
+      213: 2912213010962330992
+    second: Head 240x163_216
+  - first:
+      213: -8375605183181069610
+    second: Head 240x163_217
+  - first:
+      213: 7600896919777946726
+    second: Head 240x163_218
+  - first:
+      213: 1653051198814019217
+    second: Head 240x163_219
+  - first:
+      213: 733948000288890449
+    second: Head 240x163_220
+  - first:
+      213: 4946746004175323250
+    second: Head 240x163_221
+  - first:
+      213: 652140387997263118
+    second: Head 240x163_222
+  - first:
+      213: 3407768113913791877
+    second: Head 240x163_223
+  - first:
+      213: 7073498820615997499
+    second: Head 240x163_224
+  - first:
+      213: 8129386153834422173
+    second: Head 240x163_225
+  - first:
+      213: 5900262015843250520
+    second: Head 240x163_226
+  - first:
+      213: 4283127047743331859
+    second: Head 240x163_227
+  - first:
+      213: -5187452764470867633
+    second: Head 240x163_228
+  - first:
+      213: -8740236142717775765
+    second: Head 240x163_229
+  - first:
+      213: -1172111113046146275
+    second: Head 240x163_230
+  - first:
+      213: -8384001775645347273
+    second: Head 240x163_231
+  - first:
+      213: 9133900561150397844
+    second: Head 240x163_232
+  - first:
+      213: -6233874900969222099
+    second: Head 240x163_233
+  - first:
+      213: 1386626573250154445
+    second: Head 240x163_234
+  - first:
+      213: -4643055778467676862
+    second: Head 240x163_235
+  - first:
+      213: 5945411411776833290
+    second: Head 240x163_236
+  - first:
+      213: -6260959873650107214
+    second: Head 240x163_237
+  - first:
+      213: 1455911898169767757
+    second: Head 240x163_238
+  - first:
+      213: 4407033168189037056
+    second: Head 240x163_239
+  - first:
+      213: 4555172758807257043
+    second: Head 240x163_240
+  - first:
+      213: -4142814989616961160
+    second: Head 240x163_241
+  - first:
+      213: -2751879302120997570
+    second: Head 240x163_242
+  - first:
+      213: -6814590059483952567
+    second: Head 240x163_243
+  - first:
+      213: -5192270912410584129
+    second: Head 240x163_244
+  - first:
+      213: -8983204254969521527
+    second: Head 240x163_245
+  - first:
+      213: 1006544579866465389
+    second: Head 240x163_246
+  - first:
+      213: 6889139765392117211
+    second: Head 240x163_247
+  - first:
+      213: 395535826960523439
+    second: Head 240x163_248
+  - first:
+      213: 2829697776346634661
+    second: Head 240x163_249
+  - first:
+      213: 7305433023561163093
+    second: Head 240x163_250
+  - first:
+      213: -7235664828064080564
+    second: Head 240x163_251
+  - first:
+      213: -7678667694087484488
+    second: Head 240x163_252
+  - first:
+      213: 3926134885568058997
+    second: Head 240x163_253
+  - first:
+      213: -3958900457703684562
+    second: Head 240x163_254
+  - first:
+      213: 166001570829392832
+    second: Head 240x163_255
+  - first:
+      213: -6886561942232176976
+    second: Head 240x163_256
+  - first:
+      213: 7546548566669280351
+    second: Head 240x163_257
+  - first:
+      213: -3806004541587495840
+    second: Head 240x163_258
+  - first:
+      213: -3722526013320951742
+    second: Head 240x163_259
+  - first:
+      213: -8602093266451407475
+    second: Head 240x163_260
+  - first:
+      213: -7126675729432623273
+    second: Head 240x163_261
+  - first:
+      213: 1498050644208624397
+    second: Head 240x163_262
+  - first:
+      213: 1936339364200750202
+    second: Head 240x163_263
+  - first:
+      213: -6265339809311708331
+    second: Head 240x163_264
+  - first:
+      213: 463402034698104968
+    second: Head 240x163_265
+  - first:
+      213: 3215395740007109209
+    second: Head 240x163_266
+  - first:
+      213: -8786121183551340894
+    second: Head 240x163_267
+  - first:
+      213: -1765100713268647897
+    second: Head 240x163_268
+  - first:
+      213: -21831287735180482
+    second: Head 240x163_269
+  - first:
+      213: -3487917251308887163
+    second: Head 240x163_270
+  - first:
+      213: 8367583623474497565
+    second: Head 240x163_271
+  - first:
+      213: -3853371519130793201
+    second: Head 240x163_272
+  - first:
+      213: 7409280135790272025
+    second: Head 240x163_273
+  - first:
+      213: 2363041361367354489
+    second: Head 240x163_274
+  - first:
+      213: -7546976262767554811
+    second: Head 240x163_275
+  - first:
+      213: 694979870085648316
+    second: Head 240x163_276
+  - first:
+      213: -9030764053744188178
+    second: Head 240x163_277
+  - first:
+      213: 1412588727532143045
+    second: Head 240x163_278
+  - first:
+      213: -3403830808114691147
+    second: Head 240x163_279
+  - first:
+      213: 2484462951644520896
+    second: Head 240x163_280
+  - first:
+      213: 7063862262247821532
+    second: Head 240x163_281
+  - first:
+      213: -6382676157554284633
+    second: Head 240x163_282
+  - first:
+      213: 1376396245456723281
+    second: Head 240x163_283
+  - first:
+      213: 7631939659615797917
+    second: Head 240x163_284
+  - first:
+      213: 6542317406420897589
+    second: Head 240x163_285
+  - first:
+      213: 6471452588346260189
+    second: Head 240x163_286
+  - first:
+      213: 6565380293741876821
+    second: Head 240x163_287
+  - first:
+      213: -939398016369235397
+    second: Head 240x163_288
+  - first:
+      213: -1245421714103215708
+    second: Head 240x163_289
+  - first:
+      213: 2975547331194367621
+    second: Head 240x163_290
+  - first:
+      213: -8211269000368995677
+    second: Head 240x163_291
+  - first:
+      213: -2353055706278058399
+    second: Head 240x163_292
+  - first:
+      213: -8586151336246612076
+    second: Head 240x163_293
+  - first:
+      213: -4402369295873734800
+    second: Head 240x163_294
+  - first:
+      213: 4049510359374698181
+    second: Head 240x163_295
+  - first:
+      213: -4833538871322558902
+    second: Head 240x163_296
+  - first:
+      213: -6605211773349399977
+    second: Head 240x163_297
+  - first:
+      213: 6139601252544516268
+    second: Head 240x163_298
+  - first:
+      213: -7381220475236320916
+    second: Head 240x163_299
+  - first:
+      213: -8647823836973656422
+    second: Head 240x163_300
+  - first:
+      213: 2207523586456622572
+    second: Head 240x163_301
+  - first:
+      213: 3986171105656580720
+    second: Head 240x163_302
+  - first:
+      213: -7705784355749587449
+    second: Head 240x163_303
+  - first:
+      213: -928242860776195142
+    second: Head 240x163_304
+  - first:
+      213: 9121190131076646790
+    second: Head 240x163_305
+  - first:
+      213: -1219817186179788370
+    second: Head 240x163_306
+  - first:
+      213: 5269967209951012939
+    second: Head 240x163_307
+  - first:
+      213: -5953594496140523815
+    second: Head 240x163_308
+  - first:
+      213: -4129464002954815888
+    second: Head 240x163_309
+  - first:
+      213: 4616695347231685928
+    second: Head 240x163_310
+  - first:
+      213: -5704443311426755415
+    second: Head 240x163_311
+  - first:
+      213: -4449885225829652179
+    second: Head 240x163_312
+  - first:
+      213: -1405053443777085840
+    second: Head 240x163_313
+  - first:
+      213: 7347071301894730207
+    second: Head 240x163_314
+  - first:
+      213: 1916953887060306622
+    second: Head 240x163_315
+  - first:
+      213: -6127841885969223763
+    second: Head 240x163_316
+  - first:
+      213: 7142781911549015463
+    second: Head 240x163_317
+  - first:
+      213: -1520464424222215596
+    second: Head 240x163_318
+  - first:
+      213: -9188597441225882982
+    second: Head 240x163_319
+  - first:
+      213: -1455058145904304342
+    second: Head 240x163_320
+  - first:
+      213: 690447006795731167
+    second: Head 240x163_321
+  - first:
+      213: 4105256217967287660
+    second: Head 240x163_322
+  - first:
+      213: 4808968955139481706
+    second: Head 240x163_323
+  - first:
+      213: -1062220515972197120
+    second: Head 240x163_324
+  - first:
+      213: -2926986573849698486
+    second: Head 240x163_325
+  - first:
+      213: 5622527800336237714
+    second: Head 240x163_326
+  - first:
+      213: -2638026571904800280
+    second: Head 240x163_327
+  - first:
+      213: 8751620047434360002
+    second: Head 240x163_328
+  - first:
+      213: 3853523709592465518
+    second: Head 240x163_329
+  - first:
+      213: -6550515956865349099
+    second: Head 240x163_330
+  - first:
+      213: 1121251629123180187
+    second: Head 240x163_331
+  - first:
+      213: 5364886031945442367
+    second: Head 240x163_332
+  - first:
+      213: 1379713636597628235
+    second: Head 240x163_333
+  - first:
+      213: 4014096261793282842
+    second: Head 240x163_334
+  - first:
+      213: -3855557555108309919
+    second: Head 240x163_335
+  - first:
+      213: 5159808611366135197
+    second: Head 240x163_336
+  - first:
+      213: -5979198427511979764
+    second: Head 240x163_337
+  - first:
+      213: -5526625190186781061
+    second: Head 240x163_338
+  - first:
+      213: -574380865802874340
+    second: Head 240x163_339
+  - first:
+      213: -82445034393707365
+    second: Head 240x163_340
+  - first:
+      213: 8268742582268840819
+    second: Head 240x163_341
+  - first:
+      213: 2999469085451474312
+    second: Head 240x163_342
+  - first:
+      213: 6513610680986855606
+    second: Head 240x163_343
+  - first:
+      213: -476470075721482516
+    second: Head 240x163_344
+  - first:
+      213: -7340352470598106922
+    second: Head 240x163_345
+  - first:
+      213: -8724270835791456624
+    second: Head 240x163_346
+  - first:
+      213: -988947856675267001
+    second: Head 240x163_347
+  - first:
+      213: -2545540915512406404
+    second: Head 240x163_348
+  - first:
+      213: -583930044577207662
+    second: Head 240x163_349
+  - first:
+      213: -5740442316794396098
+    second: Head 240x163_350
+  - first:
+      213: 5265943863083783126
+    second: Head 240x163_351
+  - first:
+      213: 5318806785846292332
+    second: Head 240x163_352
+  - first:
+      213: 7383166357492854019
+    second: Head 240x163_353
+  - first:
+      213: -8241874943290463612
+    second: Head 240x163_354
+  - first:
+      213: 8187928494804332299
+    second: Head 240x163_355
+  - first:
+      213: 2085323069910653365
+    second: Head 240x163_356
+  - first:
+      213: 370497502632455407
+    second: Head 240x163_357
+  - first:
+      213: 5621790361511137989
+    second: Head 240x163_358
+  - first:
+      213: 2378547061925562890
+    second: Head 240x163_359
+  - first:
+      213: 629947362992595716
+    second: Head 240x163_360
+  - first:
+      213: -385572714590285822
+    second: Head 240x163_361
+  - first:
+      213: -159255989134509497
+    second: Head 240x163_362
+  - first:
+      213: -2260486699651267768
+    second: Head 240x163_363
+  - first:
+      213: 7431804517562497418
+    second: Head 240x163_364
+  - first:
+      213: -6593660134528117797
+    second: Head 240x163_365
+  - first:
+      213: 3029756635966390932
+    second: Head 240x163_366
+  - first:
+      213: -1637643511402868482
+    second: Head 240x163_367
+  - first:
+      213: -2536457719998551554
+    second: Head 240x163_368
+  - first:
+      213: 8732355279927464993
+    second: Head 240x163_369
+  - first:
+      213: 361691655672573996
+    second: Head 240x163_370
+  - first:
+      213: 542363846467867302
+    second: Head 240x163_371
+  - first:
+      213: -2183117398640331940
+    second: Head 240x163_372
+  - first:
+      213: 5175636635674755912
+    second: Head 240x163_373
+  - first:
+      213: 5724298776879386327
+    second: Head 240x163_374
+  - first:
+      213: 7568057822341108229
+    second: Head 240x163_375
+  - first:
+      213: 953062246024630843
+    second: Head 240x163_376
+  - first:
+      213: 910351212348851682
+    second: Head 240x163_377
+  - first:
+      213: 4009435393617046235
+    second: Head 240x163_378
+  - first:
+      213: -5643450591076575766
+    second: Head 240x163_379
+  - first:
+      213: -3061638327962039959
+    second: Head 240x163_380
+  - first:
+      213: -8773509830656762070
+    second: Head 240x163_381
+  - first:
+      213: 8429808288456042124
+    second: Head 240x163_382
+  - first:
+      213: 5384725399041033139
+    second: Head 240x163_383
+  - first:
+      213: 6522071301539262546
+    second: Head 240x163_384
+  - first:
+      213: 4597722874723854251
+    second: Head 240x163_385
+  - first:
+      213: 2240458750692681850
+    second: Head 240x163_386
+  - first:
+      213: -6732941542316357261
+    second: Head 240x163_387
+  - first:
+      213: -5884520571862761694
+    second: Head 240x163_388
+  - first:
+      213: 7668130168497016393
+    second: Head 240x163_389
+  - first:
+      213: 2107255208920194651
+    second: Head 240x163_390
+  - first:
+      213: 4906205327321670183
+    second: Head 240x163_391
+  - first:
+      213: 4885049102652553738
+    second: Head 240x163_392
+  - first:
+      213: -7811907887000598122
+    second: Head 240x163_393
+  - first:
+      213: 7420252416464564678
+    second: Head 240x163_394
+  - first:
+      213: -6582732388535819367
+    second: Head 240x163_395
+  - first:
+      213: 5402460563384505203
+    second: Head 240x163_396
+  - first:
+      213: 7256264239273010167
+    second: Head 240x163_397
+  - first:
+      213: 4796704813537303072
+    second: Head 240x163_398
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head 240x163_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4437230eea26dd0800000000000000
+      internalID: -2494238965667511044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da6f42bc97a6c740800000000000000
+      internalID: 5172005513529879251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c67aac2d2b5c580800000000000000
+      internalID: -8807436877840290785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4dccddb7c198600800000000000000
+      internalID: 470938954364671221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05a53c8023f4e850800000000000000
+      internalID: 6405511891144516879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6788111227c23190800000000000000
+      internalID: -7984100240244832401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010f79e04e2150cb0800000000000000
+      internalID: -4898488248988864496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1841250cd2ea7730800000000000000
+      internalID: 3997757053851486236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80056a8f54f94d900800000000000000
+      internalID: 708366164277219336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04be73ea49647dd0800000000000000
+      internalID: -2489248923663813618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb339ab1cd23ce6f0800000000000000
+      internalID: -654091924937296964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_11
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaaf85db6b8e2250800000000000000
+      internalID: 5921823855299504872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_12
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba32d109c32c3d30800000000000000
+      internalID: 4412441081142196916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_13
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4038e0a2e120c870800000000000000
+      internalID: 8700991737325695055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_14
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd43c47ac8d5bf70800000000000000
+      internalID: 9202499777655426550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_15
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4d7bade3dc834b0800000000000000
+      internalID: -5460388878345579356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_16
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a031b33bc06f570800000000000000
+      internalID: 8499995310638172674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_17
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b893a1709f403e1c0800000000000000
+      internalID: -4475728137063614069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_18
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26a6d02d7ad6e6a0800000000000000
+      internalID: -6420203987813358033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_19
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540dfba904e9fc480800000000000000
+      internalID: -8876702340212600763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_20
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f347737ab6b161130800000000000000
+      internalID: 3537044706526983231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_21
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee5c6cc2341db5e0800000000000000
+      internalID: -1892334060015165717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_22
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958beb5bc21cbfc80800000000000000
+      internalID: -8287818291473368999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_23
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 1467
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28442225f82ae1c30800000000000000
+      internalID: 4332078628018996354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d626d257a610221e0800000000000000
+      internalID: -2224213709223533971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac21d2e93035fde0800000000000000
+      internalID: -1300079892249891672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc0eeb26c48b46a0800000000000000
+      internalID: -6463926853484802879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8a823dc66a6fea0800000000000000
+      internalID: -5839296880509933369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd235310769099110800000000000000
+      internalID: 1268055108088050397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0e0621bf4054720800000000000000
+      internalID: 2829673417263866067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_30
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce560a5d9068059e0800000000000000
+      internalID: -1634659287938603540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_31
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5a30ba753e6dde0800000000000000
+      internalID: -1308608676033747459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_32
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f63b91a9b3edf80800000000000000
+      internalID: -8079955148413898886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_33
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68a9f277ed8a06e0800000000000000
+      internalID: -1870526670013093781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb5922e44379e6c0800000000000000
+      internalID: -4113630044936905749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_35
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72173cca6e083cf0800000000000000
+      internalID: -272451925600431491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_36
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103a8a77a4a0ae520800000000000000
+      internalID: 2732007438905025281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_37
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365bfd1780a1e39e0800000000000000
+      internalID: -1639844590743734941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_38
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbdf7853063b1530800000000000000
+      internalID: 3826711696378944476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_39
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fbb1d7de84c4890800000000000000
+      internalID: -7472517496871075952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_40
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c112309d68269b100800000000000000
+      internalID: 124238796035399964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_41
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244787e282ff79830800000000000000
+      internalID: 4078008535650694210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_42
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dac2acba5b741710800000000000000
+      internalID: 1663089792048614103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_43
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b5142f44cf776e0800000000000000
+      internalID: -1839724549705213060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_44
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a794b146bee28c0800000000000000
+      internalID: -4022018602008217085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_45
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15d8db2e13958a50800000000000000
+      internalID: 6522781393109964062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_46
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3ccc40ff87048f0800000000000000
+      internalID: -558313317101419610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_47
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 1304
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e073cee199ee71c00800000000000000
+      internalID: 871427394335684366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1141
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878721697f8af9450800000000000000
+      internalID: 6097778201811122296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1141
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dbc9bfe82c86e70800000000000000
+      internalID: 9108744165719325985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_50
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1141
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba63f889f7ae5fb0800000000000000
+      internalID: -4657100274468164940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_51
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1141
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888ec6a289ffa4830800000000000000
+      internalID: 4056335443412445320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_52
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1141
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb61a993b42e54af0800000000000000
+      internalID: -412674978117708097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_53
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1141
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d896165d1292260800000000000000
+      internalID: 7073221890108132627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 978
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c84e6fed9c25f710800000000000000
+      internalID: 1726335089004923076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 978
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae39d28732606cb90800000000000000
+      internalID: -7222078203032136726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 978
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eecae09c73fa34b0800000000000000
+      internalID: -5459783881900503325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 978
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e770c77ec35776d0800000000000000
+      internalID: -2992831281126934553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_58
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 978
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012f2740653719ba0800000000000000
+      internalID: -6083954808321805808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_59
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 978
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b1b8bc37c3045d0800000000000000
+      internalID: -3080395677087622394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_60
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 978
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fb640c0a3efecc0800000000000000
+      internalID: -3679472090978271414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_61
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 978
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8a5e022a33fd900800000000000000
+      internalID: 711344037577468153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 815
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef78dee8d2713270800000000000000
+      internalID: 8228484270228275182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 815
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05d24d1d5935ba30800000000000000
+      internalID: 4230350497070109962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 815
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc182bf473805d830800000000000000
+      internalID: 4095188469816656335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_65
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 815
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0106cf50bac53c110800000000000000
+      internalID: 1279968608712941584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_66
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 815
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27a73ff9627f5fb0800000000000000
+      internalID: -4656877690098833619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_67
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 815
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b4b1b173c2d17f0800000000000000
+      internalID: -640306956827145342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_68
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 815
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def0d4891b795dbb0800000000000000
+      internalID: -4911853029557465107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_69
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 815
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a49b06ce7c77ceb0800000000000000
+      internalID: -4699650802207452000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_70
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 815
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe9a3aaf9b7ffea0800000000000000
+      internalID: -5836810666362888457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_71
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 815
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a0fda0ddc2955a0800000000000000
+      internalID: -6532140456642409888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c779752a4d3d4af80800000000000000
+      internalID: -8096113319895132292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a839f56bf1aca1100800000000000000
+      internalID: 79598180984918922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d122f5614e4c90d20800000000000000
+      internalID: 3245341490404074013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_75
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a23b1ddf1163af0800000000000000
+      internalID: -417126133642614138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_76
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63cef24d8c3ba830800000000000000
+      internalID: 4083424064553534315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_77
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637d30677edfdbfe0800000000000000
+      internalID: -1171501157487225034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_78
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716d328788a26fcf0800000000000000
+      internalID: -218940766261357033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_79
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcada8dd9abc0b90800000000000000
+      internalID: -7274234111002301187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_80
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a93d0f8ca34229e0800000000000000
+      internalID: -1647680105250735710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_81
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248ee22da5c6ebd50800000000000000
+      internalID: 6754955628431468610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_82
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862e8dce5989e7130800000000000000
+      internalID: 3566455724615197288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_83
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194da1de6a8219030800000000000000
+      internalID: 3499623082851226769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_84
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bc39d8b47699b20800000000000000
+      internalID: 3141655789263113027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_85
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01169674353287e0800000000000000
+      internalID: -1764789604531695348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_86
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02437920dfcd5090800000000000000
+      internalID: -8044044866458271217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_87
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7425547d1ac1c7aa0800000000000000
+      internalID: -6162018708722724281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_88
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469deb1fca58c08e0800000000000000
+      internalID: -1725857579353056924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_89
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f50b2e137d795f0800000000000000
+      internalID: -749894203677319415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_90
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd22d82f5132db00800000000000000
+      internalID: 851797564302962116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_91
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717455ce8dbd59200800000000000000
+      internalID: 186296684330174231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_92
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3a505dcc7223b90800000000000000
+      internalID: -7263699488294460459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_93
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7f7a52030e27a20800000000000000
+      internalID: 3058753594332805038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_94
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf726b69f98ffdc0800000000000000
+      internalID: -3603009472531628111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_95
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 652
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018dfa0d374547f20800000000000000
+      internalID: 3419450873480206352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a3a5836dad338f0800000000000000
+      internalID: -561864914887886321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1685648110585b0800000000000000
+      internalID: -5366882177171037703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_98
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef0aa9eb6ff385a0800000000000000
+      internalID: -6520086996555526171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_99
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a5e6bd7e9346d80800000000000000
+      internalID: -8258412148708976030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_100
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df06b3759e7bae50800000000000000
+      internalID: 6821685240939286480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_101
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f455fc5a90c490d00800000000000000
+      internalID: 939365601603704143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_102
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799438b621a2d5810800000000000000
+      internalID: 1755605688345905559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_103
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9322fc77e6f1a8d50800000000000000
+      internalID: 6740234351630295609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_104
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208b51559508b7f80800000000000000
+      internalID: -8107745582982514686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_105
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061369070cacca8d0800000000000000
+      internalID: -2833667137651461792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_106
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c576d22643fa1280800000000000000
+      internalID: -9071671016826702393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_107
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5da40a1e14826410800000000000000
+      internalID: 1468881693296602460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_108
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a350efad02dc21200800000000000000
+      internalID: 149407278653375802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_109
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a24637830266310800000000000000
+      internalID: 1397840161171319328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_110
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b965fb9f12db2e0800000000000000
+      internalID: -2108491693998826633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_111
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2541f675d3df07c10800000000000000
+      internalID: 2049416270355305554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_112
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45e0444e92d600d0800000000000000
+      internalID: -3456844086768507573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_113
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7c52059772db5d0800000000000000
+      internalID: -3045234371043407928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_114
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e5d732dc404e260800000000000000
+      internalID: 7125825789517192720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_115
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb0063a7c5be1c70800000000000000
+      internalID: 8943785779048483811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_116
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5769655c8463200800000000000000
+      internalID: 159394849216689655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_117
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e053d83813e2550800000000000000
+      internalID: 6137897783232106120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_118
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e189462b227cd00800000000000000
+      internalID: 992800392445697674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_119
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 489
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce8367e920538c10800000000000000
+      internalID: 2054573995917020871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1058900274b101c70800000000000000
+      internalID: 8939675252624557313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_121
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a15dcacf0ebfe000800000000000000
+      internalID: 67481494470087074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d73915454a4e32d0800000000000000
+      internalID: -3297116215816144941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_123
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c315686bc1a7390800000000000000
+      internalID: -7819906232712348515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_124
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a02817deda240a0800000000000000
+      internalID: -6898760443854976471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_125
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da688908573187330800000000000000
+      internalID: 3708735688529184429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_126
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16caab36469447840800000000000000
+      internalID: 5220878563547982945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_127
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adffd4f6a0988bc0800000000000000
+      internalID: -3780612840430240347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_128
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd44db6a433d2e50800000000000000
+      internalID: 6786136608246877632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_129
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09a87cec3bbc6690800000000000000
+      internalID: -7607499800195847923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_130
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e6a257df6c68ca0800000000000000
+      internalID: -6014901460411978134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_131
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81a386934b443e90800000000000000
+      internalID: -7046924763267882613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_132
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138460397c27d7a60800000000000000
+      internalID: 7673415541599914033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_133
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04659917a0f57f440800000000000000
+      internalID: 4969545212286817856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_134
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360acf1bbef742aa0800000000000000
+      internalID: -6186679337820053405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_135
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e12fef85625c1f0800000000000000
+      internalID: -1025371176480661892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_136
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2310d5349b4285dd0800000000000000
+      internalID: -2497205615259221710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_137
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d26cdee9ad0f4d20800000000000000
+      internalID: 3264843278374953686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_138
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f77b24b30f84b70800000000000000
+      internalID: 8883614402301362002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_139
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2931e2b25f1d42330800000000000000
+      internalID: 3685301246017541010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_140
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4f9c045ea33bfd0800000000000000
+      internalID: -2327451826111515398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_141
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacc3689c106a89d0800000000000000
+      internalID: -2771296944761090900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_142
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9518ea59058099e60800000000000000
+      internalID: 7969410157810450777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_143
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad370f789afd417f0800000000000000
+      internalID: -642642927583988774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_144
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 326
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d2f2cb172d00170800000000000000
+      internalID: 8142739512216202648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0065b24048496b0800000000000000
+      internalID: -5290458508811697949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_146
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d5d74fa792f6b80800000000000000
+      internalID: -8399449171958080114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_147
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbb5071e4c3b5fe0800000000000000
+      internalID: -1199298569672737843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_148
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39a9957a8e6d6410800000000000000
+      internalID: 1471954194177567039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_149
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5697c15dbcef00680800000000000000
+      internalID: -8790746321219978907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_150
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d0108035cd4e900800000000000000
+      internalID: 712936890206063881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_151
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4c339f8987510c0800000000000000
+      internalID: -4605642445505182481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_152
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f433d0c0829272b70800000000000000
+      internalID: 8874106842734474063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_153
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0c183068cd0f520800000000000000
+      internalID: 2733927441956454604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_154
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d056eb3edffe1cf40800000000000000
+      internalID: 5747138473228133645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_155
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01a9bc5edca8a7e0800000000000000
+      internalID: -1753961983822421750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_156
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52689d12a525b8ac0800000000000000
+      internalID: -3851894509216889307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_157
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a593e0c17372ec0800000000000000
+      internalID: -3591841584167429624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_158
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f117de41e9a6aad0800000000000000
+      internalID: -2691276942151839245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_159
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6c0e311c1adb3a0800000000000000
+      internalID: -6647979624294725949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_160
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c9dd92a26e31060800000000000000
+      internalID: 6923130120963988515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_161
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bf0a4c86a5f2370800000000000000
+      internalID: 8299952044289096539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_162
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53559113a811b57d0800000000000000
+      internalID: -2928727847447472843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_163
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6f819de7c902420800000000000000
+      internalID: 2603252653242250972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_164
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac3c75980afc57a0800000000000000
+      internalID: -6386955256743576409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_165
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ded91c736b74310800000000000000
+      internalID: 1389279360654896436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_166
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a073953f5a4ee50800000000000000
+      internalID: 6837772598847670833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_167
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c0e75aa6c9908f0800000000000000
+      internalID: -573755495656059763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_168
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 163
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200718d7bbc939820800000000000000
+      internalID: 2923852912172036098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860a98fa6d0be1010800000000000000
+      internalID: 1161560190022688872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_170
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3359e16409700060800000000000000
+      internalID: 6917662087370593084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_171
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397b90e657caf0720800000000000000
+      internalID: 2814657912487131027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_172
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5c1c0a7f690fa20800000000000000
+      internalID: 3094138934301672865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_173
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b703665168eeb1d0800000000000000
+      internalID: -3332971169448785993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_174
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450169fe9ebbb6720800000000000000
+      internalID: 2840570603408592980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_175
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f188b27cf04f2f950800000000000000
+      internalID: 6481511162342770719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_176
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e12490bdfc039d90800000000000000
+      internalID: -7092310704449642010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_177
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b6c4498495d9d90800000000000000
+      internalID: -7089412070150739119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_178
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d504fa5c4e7d59f20800000000000000
+      internalID: 3428884068881612893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_179
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3acfbc92ba6ab730800000000000000
+      internalID: 4015639333120756285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_180
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72752e925bd440630800000000000000
+      internalID: 3892321418442069799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_181
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160fdd8b35e7d1000800000000000000
+      internalID: 8301672373547105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_182
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ea279fb5dd58c20800000000000000
+      internalID: 3208213696668151395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_183
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ea4c566ee3fec0800000000000000
+      internalID: -3534219159153220779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_184
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4924527a1fa975c00800000000000000
+      internalID: 889349814110995092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_185
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2db715bcffbc6a70800000000000000
+      internalID: 8821636862202854698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_186
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288d885db5c5c27c0800000000000000
+      internalID: -4094796411692328830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_187
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716a25bb1dd3ce040800000000000000
+      internalID: 4678182083931317783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_188
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd2b906926767360800000000000000
+      internalID: 7167045777093242310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_189
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565e5a900131bae50800000000000000
+      internalID: 6821567020185019749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_190
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b778f125db7f1e20800000000000000
+      internalID: 3323511205350897593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_191
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6804569c336d4e260800000000000000
+      internalID: 7126056028317499526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_192
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e86355605dbbcef0800000000000000
+      internalID: -86767614808594202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_193
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e62b07cda64c9a40800000000000000
+      internalID: 5376249767356212969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_194
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e25eb6c8bf6db30800000000000000
+      internalID: 4311910273778003530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_195
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920de5dee3addb520800000000000000
+      internalID: 2719569713806889001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_196
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c199a9a57cc0f90800000000000000
+      internalID: -6985989730003772413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_197
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d345cbb5b220b80800000000000000
+      internalID: -8430127879482491588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_198
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e533d9c272dbba0800000000000000
+      internalID: -6071653650056126911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_199
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb11b22373dd9fd0800000000000000
+      internalID: -2333476540451316802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_200
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3680537507a99820800000000000000
+      internalID: 2925553074805179964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_201
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba78ad803955bf510800000000000000
+      internalID: 1583953783947954091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_202
+      rect:
+        serializedVersion: 2
+        x: 7920
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d18c7654cfc4630800000000000000
+      internalID: 3912779551302229258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_203
+      rect:
+        serializedVersion: 2
+        x: 8160
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27608271681b1da80800000000000000
+      internalID: -8443772636870736270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_204
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3c372574a86b570800000000000000
+      internalID: 8482118987129537511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_205
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819665f228bca7790800000000000000
+      internalID: -7531483666823354088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head 240x163_206
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 0
+        width: 240
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99644e816543fae0800000000000000
+      internalID: -1516792364192732773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f4fbbebfd75a898459446d76e9243274
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":41.0,"y":10.0},"gridSpriteSize":{"x":240.0,"y":163.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5199999809265137,"y":0.44999998807907107},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Head 240x163_0: -2494238965667511044
+      Head 240x163_1: 5172005513529879251
+      Head 240x163_10: -654091924937296964
+      Head 240x163_100: 6821685240939286480
+      Head 240x163_101: 939365601603704143
+      Head 240x163_102: 1755605688345905559
+      Head 240x163_103: 6740234351630295609
+      Head 240x163_104: -8107745582982514686
+      Head 240x163_105: -2833667137651461792
+      Head 240x163_106: -9071671016826702393
+      Head 240x163_107: 1468881693296602460
+      Head 240x163_108: 149407278653375802
+      Head 240x163_109: 1397840161171319328
+      Head 240x163_11: 5921823855299504872
+      Head 240x163_110: -2108491693998826633
+      Head 240x163_111: 2049416270355305554
+      Head 240x163_112: -3456844086768507573
+      Head 240x163_113: -3045234371043407928
+      Head 240x163_114: 7125825789517192720
+      Head 240x163_115: 8943785779048483811
+      Head 240x163_116: 159394849216689655
+      Head 240x163_117: 6137897783232106120
+      Head 240x163_118: 992800392445697674
+      Head 240x163_119: 2054573995917020871
+      Head 240x163_12: 4412441081142196916
+      Head 240x163_120: 8939675252624557313
+      Head 240x163_121: 67481494470087074
+      Head 240x163_122: -3297116215816144941
+      Head 240x163_123: -7819906232712348515
+      Head 240x163_124: -6898760443854976471
+      Head 240x163_125: 3708735688529184429
+      Head 240x163_126: 5220878563547982945
+      Head 240x163_127: -3780612840430240347
+      Head 240x163_128: 6786136608246877632
+      Head 240x163_129: -7607499800195847923
+      Head 240x163_13: 8700991737325695055
+      Head 240x163_130: -6014901460411978134
+      Head 240x163_131: -7046924763267882613
+      Head 240x163_132: 7673415541599914033
+      Head 240x163_133: 4969545212286817856
+      Head 240x163_134: -6186679337820053405
+      Head 240x163_135: -1025371176480661892
+      Head 240x163_136: -2497205615259221710
+      Head 240x163_137: 3264843278374953686
+      Head 240x163_138: 8883614402301362002
+      Head 240x163_139: 3685301246017541010
+      Head 240x163_14: 9202499777655426550
+      Head 240x163_140: -2327451826111515398
+      Head 240x163_141: -2771296944761090900
+      Head 240x163_142: 7969410157810450777
+      Head 240x163_143: -642642927583988774
+      Head 240x163_144: 8142739512216202648
+      Head 240x163_145: -5290458508811697949
+      Head 240x163_146: -8399449171958080114
+      Head 240x163_147: -1199298569672737843
+      Head 240x163_148: 1471954194177567039
+      Head 240x163_149: -8790746321219978907
+      Head 240x163_15: -5460388878345579356
+      Head 240x163_150: 712936890206063881
+      Head 240x163_151: -4605642445505182481
+      Head 240x163_152: 8874106842734474063
+      Head 240x163_153: 2733927441956454604
+      Head 240x163_154: 5747138473228133645
+      Head 240x163_155: -1753961983822421750
+      Head 240x163_156: -3851894509216889307
+      Head 240x163_157: -3591841584167429624
+      Head 240x163_158: -2691276942151839245
+      Head 240x163_159: -6647979624294725949
+      Head 240x163_16: 8499995310638172674
+      Head 240x163_160: 6923130120963988515
+      Head 240x163_161: 8299952044289096539
+      Head 240x163_162: -2928727847447472843
+      Head 240x163_163: 2603252653242250972
+      Head 240x163_164: -6386955256743576409
+      Head 240x163_165: 1389279360654896436
+      Head 240x163_166: 6837772598847670833
+      Head 240x163_167: -573755495656059763
+      Head 240x163_168: 2923852912172036098
+      Head 240x163_169: 1161560190022688872
+      Head 240x163_17: -4475728137063614069
+      Head 240x163_170: 6917662087370593084
+      Head 240x163_171: 2814657912487131027
+      Head 240x163_172: 3094138934301672865
+      Head 240x163_173: -3332971169448785993
+      Head 240x163_174: 2840570603408592980
+      Head 240x163_175: 6481511162342770719
+      Head 240x163_176: -7092310704449642010
+      Head 240x163_177: -7089412070150739119
+      Head 240x163_178: 3428884068881612893
+      Head 240x163_179: 4015639333120756285
+      Head 240x163_18: -6420203987813358033
+      Head 240x163_180: 3892321418442069799
+      Head 240x163_181: 8301672373547105
+      Head 240x163_182: 3208213696668151395
+      Head 240x163_183: -3534219159153220779
+      Head 240x163_184: 889349814110995092
+      Head 240x163_185: 8821636862202854698
+      Head 240x163_186: -4094796411692328830
+      Head 240x163_187: 4678182083931317783
+      Head 240x163_188: 7167045777093242310
+      Head 240x163_189: 6821567020185019749
+      Head 240x163_19: -8876702340212600763
+      Head 240x163_190: 3323511205350897593
+      Head 240x163_191: 7126056028317499526
+      Head 240x163_192: -86767614808594202
+      Head 240x163_193: 5376249767356212969
+      Head 240x163_194: 4311910273778003530
+      Head 240x163_195: 2719569713806889001
+      Head 240x163_196: -6985989730003772413
+      Head 240x163_197: -8430127879482491588
+      Head 240x163_198: -6071653650056126911
+      Head 240x163_199: -2333476540451316802
+      Head 240x163_2: -8807436877840290785
+      Head 240x163_20: 3537044706526983231
+      Head 240x163_200: 2925553074805179964
+      Head 240x163_201: 1583953783947954091
+      Head 240x163_202: 3912779551302229258
+      Head 240x163_203: -8443772636870736270
+      Head 240x163_204: 8482118987129537511
+      Head 240x163_205: -7531483666823354088
+      Head 240x163_206: -1516792364192732773
+      Head 240x163_21: -1892334060015165717
+      Head 240x163_22: -8287818291473368999
+      Head 240x163_23: 4332078628018996354
+      Head 240x163_24: -2224213709223533971
+      Head 240x163_25: -1300079892249891672
+      Head 240x163_26: -6463926853484802879
+      Head 240x163_27: -5839296880509933369
+      Head 240x163_28: 1268055108088050397
+      Head 240x163_29: 2829673417263866067
+      Head 240x163_3: 470938954364671221
+      Head 240x163_30: -1634659287938603540
+      Head 240x163_31: -1308608676033747459
+      Head 240x163_32: -8079955148413898886
+      Head 240x163_33: -1870526670013093781
+      Head 240x163_34: -4113630044936905749
+      Head 240x163_35: -272451925600431491
+      Head 240x163_36: 2732007438905025281
+      Head 240x163_37: -1639844590743734941
+      Head 240x163_38: 3826711696378944476
+      Head 240x163_39: -7472517496871075952
+      Head 240x163_4: 6405511891144516879
+      Head 240x163_40: 124238796035399964
+      Head 240x163_41: 4078008535650694210
+      Head 240x163_42: 1663089792048614103
+      Head 240x163_43: -1839724549705213060
+      Head 240x163_44: -4022018602008217085
+      Head 240x163_45: 6522781393109964062
+      Head 240x163_46: -558313317101419610
+      Head 240x163_47: 871427394335684366
+      Head 240x163_48: 6097778201811122296
+      Head 240x163_49: 9108744165719325985
+      Head 240x163_5: -7984100240244832401
+      Head 240x163_50: -4657100274468164940
+      Head 240x163_51: 4056335443412445320
+      Head 240x163_52: -412674978117708097
+      Head 240x163_53: 7073221890108132627
+      Head 240x163_54: 1726335089004923076
+      Head 240x163_55: -7222078203032136726
+      Head 240x163_56: -5459783881900503325
+      Head 240x163_57: -2992831281126934553
+      Head 240x163_58: -6083954808321805808
+      Head 240x163_59: -3080395677087622394
+      Head 240x163_6: -4898488248988864496
+      Head 240x163_60: -3679472090978271414
+      Head 240x163_61: 711344037577468153
+      Head 240x163_62: 8228484270228275182
+      Head 240x163_63: 4230350497070109962
+      Head 240x163_64: 4095188469816656335
+      Head 240x163_65: 1279968608712941584
+      Head 240x163_66: -4656877690098833619
+      Head 240x163_67: -640306956827145342
+      Head 240x163_68: -4911853029557465107
+      Head 240x163_69: -4699650802207452000
+      Head 240x163_7: 3997757053851486236
+      Head 240x163_70: -5836810666362888457
+      Head 240x163_71: -6532140456642409888
+      Head 240x163_72: -8096113319895132292
+      Head 240x163_73: 79598180984918922
+      Head 240x163_74: 3245341490404074013
+      Head 240x163_75: -417126133642614138
+      Head 240x163_76: 4083424064553534315
+      Head 240x163_77: -1171501157487225034
+      Head 240x163_78: -218940766261357033
+      Head 240x163_79: -7274234111002301187
+      Head 240x163_8: 708366164277219336
+      Head 240x163_80: -1647680105250735710
+      Head 240x163_81: 6754955628431468610
+      Head 240x163_82: 3566455724615197288
+      Head 240x163_83: 3499623082851226769
+      Head 240x163_84: 3141655789263113027
+      Head 240x163_85: -1764789604531695348
+      Head 240x163_86: -8044044866458271217
+      Head 240x163_87: -6162018708722724281
+      Head 240x163_88: -1725857579353056924
+      Head 240x163_89: -749894203677319415
+      Head 240x163_9: -2489248923663813618
+      Head 240x163_90: 851797564302962116
+      Head 240x163_91: 186296684330174231
+      Head 240x163_92: -7263699488294460459
+      Head 240x163_93: 3058753594332805038
+      Head 240x163_94: -3603009472531628111
+      Head 240x163_95: 3419450873480206352
+      Head 240x163_96: -561864914887886321
+      Head 240x163_97: -5366882177171037703
+      Head 240x163_98: -6520086996555526171
+      Head 240x163_99: -8258412148708976030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

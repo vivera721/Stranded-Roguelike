@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: 8e3b150a9b6c25c4fa145ce6deaf33b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -205686757905021773
+    second: Missile-Nuke_0
+  - first:
+      213: -7337450979280579321
+    second: Missile-Nuke_1
+  - first:
+      213: 5210729295038510327
+    second: Missile-Nuke_2
+  - first:
+      213: 8965218837626964357
+    second: Missile-Nuke_3
+  - first:
+      213: 7111990988582843969
+    second: Missile-Nuke_4
+  - first:
+      213: -4660834707562442124
+    second: Missile-Nuke_5
+  - first:
+      213: 5805733832522946159
+    second: Missile-Nuke_6
+  - first:
+      213: -6591134611951203473
+    second: Missile-Nuke_7
+  - first:
+      213: 3808722907120907975
+    second: Missile-Nuke_8
+  - first:
+      213: -152348563646806490
+    second: Missile-Nuke_9
+  - first:
+      213: 712509978240712981
+    second: Missile-Nuke_10
+  - first:
+      213: -4847822529322508051
+    second: Missile-Nuke_11
+  - first:
+      213: -4765311248516085636
+    second: Missile-Nuke_12
+  - first:
+      213: 3776203336446308350
+    second: Missile-Nuke_13
+  - first:
+      213: 251676775089187866
+    second: Missile-Nuke_14
+  - first:
+      213: -7036710883303187804
+    second: Missile-Nuke_15
+  - first:
+      213: 9062864231536190030
+    second: Missile-Nuke_16
+  - first:
+      213: 5343403889095954350
+    second: Missile-Nuke_17
+  - first:
+      213: -8804705925135844216
+    second: Missile-Nuke_18
+  - first:
+      213: -5415649330045875101
+    second: Missile-Nuke_19
+  - first:
+      213: 3665548677953587529
+    second: Missile-Nuke_20
+  - first:
+      213: 8820470210713683287
+    second: Missile-Nuke_21
+  - first:
+      213: 3483994644217877367
+    second: Missile-Nuke_22
+  - first:
+      213: 2889514125395635043
+    second: Missile-Nuke_23
+  - first:
+      213: 8700237240840839586
+    second: Missile-Nuke_24
+  - first:
+      213: 7071998110372188834
+    second: Missile-Nuke_25
+  - first:
+      213: 8216113469003847687
+    second: Missile-Nuke_26
+  - first:
+      213: -859535240807992555
+    second: Missile-Nuke_27
+  - first:
+      213: 5299072489689892155
+    second: Missile-Nuke_28
+  - first:
+      213: 933270138287668844
+    second: Missile-Nuke_29
+  - first:
+      213: 988520380530198202
+    second: Missile-Nuke_30
+  - first:
+      213: -1114401080900725324
+    second: Missile-Nuke_31
+  - first:
+      213: -3330443517906946280
+    second: Missile-Nuke_32
+  - first:
+      213: 6517947362495820154
+    second: Missile-Nuke_33
+  - first:
+      213: 2634977747027058345
+    second: Missile-Nuke_34
+  - first:
+      213: 4465394336400881718
+    second: Missile-Nuke_35
+  - first:
+      213: 1377111269881769328
+    second: Missile-Nuke_36
+  - first:
+      213: -6998073684455533790
+    second: Missile-Nuke_37
+  - first:
+      213: 8260509957152972457
+    second: Missile-Nuke_38
+  - first:
+      213: 7191931312539840591
+    second: Missile-Nuke_39
+  - first:
+      213: 7272626993982169685
+    second: Missile-Nuke_40
+  - first:
+      213: 6533036440191356332
+    second: Missile-Nuke_41
+  - first:
+      213: 553268484501326615
+    second: Missile-Nuke_42
+  - first:
+      213: -4747079288082672087
+    second: Missile-Nuke_43
+  - first:
+      213: -6572572004459350716
+    second: Missile-Nuke_44
+  - first:
+      213: 7460945809464403145
+    second: Missile-Nuke_45
+  - first:
+      213: -2998221319057097960
+    second: Missile-Nuke_46
+  - first:
+      213: 8581726811102345435
+    second: Missile-Nuke_47
+  - first:
+      213: 6487111317697800758
+    second: Missile-Nuke_48
+  - first:
+      213: 9024780504785168231
+    second: Missile-Nuke_49
+  - first:
+      213: 4995120581490000694
+    second: Missile-Nuke_50
+  - first:
+      213: -77350911300367473
+    second: Missile-Nuke_51
+  - first:
+      213: -6421095128245440142
+    second: Missile-Nuke_52
+  - first:
+      213: 1640092284941207231
+    second: Missile-Nuke_53
+  - first:
+      213: 8002883770009113133
+    second: Missile-Nuke_54
+  - first:
+      213: -4260469661093539352
+    second: Missile-Nuke_55
+  - first:
+      213: -4828632779309822797
+    second: Missile-Nuke_56
+  - first:
+      213: 6235915752677987026
+    second: Missile-Nuke_57
+  - first:
+      213: 5279037089594501139
+    second: Missile-Nuke_58
+  - first:
+      213: -3215613578594416156
+    second: Missile-Nuke_59
+  - first:
+      213: -1596356816938528914
+    second: Missile-Nuke_60
+  - first:
+      213: 1288130833677008093
+    second: Missile-Nuke_61
+  - first:
+      213: 2281661104567689073
+    second: Missile-Nuke_62
+  - first:
+      213: -8729078155988342157
+    second: Missile-Nuke_63
+  - first:
+      213: -8850435555342823381
+    second: Missile-Nuke_64
+  - first:
+      213: 6866501008770186487
+    second: Missile-Nuke_65
+  - first:
+      213: 3283485906146580283
+    second: Missile-Nuke_66
+  - first:
+      213: 7438723773965096335
+    second: Missile-Nuke_67
+  - first:
+      213: 8502367928111679570
+    second: Missile-Nuke_68
+  - first:
+      213: 3345164469882362665
+    second: Missile-Nuke_69
+  - first:
+      213: -2090580007063268338
+    second: Missile-Nuke_70
+  - first:
+      213: -381646078501420434
+    second: Missile-Nuke_71
+  - first:
+      213: -3539128326811099656
+    second: Missile-Nuke_72
+  - first:
+      213: -2711445668168104680
+    second: Missile-Nuke_73
+  - first:
+      213: 256857435346977261
+    second: Missile-Nuke_74
+  - first:
+      213: -172179367500390721
+    second: Missile-Nuke_75
+  - first:
+      213: 3258091674255069201
+    second: Missile-Nuke_76
+  - first:
+      213: -5195583468143132820
+    second: Missile-Nuke_77
+  - first:
+      213: 4093052006852929235
+    second: Missile-Nuke_78
+  - first:
+      213: 1060653039908372138
+    second: Missile-Nuke_79
+  - first:
+      213: 5679675083308072247
+    second: Missile-Nuke_80
+  - first:
+      213: 8471845959625692052
+    second: Missile-Nuke_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Missile-Nuke_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4c114cbf0452df0800000000000000
+      internalID: -205686757905021773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7059327b5332c2a90800000000000000
+      internalID: -7337450979280579321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4fd7bafaa305840800000000000000
+      internalID: 5210729295038510327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5894566780bda6c70800000000000000
+      internalID: 8965218837626964357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14672488f1ed2b260800000000000000
+      internalID: 7111990988582843969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472dde21783615fb0800000000000000
+      internalID: -4660834707562442124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f665ffb192c129050800000000000000
+      internalID: 5805733832522946159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_7
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bcdd3edf59784a0800000000000000
+      internalID: -6591134611951203473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6b5d6fd4d4bd430800000000000000
+      internalID: 3808722907120907975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_9
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6268acdd9cfb2edf0800000000000000
+      internalID: -152348563646806490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_10
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51185f7dc0853e900800000000000000
+      internalID: 712509978240712981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_11
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0a89d281319bcb0800000000000000
+      internalID: -4847822529322508051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_12
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78860ccaa63eddb0800000000000000
+      internalID: -4765311248516085636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_13
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effe6846de4c76430800000000000000
+      internalID: 3776203336446308350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile-Nuke_14
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 0
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c286981b22e7300800000000000000
+      internalID: 251676775089187866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c7a1d667908e15443b0b751e22b19e4d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":1.0},"gridSpriteSize":{"x":122.0,"y":101.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Missile-Nuke_0: -205686757905021773
+      Missile-Nuke_1: -7337450979280579321
+      Missile-Nuke_10: 712509978240712981
+      Missile-Nuke_11: -4847822529322508051
+      Missile-Nuke_12: -4765311248516085636
+      Missile-Nuke_13: 3776203336446308350
+      Missile-Nuke_14: 251676775089187866
+      Missile-Nuke_2: 5210729295038510327
+      Missile-Nuke_3: 8965218837626964357
+      Missile-Nuke_4: 7111990988582843969
+      Missile-Nuke_5: -4660834707562442124
+      Missile-Nuke_6: 5805733832522946159
+      Missile-Nuke_7: -6591134611951203473
+      Missile-Nuke_8: 3808722907120907975
+      Missile-Nuke_9: -152348563646806490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

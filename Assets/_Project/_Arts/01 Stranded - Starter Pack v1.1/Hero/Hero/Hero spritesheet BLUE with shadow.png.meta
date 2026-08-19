@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 1d5ed67a145287e4287a5c0ea7e6cbba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3710698380523229273
+    second: Hero spritesheet BLUE with shadow_0
+  - first:
+      213: 1133857911167730709
+    second: Hero spritesheet BLUE with shadow_1
+  - first:
+      213: -2600822159052454462
+    second: Hero spritesheet BLUE with shadow_2
+  - first:
+      213: -1623252697989349518
+    second: Hero spritesheet BLUE with shadow_3
+  - first:
+      213: 2961943435711589327
+    second: Hero spritesheet BLUE with shadow_4
+  - first:
+      213: 2909992624997726523
+    second: Hero spritesheet BLUE with shadow_5
+  - first:
+      213: 5115971915926910941
+    second: Hero spritesheet BLUE with shadow_6
+  - first:
+      213: -2945434598742236938
+    second: Hero spritesheet BLUE with shadow_7
+  - first:
+      213: -7313576743277053479
+    second: Hero spritesheet BLUE with shadow_8
+  - first:
+      213: -6080680632588989805
+    second: Hero spritesheet BLUE with shadow_9
+  - first:
+      213: 2098012270298717203
+    second: Hero spritesheet BLUE with shadow_10
+  - first:
+      213: 6809233425937924602
+    second: Hero spritesheet BLUE with shadow_11
+  - first:
+      213: 6094862686443614935
+    second: Hero spritesheet BLUE with shadow_12
+  - first:
+      213: -4284819367077246325
+    second: Hero spritesheet BLUE with shadow_13
+  - first:
+      213: -1575445892968962632
+    second: Hero spritesheet BLUE with shadow_14
+  - first:
+      213: 5167641619464170366
+    second: Hero spritesheet BLUE with shadow_15
+  - first:
+      213: -9192775066054415789
+    second: Hero spritesheet BLUE with shadow_16
+  - first:
+      213: -5741467121135387055
+    second: Hero spritesheet BLUE with shadow_17
+  - first:
+      213: 1274703072018637443
+    second: Hero spritesheet BLUE with shadow_18
+  - first:
+      213: 3571306872672611460
+    second: Hero spritesheet BLUE with shadow_19
+  - first:
+      213: -7975815092950685235
+    second: Hero spritesheet BLUE with shadow_20
+  - first:
+      213: 3270259435488557172
+    second: Hero spritesheet BLUE with shadow_21
+  - first:
+      213: 1267616141014794721
+    second: Hero spritesheet BLUE with shadow_22
+  - first:
+      213: -1689835420044950495
+    second: Hero spritesheet BLUE with shadow_23
+  - first:
+      213: 6320250717485769352
+    second: Hero spritesheet BLUE with shadow_24
+  - first:
+      213: -7414016745799672386
+    second: Hero spritesheet BLUE with shadow_25
+  - first:
+      213: 7431813388428605102
+    second: Hero spritesheet BLUE with shadow_26
+  - first:
+      213: 1124029138854652367
+    second: Hero spritesheet BLUE with shadow_27
+  - first:
+      213: -2023873643287203645
+    second: Hero spritesheet BLUE with shadow_28
+  - first:
+      213: 570064647355697777
+    second: Hero spritesheet BLUE with shadow_29
+  - first:
+      213: -2066991603364880304
+    second: Hero spritesheet BLUE with shadow_30
+  - first:
+      213: 6772553374188251311
+    second: Hero spritesheet BLUE with shadow_31
+  - first:
+      213: 6903762172650235772
+    second: Hero spritesheet BLUE with shadow_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 162
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afab48ab73f08cc0800000000000000
+      internalID: -3710698380523229273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 162
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5144be443c54cbf00800000000000000
+      internalID: 1133857911167730709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 162
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5c6bda60608ebd0800000000000000
+      internalID: -2600822159052454462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 162
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f76a3854c0979e0800000000000000
+      internalID: -1623252697989349518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 162
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcba36a9cdfea1920800000000000000
+      internalID: 2961943435711589327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39fef7efde526820800000000000000
+      internalID: 2909992624997726523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 130
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7b2b91a559ff640800000000000000
+      internalID: 5115971915926910941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 130
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0e2d886d6bf17d0800000000000000
+      internalID: -2945434598742236938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 130
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9b96373b4f08a90800000000000000
+      internalID: -7313576743277053479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 98
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a8fe57e251d9ba0800000000000000
+      internalID: -6080680632588989805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 98
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cd0994b03ad1d10800000000000000
+      internalID: 2098012270298717203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 98
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af10fb959b14f7e50800000000000000
+      internalID: 6809233425937924602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 98
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d23144425d459450800000000000000
+      internalID: 6094862686443614935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 98
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a85a2dc734984c0800000000000000
+      internalID: -4284819367077246325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 98
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5acb2be44e22ae0800000000000000
+      internalID: -1575445892968962632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 98
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bafae6ca627b740800000000000000
+      internalID: 5167641619464170366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 98
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a22c768c3bc6080800000000000000
+      internalID: -9192775066054415789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ef32ba2163250b0800000000000000
+      internalID: -5741467121135387055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 34
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38225c9b0b7a0b110800000000000000
+      internalID: 1274703072018637443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cef89dda4df8130800000000000000
+      internalID: 3571306872672611460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9a97e3e66305190800000000000000
+      internalID: -7975815092950685235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4783aa741ab426d20800000000000000
+      internalID: 3270259435488557172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e10db40a2a779110800000000000000
+      internalID: 1267616141014794721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124095b73af7c88e0800000000000000
+      internalID: -1689835420044950495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882a52b9a8a06b750800000000000000
+      internalID: 6320250717485769352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd10d30d0f1c1990800000000000000
+      internalID: -7414016745799672386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6774eb6ea132760800000000000000
+      internalID: 7431813388428605102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 66
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9ae92eb8a599f00800000000000000
+      internalID: 1124029138854652367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c03795f4a1c9e3e0800000000000000
+      internalID: -2023873643287203645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a05a4c6c649e700800000000000000
+      internalID: 570064647355697777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 66
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050a8bf86129053e0800000000000000
+      internalID: -2066991603364880304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 109
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa82dda4961fcfd50800000000000000
+      internalID: 6772553374188251311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet BLUE with shadow_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 66
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77a89a4e171fcf50800000000000000
+      internalID: 6903762172650235772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hero spritesheet BLUE with shadow_0: -3710698380523229273
+      Hero spritesheet BLUE with shadow_1: 1133857911167730709
+      Hero spritesheet BLUE with shadow_10: 2098012270298717203
+      Hero spritesheet BLUE with shadow_11: 6809233425937924602
+      Hero spritesheet BLUE with shadow_12: 6094862686443614935
+      Hero spritesheet BLUE with shadow_13: -4284819367077246325
+      Hero spritesheet BLUE with shadow_14: -1575445892968962632
+      Hero spritesheet BLUE with shadow_15: 5167641619464170366
+      Hero spritesheet BLUE with shadow_16: -9192775066054415789
+      Hero spritesheet BLUE with shadow_17: -5741467121135387055
+      Hero spritesheet BLUE with shadow_18: 1274703072018637443
+      Hero spritesheet BLUE with shadow_19: 3571306872672611460
+      Hero spritesheet BLUE with shadow_2: -2600822159052454462
+      Hero spritesheet BLUE with shadow_20: -7975815092950685235
+      Hero spritesheet BLUE with shadow_21: 3270259435488557172
+      Hero spritesheet BLUE with shadow_22: 1267616141014794721
+      Hero spritesheet BLUE with shadow_23: -1689835420044950495
+      Hero spritesheet BLUE with shadow_24: 6320250717485769352
+      Hero spritesheet BLUE with shadow_25: -7414016745799672386
+      Hero spritesheet BLUE with shadow_26: 7431813388428605102
+      Hero spritesheet BLUE with shadow_27: 1124029138854652367
+      Hero spritesheet BLUE with shadow_28: -2023873643287203645
+      Hero spritesheet BLUE with shadow_29: 570064647355697777
+      Hero spritesheet BLUE with shadow_3: -1623252697989349518
+      Hero spritesheet BLUE with shadow_30: -2066991603364880304
+      Hero spritesheet BLUE with shadow_31: 6772553374188251311
+      Hero spritesheet BLUE with shadow_32: 6903762172650235772
+      Hero spritesheet BLUE with shadow_4: 2961943435711589327
+      Hero spritesheet BLUE with shadow_5: 2909992624997726523
+      Hero spritesheet BLUE with shadow_6: 5115971915926910941
+      Hero spritesheet BLUE with shadow_7: -2945434598742236938
+      Hero spritesheet BLUE with shadow_8: -7313576743277053479
+      Hero spritesheet BLUE with shadow_9: -6080680632588989805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

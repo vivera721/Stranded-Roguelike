@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: aaa08a5e560bcb945b957204443f70e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 408496248773835616
+    second: Orb White 192x192_0
+  - first:
+      213: 4901254081082074818
+    second: Orb White 192x192_1
+  - first:
+      213: 7430636526559681986
+    second: Orb White 192x192_2
+  - first:
+      213: -3156512383467542022
+    second: Orb White 192x192_3
+  - first:
+      213: 732773328139706405
+    second: Orb White 192x192_4
+  - first:
+      213: 8895436023619488117
+    second: Orb White 192x192_5
+  - first:
+      213: -8152231995287457815
+    second: Orb White 192x192_6
+  - first:
+      213: 8645016527888155619
+    second: Orb White 192x192_7
+  - first:
+      213: 8127103910138291134
+    second: Orb White 192x192_8
+  - first:
+      213: -4647017088451628768
+    second: Orb White 192x192_9
+  - first:
+      213: 3153410080474440602
+    second: Orb White 192x192_10
+  - first:
+      213: 4531830691784158035
+    second: Orb White 192x192_11
+  - first:
+      213: 2204148297415245776
+    second: Orb White 192x192_12
+  - first:
+      213: 5366225517572436643
+    second: Orb White 192x192_13
+  - first:
+      213: 3152619617583421281
+    second: Orb White 192x192_14
+  - first:
+      213: 1359951284740435283
+    second: Orb White 192x192_15
+  - first:
+      213: -9102883623542887124
+    second: Orb White 192x192_16
+  - first:
+      213: 4859161075300929786
+    second: Orb White 192x192_17
+  - first:
+      213: -4367681213855611330
+    second: Orb White 192x192_18
+  - first:
+      213: -3924384315001223510
+    second: Orb White 192x192_19
+  - first:
+      213: 5546102252508486132
+    second: Orb White 192x192_20
+  - first:
+      213: 3039904617461160483
+    second: Orb White 192x192_21
+  - first:
+      213: -2793408437067603808
+    second: Orb White 192x192_22
+  - first:
+      213: -7543635844459319938
+    second: Orb White 192x192_23
+  - first:
+      213: -7746352653475184204
+    second: Orb White 192x192_24
+  - first:
+      213: 4349857331701995987
+    second: Orb White 192x192_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orb White 192x192_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 467
+        width: 206
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b7e388c254ba500800000000000000
+      internalID: 408496248773835616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 467
+        width: 24
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6a4d86e90c40440800000000000000
+      internalID: 4901254081082074818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_2
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 467
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdd1ac3d8cee1760800000000000000
+      internalID: 7430636526559681986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_3
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 668
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9ab4e06b0d134d0800000000000000
+      internalID: -3156512383467542022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_4
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 664
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520e5a4a5755b2a00800000000000000
+      internalID: 732773328139706405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 468
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5798d06feefe27b70800000000000000
+      internalID: 8895436023619488117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_6
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 468
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef215251347dde80800000000000000
+      internalID: -8152231995287457815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_7
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 468
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e387269ab449f770800000000000000
+      internalID: 8645016527888155619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_8
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 467
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb32b7072f549c070800000000000000
+      internalID: 8127103910138291134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_9
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 280
+        width: 630
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021bba9349a728fb0800000000000000
+      internalID: -4647017088451628768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_10
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 468
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93a0ddb2c923cb20800000000000000
+      internalID: 3153410080474440602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_11
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 437
+        width: 17
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35be106e00c44ee30800000000000000
+      internalID: 4531830691784158035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_12
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 83
+        width: 1191
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfb7bbc235b69e10800000000000000
+      internalID: 2204148297415245776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2ba8f3da9a87a40800000000000000
+      internalID: 5366225517572436643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 279
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167dcf1c6da50cb20800000000000000
+      internalID: 3152619617583421281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 276
+        width: 386
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d2ac6fc748fd210800000000000000
+      internalID: 1359951284740435283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 83
+        width: 434
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d6103d29f0ca180800000000000000
+      internalID: -9102883623542887124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af097b7c0453f6340800000000000000
+      internalID: 4859161075300929786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_18
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 83
+        width: 86
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e364df3b311e263c0800000000000000
+      internalID: -4367681213855611330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 83
+        width: 110
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6cc3ef149c989c0800000000000000
+      internalID: -3924384315001223510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_20
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 83
+        width: 110
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f913c83d96b7fc40800000000000000
+      internalID: 5546102252508486132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_21
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 83
+        width: 104
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a97dab429ef2a20800000000000000
+      internalID: 3039904617461160483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_22
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 83
+        width: 106
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0a10c93d1db39d0800000000000000
+      internalID: -2793408437067603808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_23
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 83
+        width: 110
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d2918da2f9f4790800000000000000
+      internalID: -7543635844459319938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_24
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 83
+        width: 110
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b105b8bd4d6f7490800000000000000
+      internalID: -7746352653475184204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb White 192x192_25
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 83
+        width: 86
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9d9b7523ccd5c30800000000000000
+      internalID: 4349857331701995987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orb White 192x192_0: 408496248773835616
+      Orb White 192x192_1: 4901254081082074818
+      Orb White 192x192_10: 3153410080474440602
+      Orb White 192x192_11: 4531830691784158035
+      Orb White 192x192_12: 2204148297415245776
+      Orb White 192x192_13: 5366225517572436643
+      Orb White 192x192_14: 3152619617583421281
+      Orb White 192x192_15: 1359951284740435283
+      Orb White 192x192_16: -9102883623542887124
+      Orb White 192x192_17: 4859161075300929786
+      Orb White 192x192_18: -4367681213855611330
+      Orb White 192x192_19: -3924384315001223510
+      Orb White 192x192_2: 7430636526559681986
+      Orb White 192x192_20: 5546102252508486132
+      Orb White 192x192_21: 3039904617461160483
+      Orb White 192x192_22: -2793408437067603808
+      Orb White 192x192_23: -7543635844459319938
+      Orb White 192x192_24: -7746352653475184204
+      Orb White 192x192_25: 4349857331701995987
+      Orb White 192x192_3: -3156512383467542022
+      Orb White 192x192_4: 732773328139706405
+      Orb White 192x192_5: 8895436023619488117
+      Orb White 192x192_6: -8152231995287457815
+      Orb White 192x192_7: 8645016527888155619
+      Orb White 192x192_8: 8127103910138291134
+      Orb White 192x192_9: -4647017088451628768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

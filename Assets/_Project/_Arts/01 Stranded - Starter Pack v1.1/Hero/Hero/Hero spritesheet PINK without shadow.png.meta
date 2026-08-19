@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: decddeacbf44d4549b8d8641d0e12525
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1975554527330168066
+    second: Hero spritesheet PINK without shadow_0
+  - first:
+      213: 1241788621298274056
+    second: Hero spritesheet PINK without shadow_1
+  - first:
+      213: -1470511618977597870
+    second: Hero spritesheet PINK without shadow_2
+  - first:
+      213: -8525946202609732332
+    second: Hero spritesheet PINK without shadow_3
+  - first:
+      213: -1711146353165589618
+    second: Hero spritesheet PINK without shadow_4
+  - first:
+      213: -1961023625924937221
+    second: Hero spritesheet PINK without shadow_5
+  - first:
+      213: -259741871152636048
+    second: Hero spritesheet PINK without shadow_6
+  - first:
+      213: -5685477913374880937
+    second: Hero spritesheet PINK without shadow_7
+  - first:
+      213: 4808172072287446769
+    second: Hero spritesheet PINK without shadow_8
+  - first:
+      213: -3507240735155842161
+    second: Hero spritesheet PINK without shadow_9
+  - first:
+      213: 1044031782041654935
+    second: Hero spritesheet PINK without shadow_10
+  - first:
+      213: -6685071198850097240
+    second: Hero spritesheet PINK without shadow_11
+  - first:
+      213: 4663378042192522099
+    second: Hero spritesheet PINK without shadow_12
+  - first:
+      213: 627896738664396399
+    second: Hero spritesheet PINK without shadow_13
+  - first:
+      213: -2184326640518851494
+    second: Hero spritesheet PINK without shadow_14
+  - first:
+      213: 970100246342244255
+    second: Hero spritesheet PINK without shadow_15
+  - first:
+      213: 7135616888811285758
+    second: Hero spritesheet PINK without shadow_16
+  - first:
+      213: -9171729310493996094
+    second: Hero spritesheet PINK without shadow_17
+  - first:
+      213: 7700477864229532242
+    second: Hero spritesheet PINK without shadow_18
+  - first:
+      213: -6856367803878926214
+    second: Hero spritesheet PINK without shadow_19
+  - first:
+      213: -9115810855613128334
+    second: Hero spritesheet PINK without shadow_20
+  - first:
+      213: 7984546154096803005
+    second: Hero spritesheet PINK without shadow_21
+  - first:
+      213: 3279584963892693171
+    second: Hero spritesheet PINK without shadow_22
+  - first:
+      213: 882360826728451692
+    second: Hero spritesheet PINK without shadow_23
+  - first:
+      213: 762849814057811406
+    second: Hero spritesheet PINK without shadow_24
+  - first:
+      213: 5345257602890978284
+    second: Hero spritesheet PINK without shadow_25
+  - first:
+      213: 2688189847630211709
+    second: Hero spritesheet PINK without shadow_26
+  - first:
+      213: 5533497792802752787
+    second: Hero spritesheet PINK without shadow_27
+  - first:
+      213: -6337635686604380326
+    second: Hero spritesheet PINK without shadow_28
+  - first:
+      213: 2032359109597021380
+    second: Hero spritesheet PINK without shadow_29
+  - first:
+      213: 631468994233355103
+    second: Hero spritesheet PINK without shadow_30
+  - first:
+      213: 567211356030810234
+    second: Hero spritesheet PINK without shadow_31
+  - first:
+      213: 8458325298498595516
+    second: Hero spritesheet PINK without shadow_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 164
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef21214df9b6594e0800000000000000
+      internalID: -1975554527330168066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 164
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f0b9afb28bb3110800000000000000
+      internalID: 1241788621298274056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 164
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25671c04971b79be0800000000000000
+      internalID: -1470511618977597870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 164
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4153b53e911cda980800000000000000
+      internalID: -8525946202609732332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 164
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e832cd43579c048e0800000000000000
+      internalID: -1711146353165589618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 132
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf97894f66b09c4e0800000000000000
+      internalID: -1961023625924937221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 132
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fd6a4f426356cf0800000000000000
+      internalID: -259741871152636048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 134
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b06f2f5ff1911b0800000000000000
+      internalID: -5685477913374880937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 134
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6a5a3660f0ab240800000000000000
+      internalID: 4808172072287446769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83914f2227c35fc0800000000000000
+      internalID: -3507240735155842161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 100
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7969fcecf552d7e00800000000000000
+      internalID: 1044031782041654935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 102
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af5856e92bd933a0800000000000000
+      internalID: -6685071198850097240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 102
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bed3a2f95a7b040800000000000000
+      internalID: 4663378042192522099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 100
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66b7bfc1ccb6b800800000000000000
+      internalID: 627896738664396399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 100
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5493765e76bfa1e0800000000000000
+      internalID: -2184326640518851494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 102
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f979fb3c80d767d00800000000000000
+      internalID: 970100246342244255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 102
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcefd611cdc60360800000000000000
+      internalID: 7135616888811285758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb87f739c877b080800000000000000
+      internalID: -9171729310493996094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252f82291d79dda60800000000000000
+      internalID: 7700477864229532242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a781f581fc949d0a0800000000000000
+      internalID: -6856367803878926214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271a78f03522e7180800000000000000
+      internalID: -9115810855613128334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 68
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcb6a75c6ecece60800000000000000
+      internalID: 7984546154096803005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8498f062d638d20800000000000000
+      internalID: 3279584963892693171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e8ed83f76ce3c00800000000000000
+      internalID: 882360826728451692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd73e73ddf269a00800000000000000
+      internalID: 762849814057811406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 70
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3d54d287b2e2a40800000000000000
+      internalID: 5345257602890978284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a6fcc7c6e5e4520800000000000000
+      internalID: 2688189847630211709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3198a61cceeeacc40800000000000000
+      internalID: 5533497792802752787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a576b18dbe13c08a0800000000000000
+      internalID: -6337635686604380326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 68
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c44f8f97d3643c10800000000000000
+      internalID: 2032359109597021380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 68
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bc3ff54bd63c800800000000000000
+      internalID: 631468994233355103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 109
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78b8cc19b32fd700800000000000000
+      internalID: 567211356030810234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet PINK without shadow_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 70
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba65bb7b02026570800000000000000
+      internalID: 8458325298498595516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hero spritesheet PINK without shadow_0: -1975554527330168066
+      Hero spritesheet PINK without shadow_1: 1241788621298274056
+      Hero spritesheet PINK without shadow_10: 1044031782041654935
+      Hero spritesheet PINK without shadow_11: -6685071198850097240
+      Hero spritesheet PINK without shadow_12: 4663378042192522099
+      Hero spritesheet PINK without shadow_13: 627896738664396399
+      Hero spritesheet PINK without shadow_14: -2184326640518851494
+      Hero spritesheet PINK without shadow_15: 970100246342244255
+      Hero spritesheet PINK without shadow_16: 7135616888811285758
+      Hero spritesheet PINK without shadow_17: -9171729310493996094
+      Hero spritesheet PINK without shadow_18: 7700477864229532242
+      Hero spritesheet PINK without shadow_19: -6856367803878926214
+      Hero spritesheet PINK without shadow_2: -1470511618977597870
+      Hero spritesheet PINK without shadow_20: -9115810855613128334
+      Hero spritesheet PINK without shadow_21: 7984546154096803005
+      Hero spritesheet PINK without shadow_22: 3279584963892693171
+      Hero spritesheet PINK without shadow_23: 882360826728451692
+      Hero spritesheet PINK without shadow_24: 762849814057811406
+      Hero spritesheet PINK without shadow_25: 5345257602890978284
+      Hero spritesheet PINK without shadow_26: 2688189847630211709
+      Hero spritesheet PINK without shadow_27: 5533497792802752787
+      Hero spritesheet PINK without shadow_28: -6337635686604380326
+      Hero spritesheet PINK without shadow_29: 2032359109597021380
+      Hero spritesheet PINK without shadow_3: -8525946202609732332
+      Hero spritesheet PINK without shadow_30: 631468994233355103
+      Hero spritesheet PINK without shadow_31: 567211356030810234
+      Hero spritesheet PINK without shadow_32: 8458325298498595516
+      Hero spritesheet PINK without shadow_4: -1711146353165589618
+      Hero spritesheet PINK without shadow_5: -1961023625924937221
+      Hero spritesheet PINK without shadow_6: -259741871152636048
+      Hero spritesheet PINK without shadow_7: -5685477913374880937
+      Hero spritesheet PINK without shadow_8: 4808172072287446769
+      Hero spritesheet PINK without shadow_9: -3507240735155842161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

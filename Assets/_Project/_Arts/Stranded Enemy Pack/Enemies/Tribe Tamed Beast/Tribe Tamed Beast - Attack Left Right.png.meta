@@ -1,0 +1,875 @@
+fileFormatVersion: 2
+guid: d64c567655ae8f54883e8ef4edeffd30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1224284351616494284
+    second: Tribe Tamed Beast - Attack Left Right_0
+  - first:
+      213: 3359465109718735302
+    second: Tribe Tamed Beast - Attack Left Right_1
+  - first:
+      213: 2164764456835619717
+    second: Tribe Tamed Beast - Attack Left Right_2
+  - first:
+      213: 1108642717717422069
+    second: Tribe Tamed Beast - Attack Left Right_3
+  - first:
+      213: 2856978239185686997
+    second: Tribe Tamed Beast - Attack Left Right_4
+  - first:
+      213: -5032639841577297721
+    second: Tribe Tamed Beast - Attack Left Right_5
+  - first:
+      213: -8212373937145611066
+    second: Tribe Tamed Beast - Attack Left Right_6
+  - first:
+      213: -196075436580270068
+    second: Tribe Tamed Beast - Attack Left Right_7
+  - first:
+      213: 4991552470130897937
+    second: Tribe Tamed Beast - Attack Left Right_8
+  - first:
+      213: 8774071398968633558
+    second: Tribe Tamed Beast - Attack Left Right_9
+  - first:
+      213: 6228729615262031485
+    second: Tribe Tamed Beast - Attack Left Right_10
+  - first:
+      213: 1512630991129813998
+    second: Tribe Tamed Beast - Attack Left Right_11
+  - first:
+      213: 7849250617013031210
+    second: Tribe Tamed Beast - Attack Left Right_12
+  - first:
+      213: 8926944324676526670
+    second: Tribe Tamed Beast - Attack Left Right_13
+  - first:
+      213: 6999078828408849677
+    second: Tribe Tamed Beast - Attack Left Right_14
+  - first:
+      213: -9163274130765356318
+    second: Tribe Tamed Beast - Attack Left Right_15
+  - first:
+      213: 3947724472906361916
+    second: Tribe Tamed Beast - Attack Left Right_16
+  - first:
+      213: -5248658438391951262
+    second: Tribe Tamed Beast - Attack Left Right_17
+  - first:
+      213: -4821347200899338716
+    second: Tribe Tamed Beast - Attack Left Right_18
+  - first:
+      213: 2605756282968774699
+    second: Tribe Tamed Beast - Attack Left Right_19
+  - first:
+      213: 4361659573443680858
+    second: Tribe Tamed Beast - Attack Left Right_20
+  - first:
+      213: -147051679432962656
+    second: Tribe Tamed Beast - Attack Left Right_21
+  - first:
+      213: 4972030986376773569
+    second: Tribe Tamed Beast - Attack Left Right_22
+  - first:
+      213: 8523263745612075755
+    second: Tribe Tamed Beast - Attack Left Right_23
+  - first:
+      213: -5995662109064818682
+    second: Tribe Tamed Beast - Attack Left Right_24
+  - first:
+      213: -899801072749933868
+    second: Tribe Tamed Beast - Attack Left Right_25
+  - first:
+      213: 6776370609873329121
+    second: Tribe Tamed Beast - Attack Left Right_26
+  - first:
+      213: -343320496563091527
+    second: Tribe Tamed Beast - Attack Left Right_27
+  - first:
+      213: -3008261019404627864
+    second: Tribe Tamed Beast - Attack Left Right_28
+  - first:
+      213: -8984880098778651758
+    second: Tribe Tamed Beast - Attack Left Right_29
+  - first:
+      213: 6630624695406203404
+    second: Tribe Tamed Beast - Attack Left Right_30
+  - first:
+      213: -7157639734857665638
+    second: Tribe Tamed Beast - Attack Left Right_31
+  - first:
+      213: 8530577425316899361
+    second: Tribe Tamed Beast - Attack Left Right_32
+  - first:
+      213: -2406223967313719722
+    second: Tribe Tamed Beast - Attack Left Right_33
+  - first:
+      213: -3553130453837322067
+    second: Tribe Tamed Beast - Attack Left Right_34
+  - first:
+      213: -4042408175227768933
+    second: Tribe Tamed Beast - Attack Left Right_35
+  - first:
+      213: 2577122049336299615
+    second: Tribe Tamed Beast - Attack Left Right_36
+  - first:
+      213: -3252958785752517251
+    second: Tribe Tamed Beast - Attack Left Right_37
+  - first:
+      213: -1181493543326970130
+    second: Tribe Tamed Beast - Attack Left Right_38
+  - first:
+      213: 5096310625703667527
+    second: Tribe Tamed Beast - Attack Left Right_39
+  - first:
+      213: -7039877081794472716
+    second: Tribe Tamed Beast - Attack Left Right_40
+  - first:
+      213: -5932310500327204282
+    second: Tribe Tamed Beast - Attack Left Right_41
+  - first:
+      213: -7848181674518960051
+    second: Tribe Tamed Beast - Attack Left Right_42
+  - first:
+      213: 5781297537767240787
+    second: Tribe Tamed Beast - Attack Left Right_43
+  - first:
+      213: -1935995965747547421
+    second: Tribe Tamed Beast - Attack Left Right_44
+  - first:
+      213: 11847297243543202
+    second: Tribe Tamed Beast - Attack Left Right_45
+  - first:
+      213: -5148837846940939366
+    second: Tribe Tamed Beast - Attack Left Right_46
+  - first:
+      213: -4083627881072759922
+    second: Tribe Tamed Beast - Attack Left Right_47
+  - first:
+      213: -424720327043922741
+    second: Tribe Tamed Beast - Attack Left Right_48
+  - first:
+      213: 6546147286449464304
+    second: Tribe Tamed Beast - Attack Left Right_49
+  - first:
+      213: -7141999814599183259
+    second: Tribe Tamed Beast - Attack Left Right_50
+  - first:
+      213: -4339185410796212628
+    second: Tribe Tamed Beast - Attack Left Right_51
+  - first:
+      213: -7026076928011666101
+    second: Tribe Tamed Beast - Attack Left Right_52
+  - first:
+      213: -2182432781283043574
+    second: Tribe Tamed Beast - Attack Left Right_53
+  - first:
+      213: -733941438993692632
+    second: Tribe Tamed Beast - Attack Left Right_54
+  - first:
+      213: 7120427390367152843
+    second: Tribe Tamed Beast - Attack Left Right_55
+  - first:
+      213: 790220300234279260
+    second: Tribe Tamed Beast - Attack Left Right_56
+  - first:
+      213: -9008297911677436512
+    second: Tribe Tamed Beast - Attack Left Right_57
+  - first:
+      213: 5344672535880946987
+    second: Tribe Tamed Beast - Attack Left Right_58
+  - first:
+      213: 4441828876226474037
+    second: Tribe Tamed Beast - Attack Left Right_59
+  - first:
+      213: -1292854601954490438
+    second: Tribe Tamed Beast - Attack Left Right_60
+  - first:
+      213: -1470093127999530747
+    second: Tribe Tamed Beast - Attack Left Right_61
+  - first:
+      213: 5697658290246325231
+    second: Tribe Tamed Beast - Attack Left Right_62
+  - first:
+      213: 1040114109278798224
+    second: Tribe Tamed Beast - Attack Left Right_63
+  - first:
+      213: 2285527296232889128
+    second: Tribe Tamed Beast - Attack Left Right_64
+  - first:
+      213: -431327494066824415
+    second: Tribe Tamed Beast - Attack Left Right_65
+  - first:
+      213: 8605851912547418415
+    second: Tribe Tamed Beast - Attack Left Right_66
+  - first:
+      213: 2358867284387652500
+    second: Tribe Tamed Beast - Attack Left Right_67
+  - first:
+      213: 3391127653876497198
+    second: Tribe Tamed Beast - Attack Left Right_68
+  - first:
+      213: 941483876172984500
+    second: Tribe Tamed Beast - Attack Left Right_69
+  - first:
+      213: 7317113136958456003
+    second: Tribe Tamed Beast - Attack Left Right_70
+  - first:
+      213: -5989025898535059374
+    second: Tribe Tamed Beast - Attack Left Right_71
+  - first:
+      213: 2553860073553427234
+    second: Tribe Tamed Beast - Attack Left Right_72
+  - first:
+      213: 22170453460501195
+    second: Tribe Tamed Beast - Attack Left Right_73
+  - first:
+      213: -3999919186696781210
+    second: Tribe Tamed Beast - Attack Left Right_74
+  - first:
+      213: -743011123505177001
+    second: Tribe Tamed Beast - Attack Left Right_75
+  - first:
+      213: -5076283479677802751
+    second: Tribe Tamed Beast - Attack Left Right_76
+  - first:
+      213: 5469539998639144333
+    second: Tribe Tamed Beast - Attack Left Right_77
+  - first:
+      213: 7868050128510454654
+    second: Tribe Tamed Beast - Attack Left Right_78
+  - first:
+      213: 7970188693223690879
+    second: Tribe Tamed Beast - Attack Left Right_79
+  - first:
+      213: -1547956680680840315
+    second: Tribe Tamed Beast - Attack Left Right_80
+  - first:
+      213: 6546932185874280734
+    second: Tribe Tamed Beast - Attack Left Right_81
+  - first:
+      213: 5368177912412804943
+    second: Tribe Tamed Beast - Attack Left Right_82
+  - first:
+      213: 8756635892928496192
+    second: Tribe Tamed Beast - Attack Left Right_83
+  - first:
+      213: -7708056248091762720
+    second: Tribe Tamed Beast - Attack Left Right_84
+  - first:
+      213: -133809639905297381
+    second: Tribe Tamed Beast - Attack Left Right_85
+  - first:
+      213: -7825370937607375822
+    second: Tribe Tamed Beast - Attack Left Right_86
+  - first:
+      213: 9042347276990177866
+    second: Tribe Tamed Beast - Attack Left Right_87
+  - first:
+      213: 4221906375809556692
+    second: Tribe Tamed Beast - Attack Left Right_88
+  - first:
+      213: -2007947789913650951
+    second: Tribe Tamed Beast - Attack Left Right_89
+  - first:
+      213: -441123488407001817
+    second: Tribe Tamed Beast - Attack Left Right_90
+  - first:
+      213: -3475993753050365153
+    second: Tribe Tamed Beast - Attack Left Right_91
+  - first:
+      213: -1635197831817154653
+    second: Tribe Tamed Beast - Attack Left Right_92
+  - first:
+      213: -3597510418452219715
+    second: Tribe Tamed Beast - Attack Left Right_93
+  - first:
+      213: -3860420906364249774
+    second: Tribe Tamed Beast - Attack Left Right_94
+  - first:
+      213: -1537564925411074914
+    second: Tribe Tamed Beast - Attack Left Right_95
+  - first:
+      213: -8851120672577607471
+    second: Tribe Tamed Beast - Attack Left Right_96
+  - first:
+      213: -5042502775232521646
+    second: Tribe Tamed Beast - Attack Left Right_97
+  - first:
+      213: 2521713370000590152
+    second: Tribe Tamed Beast - Attack Left Right_98
+  - first:
+      213: 7037397886368067618
+    second: Tribe Tamed Beast - Attack Left Right_99
+  - first:
+      213: -4484205516807542961
+    second: Tribe Tamed Beast - Attack Left Right_100
+  - first:
+      213: 7249770535248527027
+    second: Tribe Tamed Beast - Attack Left Right_101
+  - first:
+      213: -4543100033928596207
+    second: Tribe Tamed Beast - Attack Left Right_102
+  - first:
+      213: 823169152807106787
+    second: Tribe Tamed Beast - Attack Left Right_103
+  - first:
+      213: 7577588107233021488
+    second: Tribe Tamed Beast - Attack Left Right_104
+  - first:
+      213: -1175312603976664156
+    second: Tribe Tamed Beast - Attack Left Right_105
+  - first:
+      213: 4526062457667473089
+    second: Tribe Tamed Beast - Attack Left Right_106
+  - first:
+      213: -7307360534987419662
+    second: Tribe Tamed Beast - Attack Left Right_107
+  - first:
+      213: -4251334217695979205
+    second: Tribe Tamed Beast - Attack Left Right_108
+  - first:
+      213: -7029330894282491669
+    second: Tribe Tamed Beast - Attack Left Right_109
+  - first:
+      213: -8180101614295835424
+    second: Tribe Tamed Beast - Attack Left Right_110
+  - first:
+      213: 4764770790689087818
+    second: Tribe Tamed Beast - Attack Left Right_111
+  - first:
+      213: -3695046366778594073
+    second: Tribe Tamed Beast - Attack Left Right_112
+  - first:
+      213: 62704317190260966
+    second: Tribe Tamed Beast - Attack Left Right_113
+  - first:
+      213: 4396927711330781237
+    second: Tribe Tamed Beast - Attack Left Right_114
+  - first:
+      213: -6281083462248742100
+    second: Tribe Tamed Beast - Attack Left Right_115
+  - first:
+      213: -4237572427293432194
+    second: Tribe Tamed Beast - Attack Left Right_116
+  - first:
+      213: -6805575989804931364
+    second: Tribe Tamed Beast - Attack Left Right_117
+  - first:
+      213: -4187986895271746302
+    second: Tribe Tamed Beast - Attack Left Right_118
+  - first:
+      213: -5499643711377720298
+    second: Tribe Tamed Beast - Attack Left Right_119
+  - first:
+      213: 3914796206109924320
+    second: Tribe Tamed Beast - Attack Left Right_120
+  - first:
+      213: -26254158056675509
+    second: Tribe Tamed Beast - Attack Left Right_121
+  - first:
+      213: 8978952500208457081
+    second: Tribe Tamed Beast - Attack Left Right_122
+  - first:
+      213: -5480030100305545149
+    second: Tribe Tamed Beast - Attack Left Right_123
+  - first:
+      213: -4699017692003491190
+    second: Tribe Tamed Beast - Attack Left Right_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaab2a91288df010800000000000000
+      internalID: 1224284351616494284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c99a14d7b73f9e20800000000000000
+      internalID: 3359465109718735302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b1418ddc9ca0e10800000000000000
+      internalID: 2164764456835619717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffde5c8da0b26f00800000000000000
+      internalID: 1108642717717422069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d11fa5529606a720800000000000000
+      internalID: 2856978239185686997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c89e486ab8782ab0800000000000000
+      internalID: -5032639841577297721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc72c94a69c70e80800000000000000
+      internalID: -8212373937145611066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c001475ed66674df0800000000000000
+      internalID: -196075436580270068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_8
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11430e3768e854540800000000000000
+      internalID: 4991552470130897937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8a0794373c3c970800000000000000
+      internalID: 8774071398968633558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_10
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e16a77594e07650800000000000000
+      internalID: 6228729615262031485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee32a864fd1fdf410800000000000000
+      internalID: 1512630991129813998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_12
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21d31c59d32eec60800000000000000
+      internalID: 7849250617013031210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_13
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42a80af090e2eb70800000000000000
+      internalID: 8926944324676526670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_14
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05444a9c19b12160800000000000000
+      internalID: 6999078828408849677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast - Attack Left Right_15
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e264382ab285d080800000000000000
+      internalID: -9163274130765356318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e870013b97f19364ca6a6503844b3fc3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":1.0},"gridSpriteSize":{"x":76.0,"y":67.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tribe Tamed Beast - Attack Left Right_0: 1224284351616494284
+      Tribe Tamed Beast - Attack Left Right_1: 3359465109718735302
+      Tribe Tamed Beast - Attack Left Right_10: 6228729615262031485
+      Tribe Tamed Beast - Attack Left Right_11: 1512630991129813998
+      Tribe Tamed Beast - Attack Left Right_12: 7849250617013031210
+      Tribe Tamed Beast - Attack Left Right_13: 8926944324676526670
+      Tribe Tamed Beast - Attack Left Right_14: 6999078828408849677
+      Tribe Tamed Beast - Attack Left Right_15: -9163274130765356318
+      Tribe Tamed Beast - Attack Left Right_2: 2164764456835619717
+      Tribe Tamed Beast - Attack Left Right_3: 1108642717717422069
+      Tribe Tamed Beast - Attack Left Right_4: 2856978239185686997
+      Tribe Tamed Beast - Attack Left Right_5: -5032639841577297721
+      Tribe Tamed Beast - Attack Left Right_6: -8212373937145611066
+      Tribe Tamed Beast - Attack Left Right_7: -196075436580270068
+      Tribe Tamed Beast - Attack Left Right_8: 4991552470130897937
+      Tribe Tamed Beast - Attack Left Right_9: 8774071398968633558
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

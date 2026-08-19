@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 38f34d841c64bb240aa0352c29687ef0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 504498564669475819
+    second: 04 Stranded - Pack 4 back up-Roll Up_0
+  - first:
+      213: 5694230513173357635
+    second: 04 Stranded - Pack 4 back up-Roll Up_1
+  - first:
+      213: 634862014303417868
+    second: 04 Stranded - Pack 4 back up-Roll Up_2
+  - first:
+      213: 7471142010422656057
+    second: 04 Stranded - Pack 4 back up-Roll Up_3
+  - first:
+      213: 3625086086310783307
+    second: 04 Stranded - Pack 4 back up-Roll Up_4
+  - first:
+      213: 4783400478822432395
+    second: 04 Stranded - Pack 4 back up-Roll Up_5
+  - first:
+      213: 1904830836984630697
+    second: 04 Stranded - Pack 4 back up-Roll Up_6
+  - first:
+      213: -4893172085400868637
+    second: 04 Stranded - Pack 4 back up-Roll Up_7
+  - first:
+      213: -2781637874207217425
+    second: 04 Stranded - Pack 4 back up-Roll Up_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 04 Stranded - Pack 4 back up-Roll Up_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 21
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb81d885c6500700800000000000000
+      internalID: 504498564669475819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04 Stranded - Pack 4 back up-Roll Up_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 22
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34463ee7b78f50f40800000000000000
+      internalID: 5694230513173357635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04 Stranded - Pack 4 back up-Roll Up_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 23
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06b1fb63ab7fc800800000000000000
+      internalID: 634862014303417868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04 Stranded - Pack 4 back up-Roll Up_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c7dbd1314dea760800000000000000
+      internalID: 7471142010422656057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04 Stranded - Pack 4 back up-Roll Up_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49e3c6c694ee4230800000000000000
+      internalID: 3625086086310783307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04 Stranded - Pack 4 back up-Roll Up_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 19
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ef4a6546d026240800000000000000
+      internalID: 4783400478822432395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04 Stranded - Pack 4 back up-Roll Up_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 20
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adcda3dd815f6a10800000000000000
+      internalID: 1904830836984630697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04 Stranded - Pack 4 back up-Roll Up_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 21
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8e2d8d9e5f71cb0800000000000000
+      internalID: -4893172085400868637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04 Stranded - Pack 4 back up-Roll Up_8
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe82b165713a569d0800000000000000
+      internalID: -2781637874207217425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      04 Stranded - Pack 4 back up-Roll Up_0: 504498564669475819
+      04 Stranded - Pack 4 back up-Roll Up_1: 5694230513173357635
+      04 Stranded - Pack 4 back up-Roll Up_2: 634862014303417868
+      04 Stranded - Pack 4 back up-Roll Up_3: 7471142010422656057
+      04 Stranded - Pack 4 back up-Roll Up_4: 3625086086310783307
+      04 Stranded - Pack 4 back up-Roll Up_5: 4783400478822432395
+      04 Stranded - Pack 4 back up-Roll Up_6: 1904830836984630697
+      04 Stranded - Pack 4 back up-Roll Up_7: -4893172085400868637
+      04 Stranded - Pack 4 back up-Roll Up_8: -2781637874207217425
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

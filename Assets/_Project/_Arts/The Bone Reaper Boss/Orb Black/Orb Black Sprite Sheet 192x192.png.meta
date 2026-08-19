@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: 3ad3bd2772e8cd140ae1fac336f889e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2271272826717150239
+    second: Orb Black Sprite Sheet 192x192_0
+  - first:
+      213: 854849221599441088
+    second: Orb Black Sprite Sheet 192x192_1
+  - first:
+      213: 8693415251952153604
+    second: Orb Black Sprite Sheet 192x192_2
+  - first:
+      213: 268579991409415875
+    second: Orb Black Sprite Sheet 192x192_3
+  - first:
+      213: 4535777196188572858
+    second: Orb Black Sprite Sheet 192x192_4
+  - first:
+      213: -3817590893835728195
+    second: Orb Black Sprite Sheet 192x192_5
+  - first:
+      213: 102429333643629557
+    second: Orb Black Sprite Sheet 192x192_6
+  - first:
+      213: 89596424164611621
+    second: Orb Black Sprite Sheet 192x192_7
+  - first:
+      213: -2928984791659561984
+    second: Orb Black Sprite Sheet 192x192_8
+  - first:
+      213: 2466392700053593051
+    second: Orb Black Sprite Sheet 192x192_9
+  - first:
+      213: -9187809976107841743
+    second: Orb Black Sprite Sheet 192x192_10
+  - first:
+      213: 5912172167991568558
+    second: Orb Black Sprite Sheet 192x192_11
+  - first:
+      213: -3820544758722608339
+    second: Orb Black Sprite Sheet 192x192_12
+  - first:
+      213: 2177432297991649768
+    second: Orb Black Sprite Sheet 192x192_13
+  - first:
+      213: 3339547498820554051
+    second: Orb Black Sprite Sheet 192x192_14
+  - first:
+      213: 4906488940879324264
+    second: Orb Black Sprite Sheet 192x192_15
+  - first:
+      213: -46451592319982562
+    second: Orb Black Sprite Sheet 192x192_16
+  - first:
+      213: 2936218739766870910
+    second: Orb Black Sprite Sheet 192x192_17
+  - first:
+      213: 5494899606642046122
+    second: Orb Black Sprite Sheet 192x192_18
+  - first:
+      213: 4733808009175158443
+    second: Orb Black Sprite Sheet 192x192_19
+  - first:
+      213: 6595624436949772588
+    second: Orb Black Sprite Sheet 192x192_20
+  - first:
+      213: -8128493512699659084
+    second: Orb Black Sprite Sheet 192x192_21
+  - first:
+      213: -1120094689490787749
+    second: Orb Black Sprite Sheet 192x192_22
+  - first:
+      213: 1080786362852979173
+    second: Orb Black Sprite Sheet 192x192_23
+  - first:
+      213: 4899104424570151674
+    second: Orb Black Sprite Sheet 192x192_24
+  - first:
+      213: 7315590920876460253
+    second: Orb Black Sprite Sheet 192x192_25
+  - first:
+      213: -8967716874259997735
+    second: Orb Black Sprite Sheet 192x192_26
+  - first:
+      213: 5802382959986075051
+    second: Orb Black Sprite Sheet 192x192_27
+  - first:
+      213: 1879552400908273261
+    second: Orb Black Sprite Sheet 192x192_28
+  - first:
+      213: 6028199524269751766
+    second: Orb Black Sprite Sheet 192x192_29
+  - first:
+      213: -8467804625301967138
+    second: Orb Black Sprite Sheet 192x192_30
+  - first:
+      213: 3776494271348742288
+    second: Orb Black Sprite Sheet 192x192_31
+  - first:
+      213: -6341376961215019103
+    second: Orb Black Sprite Sheet 192x192_32
+  - first:
+      213: 7800049105620041901
+    second: Orb Black Sprite Sheet 192x192_33
+  - first:
+      213: 7899826119193969559
+    second: Orb Black Sprite Sheet 192x192_34
+  - first:
+      213: -5327378851708253375
+    second: Orb Black Sprite Sheet 192x192_35
+  - first:
+      213: -8163915093179139138
+    second: Orb Black Sprite Sheet 192x192_36
+  - first:
+      213: 5443973328496281328
+    second: Orb Black Sprite Sheet 192x192_37
+  - first:
+      213: -5474447166503142095
+    second: Orb Black Sprite Sheet 192x192_38
+  - first:
+      213: -823676563098149625
+    second: Orb Black Sprite Sheet 192x192_39
+  - first:
+      213: -5164863636619651276
+    second: Orb Black Sprite Sheet 192x192_40
+  - first:
+      213: -6161864245543061767
+    second: Orb Black Sprite Sheet 192x192_41
+  - first:
+      213: -7951373909952194936
+    second: Orb Black Sprite Sheet 192x192_42
+  - first:
+      213: 6394022758310801462
+    second: Orb Black Sprite Sheet 192x192_43
+  - first:
+      213: -3941035874827504829
+    second: Orb Black Sprite Sheet 192x192_44
+  - first:
+      213: 1846528351564362145
+    second: Orb Black Sprite Sheet 192x192_45
+  - first:
+      213: -1708923667249939022
+    second: Orb Black Sprite Sheet 192x192_46
+  - first:
+      213: 2155165412353816291
+    second: Orb Black Sprite Sheet 192x192_47
+  - first:
+      213: -109146551977468924
+    second: Orb Black Sprite Sheet 192x192_48
+  - first:
+      213: 7292939296169080910
+    second: Orb Black Sprite Sheet 192x192_49
+  - first:
+      213: 5085727197039068363
+    second: Orb Black Sprite Sheet 192x192_50
+  - first:
+      213: 6894061150733064156
+    second: Orb Black Sprite Sheet 192x192_51
+  - first:
+      213: -4804192071452450614
+    second: Orb Black Sprite Sheet 192x192_52
+  - first:
+      213: 8227971444616784133
+    second: Orb Black Sprite Sheet 192x192_53
+  - first:
+      213: -2226360026253376514
+    second: Orb Black Sprite Sheet 192x192_54
+  - first:
+      213: -2228542114108011866
+    second: Orb Black Sprite Sheet 192x192_55
+  - first:
+      213: 6528923114710658905
+    second: Orb Black Sprite Sheet 192x192_56
+  - first:
+      213: -6637623277651262183
+    second: Orb Black Sprite Sheet 192x192_57
+  - first:
+      213: -1055813155128054715
+    second: Orb Black Sprite Sheet 192x192_58
+  - first:
+      213: 5765783596206796862
+    second: Orb Black Sprite Sheet 192x192_59
+  - first:
+      213: -9090443758285208444
+    second: Orb Black Sprite Sheet 192x192_60
+  - first:
+      213: -5166242331595573347
+    second: Orb Black Sprite Sheet 192x192_61
+  - first:
+      213: -5661918846209582314
+    second: Orb Black Sprite Sheet 192x192_62
+  - first:
+      213: -7180784421965874553
+    second: Orb Black Sprite Sheet 192x192_63
+  - first:
+      213: -1628805218935709616
+    second: Orb Black Sprite Sheet 192x192_64
+  - first:
+      213: 2965044537103081896
+    second: Orb Black Sprite Sheet 192x192_65
+  - first:
+      213: 6270694054332728660
+    second: Orb Black Sprite Sheet 192x192_66
+  - first:
+      213: 407924904549431393
+    second: Orb Black Sprite Sheet 192x192_67
+  - first:
+      213: 5484494340029406595
+    second: Orb Black Sprite Sheet 192x192_68
+  - first:
+      213: 338214497335648406
+    second: Orb Black Sprite Sheet 192x192_69
+  - first:
+      213: -8596513353416060270
+    second: Orb Black Sprite Sheet 192x192_70
+  - first:
+      213: 1082550076910161999
+    second: Orb Black Sprite Sheet 192x192_71
+  - first:
+      213: 8709542461465708837
+    second: Orb Black Sprite Sheet 192x192_72
+  - first:
+      213: 1050961376574460270
+    second: Orb Black Sprite Sheet 192x192_73
+  - first:
+      213: 5160785561495533940
+    second: Orb Black Sprite Sheet 192x192_74
+  - first:
+      213: 730556566387289280
+    second: Orb Black Sprite Sheet 192x192_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 466
+        width: 207
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3e687d561da70e0800000000000000
+      internalID: -2271272826717150239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 466
+        width: 26
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c034fd76d80ddb00800000000000000
+      internalID: 854849221599441088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_2
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 466
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4043299ac1735a870800000000000000
+      internalID: 8693415251952153604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_3
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 667
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c65cb544103ab300800000000000000
+      internalID: 268579991409415875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_4
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 663
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc132f045152fe30800000000000000
+      internalID: 4535777196188572858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_5
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 286
+        width: 198
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbac72bfe41350bc0800000000000000
+      internalID: -3817590893835728195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_6
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 529
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3986eafe6eb6100800000000000000
+      internalID: 102429333643629557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_7
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 495
+        width: 7
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5261a7b197f4e3100800000000000000
+      internalID: 89596424164611621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_8
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 83
+        width: 988
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c3c94b9d72a57d0800000000000000
+      internalID: -2928984791659561984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_9
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 552
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb9f4bd7136a3220800000000000000
+      internalID: 2466392700053593051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_10
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 550
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1374d4e71875e7080800000000000000
+      internalID: -9187809976107841743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_11
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 558
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8a61443414c0250800000000000000
+      internalID: 5912172167991568558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_12
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 517
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23cbd7b8c2bafac0800000000000000
+      internalID: -3820544758722608339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_13
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 530
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e93144732bc73e10800000000000000
+      internalID: 2177432297991649768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_14
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 436
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d4eb9a1c4785e20800000000000000
+      internalID: 3339547498820554051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_15
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 461
+        width: 6
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864ae7f22b9571440800000000000000
+      internalID: 4906488940879324264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_16
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 473
+        width: 6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14248cd588fa5ff0800000000000000
+      internalID: -46451592319982562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_17
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 512
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7346a6136b8fb820800000000000000
+      internalID: 2936218739766870910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 467
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4355a341ec14c40800000000000000
+      internalID: 5494899606642046122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_19
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 467
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baec8c5bd4dd1b140800000000000000
+      internalID: 4733808009175158443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_20
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 467
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29e644fa7d588b50800000000000000
+      internalID: 6595624436949772588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_21
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 466
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc3870873ac13f80800000000000000
+      internalID: -8128493512699659084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_22
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 467
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52a91e70df9470f0800000000000000
+      internalID: -1120094689490787749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_23
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 442
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e130f38879bffe00800000000000000
+      internalID: 1080786362852979173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_24
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 439
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af26c00848d1df340800000000000000
+      internalID: 4899104424570151674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_25
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 383
+        width: 7
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd80ae0de23368560800000000000000
+      internalID: 7315590920876460253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_26
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 414
+        width: 6
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbd47f04054c8380800000000000000
+      internalID: -8967716874259997735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_27
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 440
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5efbc4f84368050800000000000000
+      internalID: 5802382959986075051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_28
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 423
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66ced843f2851a10800000000000000
+      internalID: 1879552400908273261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_29
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 385
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddf64f478778a350800000000000000
+      internalID: 6028199524269751766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_30
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 426
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede6771ce805c7a80800000000000000
+      internalID: -8467804625301967138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_31
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 409
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0981a04f78dc86430800000000000000
+      internalID: 3776494271348742288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_32
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 389
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7cee77047eef7a0800000000000000
+      internalID: -6341376961215019103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_33
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 387
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0061bc5575f3c60800000000000000
+      internalID: 7800049105620041901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_34
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 386
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793c8e51002d1ad60800000000000000
+      internalID: 7899826119193969559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_35
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 384
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b4008f8295116b0800000000000000
+      internalID: -5327378851708253375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_36
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 383
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb7b9e1a72f3be80800000000000000
+      internalID: -8163915093179139138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 274
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6c8bb16e0ec8b40800000000000000
+      internalID: 5443973328496281328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_38
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 278
+        width: 88
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dbfe29e4bd604b0800000000000000
+      internalID: -5474447166503142095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_39
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 275
+        width: 194
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d58b6a786b194f0800000000000000
+      internalID: -823676563098149625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_40
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 285
+        width: 80
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43714f913e7b258b0800000000000000
+      internalID: -5164863636619651276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_41
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 279
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6b93a9d19ac7aa0800000000000000
+      internalID: -6161864245543061767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_42
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 279
+        width: 60
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8869dfc9e8b07a190800000000000000
+      internalID: -7951373909952194936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_43
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 285
+        width: 40
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630f0ea52d12cb850800000000000000
+      internalID: 6394022758310801462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_44
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 290
+        width: 46
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343f5d990c0ae49c0800000000000000
+      internalID: -3941035874827504829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_45
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 284
+        width: 59
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a17eae90cf20a910800000000000000
+      internalID: 1846528351564362145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_46
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 279
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd3f499afea848e0800000000000000
+      internalID: -1708923667249939022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_47
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 280
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6be83268fa8ed10800000000000000
+      internalID: 2155165412353816291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_48
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 285
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c9cec0acb3c7ef0800000000000000
+      internalID: -109146551977468924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_49
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 285
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4835a476a9b53560800000000000000
+      internalID: 7292939296169080910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_50
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 279
+        width: 50
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc48e0cb0f1249640800000000000000
+      internalID: 5085727197039068363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_51
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 285
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7d34d1710acaf50800000000000000
+      internalID: 6894061150733064156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_52
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 290
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac02454c3c4145db0800000000000000
+      internalID: -4804192071452450614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_53
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 285
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509e07a6f60af2270800000000000000
+      internalID: 8227971444616784133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_54
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 279
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3c9051a516a11e0800000000000000
+      internalID: -2226360026253376514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_55
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 280
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa089921c0a211e0800000000000000
+      internalID: -2228542114108011866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_56
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 285
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f6a2a2bf46b9a50800000000000000
+      internalID: 6528923114710658905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_57
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 279
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9158bbeebcc62e3a0800000000000000
+      internalID: -6637623277651262183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_58
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 280
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c6863878ff851f0800000000000000
+      internalID: -1055813155128054715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_59
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 290
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e303eafd1ad240050800000000000000
+      internalID: 5765783596206796862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_60
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 279
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4844eb8a09148d180800000000000000
+      internalID: -9090443758285208444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_61
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 280
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97f8a9a8f1dd48b0800000000000000
+      internalID: -5166242331595573347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_62
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 279
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b9698bec2dc61b0800000000000000
+      internalID: -5661918846209582314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_63
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 280
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ab0181d9ab85c90800000000000000
+      internalID: -7180784421965874553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_64
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 279
+        width: 238
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050e80d78425569e0800000000000000
+      internalID: -1628805218935709616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_65
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1ed390c44f52920800000000000000
+      internalID: 2965044537103081896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_66
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 83
+        width: 88
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45508a3d40bf50750800000000000000
+      internalID: 6270694054332728660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_67
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 83
+        width: 112
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16834b61a8d39a500800000000000000
+      internalID: 407924904549431393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_68
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 83
+        width: 112
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dd71e4b86dc1c40800000000000000
+      internalID: 5484494340029406595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_69
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 83
+        width: 112
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690249b1b4491b400800000000000000
+      internalID: 338214497335648406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_70
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 83
+        width: 112
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292dbbeb6ac03b880800000000000000
+      internalID: -8596513353416060270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_71
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 83
+        width: 112
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f405dc13f8df50f00800000000000000
+      internalID: 1082550076910161999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_72
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 83
+        width: 112
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52948db39b28ed870800000000000000
+      internalID: 8709542461465708837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_73
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 83
+        width: 112
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e615063cdc3c59e00800000000000000
+      internalID: 1050961376574460270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_74
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 83
+        width: 88
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479f7ea002bce9740800000000000000
+      internalID: 5160785561495533940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb Black Sprite Sheet 192x192_75
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 83
+        width: 68
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cce7d39355732a00800000000000000
+      internalID: 730556566387289280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orb Black Sprite Sheet 192x192_0: -2271272826717150239
+      Orb Black Sprite Sheet 192x192_1: 854849221599441088
+      Orb Black Sprite Sheet 192x192_10: -9187809976107841743
+      Orb Black Sprite Sheet 192x192_11: 5912172167991568558
+      Orb Black Sprite Sheet 192x192_12: -3820544758722608339
+      Orb Black Sprite Sheet 192x192_13: 2177432297991649768
+      Orb Black Sprite Sheet 192x192_14: 3339547498820554051
+      Orb Black Sprite Sheet 192x192_15: 4906488940879324264
+      Orb Black Sprite Sheet 192x192_16: -46451592319982562
+      Orb Black Sprite Sheet 192x192_17: 2936218739766870910
+      Orb Black Sprite Sheet 192x192_18: 5494899606642046122
+      Orb Black Sprite Sheet 192x192_19: 4733808009175158443
+      Orb Black Sprite Sheet 192x192_2: 8693415251952153604
+      Orb Black Sprite Sheet 192x192_20: 6595624436949772588
+      Orb Black Sprite Sheet 192x192_21: -8128493512699659084
+      Orb Black Sprite Sheet 192x192_22: -1120094689490787749
+      Orb Black Sprite Sheet 192x192_23: 1080786362852979173
+      Orb Black Sprite Sheet 192x192_24: 4899104424570151674
+      Orb Black Sprite Sheet 192x192_25: 7315590920876460253
+      Orb Black Sprite Sheet 192x192_26: -8967716874259997735
+      Orb Black Sprite Sheet 192x192_27: 5802382959986075051
+      Orb Black Sprite Sheet 192x192_28: 1879552400908273261
+      Orb Black Sprite Sheet 192x192_29: 6028199524269751766
+      Orb Black Sprite Sheet 192x192_3: 268579991409415875
+      Orb Black Sprite Sheet 192x192_30: -8467804625301967138
+      Orb Black Sprite Sheet 192x192_31: 3776494271348742288
+      Orb Black Sprite Sheet 192x192_32: -6341376961215019103
+      Orb Black Sprite Sheet 192x192_33: 7800049105620041901
+      Orb Black Sprite Sheet 192x192_34: 7899826119193969559
+      Orb Black Sprite Sheet 192x192_35: -5327378851708253375
+      Orb Black Sprite Sheet 192x192_36: -8163915093179139138
+      Orb Black Sprite Sheet 192x192_37: 5443973328496281328
+      Orb Black Sprite Sheet 192x192_38: -5474447166503142095
+      Orb Black Sprite Sheet 192x192_39: -823676563098149625
+      Orb Black Sprite Sheet 192x192_4: 4535777196188572858
+      Orb Black Sprite Sheet 192x192_40: -5164863636619651276
+      Orb Black Sprite Sheet 192x192_41: -6161864245543061767
+      Orb Black Sprite Sheet 192x192_42: -7951373909952194936
+      Orb Black Sprite Sheet 192x192_43: 6394022758310801462
+      Orb Black Sprite Sheet 192x192_44: -3941035874827504829
+      Orb Black Sprite Sheet 192x192_45: 1846528351564362145
+      Orb Black Sprite Sheet 192x192_46: -1708923667249939022
+      Orb Black Sprite Sheet 192x192_47: 2155165412353816291
+      Orb Black Sprite Sheet 192x192_48: -109146551977468924
+      Orb Black Sprite Sheet 192x192_49: 7292939296169080910
+      Orb Black Sprite Sheet 192x192_5: -3817590893835728195
+      Orb Black Sprite Sheet 192x192_50: 5085727197039068363
+      Orb Black Sprite Sheet 192x192_51: 6894061150733064156
+      Orb Black Sprite Sheet 192x192_52: -4804192071452450614
+      Orb Black Sprite Sheet 192x192_53: 8227971444616784133
+      Orb Black Sprite Sheet 192x192_54: -2226360026253376514
+      Orb Black Sprite Sheet 192x192_55: -2228542114108011866
+      Orb Black Sprite Sheet 192x192_56: 6528923114710658905
+      Orb Black Sprite Sheet 192x192_57: -6637623277651262183
+      Orb Black Sprite Sheet 192x192_58: -1055813155128054715
+      Orb Black Sprite Sheet 192x192_59: 5765783596206796862
+      Orb Black Sprite Sheet 192x192_6: 102429333643629557
+      Orb Black Sprite Sheet 192x192_60: -9090443758285208444
+      Orb Black Sprite Sheet 192x192_61: -5166242331595573347
+      Orb Black Sprite Sheet 192x192_62: -5661918846209582314
+      Orb Black Sprite Sheet 192x192_63: -7180784421965874553
+      Orb Black Sprite Sheet 192x192_64: -1628805218935709616
+      Orb Black Sprite Sheet 192x192_65: 2965044537103081896
+      Orb Black Sprite Sheet 192x192_66: 6270694054332728660
+      Orb Black Sprite Sheet 192x192_67: 407924904549431393
+      Orb Black Sprite Sheet 192x192_68: 5484494340029406595
+      Orb Black Sprite Sheet 192x192_69: 338214497335648406
+      Orb Black Sprite Sheet 192x192_7: 89596424164611621
+      Orb Black Sprite Sheet 192x192_70: -8596513353416060270
+      Orb Black Sprite Sheet 192x192_71: 1082550076910161999
+      Orb Black Sprite Sheet 192x192_72: 8709542461465708837
+      Orb Black Sprite Sheet 192x192_73: 1050961376574460270
+      Orb Black Sprite Sheet 192x192_74: 5160785561495533940
+      Orb Black Sprite Sheet 192x192_75: 730556566387289280
+      Orb Black Sprite Sheet 192x192_8: -2928984791659561984
+      Orb Black Sprite Sheet 192x192_9: 2466392700053593051
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

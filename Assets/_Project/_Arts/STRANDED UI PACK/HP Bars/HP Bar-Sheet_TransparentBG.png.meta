@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 0e602387b8fec5849a20e1647f32c4ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6159460007747050514
+    second: HP Bar-Sheet_TransparentBG_0
+  - first:
+      213: 4835194707949369262
+    second: HP Bar-Sheet_TransparentBG_1
+  - first:
+      213: 599487153911205700
+    second: HP Bar-Sheet_TransparentBG_2
+  - first:
+      213: -9219018456862598372
+    second: HP Bar-Sheet_TransparentBG_3
+  - first:
+      213: -1601237674594199481
+    second: HP Bar-Sheet_TransparentBG_4
+  - first:
+      213: 1706313390079587417
+    second: HP Bar-Sheet_TransparentBG_5
+  - first:
+      213: 8582625134260128383
+    second: HP Bar-Sheet_TransparentBG_6
+  - first:
+      213: 3896850206997828837
+    second: HP Bar-Sheet_TransparentBG_7
+  - first:
+      213: -8000148704431013726
+    second: HP Bar-Sheet_TransparentBG_8
+  - first:
+      213: -5854996236802415889
+    second: HP Bar-Sheet_TransparentBG_9
+  - first:
+      213: -2362449197430255993
+    second: HP Bar-Sheet_TransparentBG_10
+  - first:
+      213: -7010103720401120126
+    second: HP Bar-Sheet_TransparentBG_11
+  - first:
+      213: -5471927094218559437
+    second: HP Bar-Sheet_TransparentBG_12
+  - first:
+      213: -5528079567301470968
+    second: HP Bar-Sheet_TransparentBG_13
+  - first:
+      213: 2459720747024493233
+    second: HP Bar-Sheet_TransparentBG_14
+  - first:
+      213: 7393396340919522997
+    second: HP Bar-Sheet_TransparentBG_15
+  - first:
+      213: -4833614568314013420
+    second: HP Bar-Sheet_TransparentBG_16
+  - first:
+      213: -9221892365901406414
+    second: HP Bar-Sheet_TransparentBG_17
+  - first:
+      213: 4589595476525043578
+    second: HP Bar-Sheet_TransparentBG_18
+  - first:
+      213: 3354052814698679798
+    second: HP Bar-Sheet_TransparentBG_19
+  - first:
+      213: -1353809068835710976
+    second: HP Bar-Sheet_TransparentBG_20
+  - first:
+      213: 3481041570319645376
+    second: HP Bar-Sheet_TransparentBG_21
+  - first:
+      213: -5741061405715440921
+    second: HP Bar-Sheet_TransparentBG_22
+  - first:
+      213: -8787161504463002140
+    second: HP Bar-Sheet_TransparentBG_23
+  - first:
+      213: 7518536139263571929
+    second: HP Bar-Sheet_TransparentBG_24
+  - first:
+      213: -2787729614141929520
+    second: HP Bar-Sheet_TransparentBG_25
+  - first:
+      213: 2038079413145841714
+    second: HP Bar-Sheet_TransparentBG_26
+  - first:
+      213: -7465315633195313698
+    second: HP Bar-Sheet_TransparentBG_27
+  - first:
+      213: 5681456199339964983
+    second: HP Bar-Sheet_TransparentBG_28
+  - first:
+      213: 7985994071226681283
+    second: HP Bar-Sheet_TransparentBG_29
+  - first:
+      213: -512653719629021755
+    second: HP Bar-Sheet_TransparentBG_30
+  - first:
+      213: -1581712065550864041
+    second: HP Bar-Sheet_TransparentBG_31
+  - first:
+      213: -4178070610931688822
+    second: HP Bar-Sheet_TransparentBG_32
+  - first:
+      213: -8888919622696721074
+    second: HP Bar-Sheet_TransparentBG_33
+  - first:
+      213: 2560605717227739557
+    second: HP Bar-Sheet_TransparentBG_34
+  - first:
+      213: -8343489346431577539
+    second: HP Bar-Sheet_TransparentBG_35
+  - first:
+      213: -7433570708075640950
+    second: HP Bar-Sheet_TransparentBG_36
+  - first:
+      213: 3261315341785218951
+    second: HP Bar-Sheet_TransparentBG_37
+  - first:
+      213: -6282348353956047513
+    second: HP Bar-Sheet_TransparentBG_38
+  - first:
+      213: 5550000416652572053
+    second: HP Bar-Sheet_TransparentBG_39
+  - first:
+      213: 329512348033682962
+    second: HP Bar-Sheet_TransparentBG_40
+  - first:
+      213: 3489994056001568678
+    second: HP Bar-Sheet_TransparentBG_41
+  - first:
+      213: -4767795380515021931
+    second: HP Bar-Sheet_TransparentBG_42
+  - first:
+      213: 7719631530784992324
+    second: HP Bar-Sheet_TransparentBG_43
+  - first:
+      213: -5532993960760267628
+    second: HP Bar-Sheet_TransparentBG_44
+  - first:
+      213: 9108805533783961381
+    second: HP Bar-Sheet_TransparentBG_45
+  - first:
+      213: 4952851986486655173
+    second: HP Bar-Sheet_TransparentBG_46
+  - first:
+      213: 1217405460008065075
+    second: HP Bar-Sheet_TransparentBG_47
+  - first:
+      213: 3727970911667584703
+    second: HP Bar-Sheet_TransparentBG_48
+  - first:
+      213: 4412551248445676489
+    second: HP Bar-Sheet_TransparentBG_49
+  - first:
+      213: -7838861395690303841
+    second: HP Bar-Sheet_TransparentBG_50
+  - first:
+      213: -4368410288182488413
+    second: HP Bar-Sheet_TransparentBG_51
+  - first:
+      213: -3783689328724881075
+    second: HP Bar-Sheet_TransparentBG_52
+  - first:
+      213: 463676429009069288
+    second: HP Bar-Sheet_TransparentBG_53
+  - first:
+      213: 4005718082679114077
+    second: HP Bar-Sheet_TransparentBG_54
+  - first:
+      213: 3584028379264507137
+    second: HP Bar-Sheet_TransparentBG_55
+  - first:
+      213: -1622014280906487581
+    second: HP Bar-Sheet_TransparentBG_56
+  - first:
+      213: 4411162398151900931
+    second: HP Bar-Sheet_TransparentBG_57
+  - first:
+      213: -2601858028236360850
+    second: HP Bar-Sheet_TransparentBG_58
+  - first:
+      213: 4400374462952528722
+    second: HP Bar-Sheet_TransparentBG_59
+  - first:
+      213: -3132228922365197182
+    second: HP Bar-Sheet_TransparentBG_60
+  - first:
+      213: -5332681429170192769
+    second: HP Bar-Sheet_TransparentBG_61
+  - first:
+      213: 879369856528245777
+    second: HP Bar-Sheet_TransparentBG_62
+  - first:
+      213: -2160886817703489881
+    second: HP Bar-Sheet_TransparentBG_63
+  - first:
+      213: 6955525420852991793
+    second: HP Bar-Sheet_TransparentBG_64
+  - first:
+      213: -2816043034189190590
+    second: HP Bar-Sheet_TransparentBG_65
+  - first:
+      213: 4715963606821979618
+    second: HP Bar-Sheet_TransparentBG_66
+  - first:
+      213: -7519053209179188458
+    second: HP Bar-Sheet_TransparentBG_67
+  - first:
+      213: 175162089961170196
+    second: HP Bar-Sheet_TransparentBG_68
+  - first:
+      213: -3003638016909061379
+    second: HP Bar-Sheet_TransparentBG_69
+  - first:
+      213: 8479891803819752392
+    second: HP Bar-Sheet_TransparentBG_70
+  - first:
+      213: -8524673010575714977
+    second: HP Bar-Sheet_TransparentBG_71
+  - first:
+      213: 1695977127628018667
+    second: HP Bar-Sheet_TransparentBG_72
+  - first:
+      213: 2730085081281784344
+    second: HP Bar-Sheet_TransparentBG_73
+  - first:
+      213: 8722186553494303806
+    second: HP Bar-Sheet_TransparentBG_74
+  - first:
+      213: -7471376963564370579
+    second: HP Bar-Sheet_TransparentBG_75
+  - first:
+      213: 377874714074020630
+    second: HP Bar-Sheet_TransparentBG_76
+  - first:
+      213: -7003728980201265969
+    second: HP Bar-Sheet_TransparentBG_77
+  - first:
+      213: 3913057014436813510
+    second: HP Bar-Sheet_TransparentBG_78
+  - first:
+      213: -6496879008995147861
+    second: HP Bar-Sheet_TransparentBG_79
+  - first:
+      213: -4645807618769370757
+    second: HP Bar-Sheet_TransparentBG_80
+  - first:
+      213: 4811090064320888628
+    second: HP Bar-Sheet_TransparentBG_81
+  - first:
+      213: -4888006055231727876
+    second: HP Bar-Sheet_TransparentBG_82
+  - first:
+      213: -190880810652735870
+    second: HP Bar-Sheet_TransparentBG_83
+  - first:
+      213: 4408985759808634791
+    second: HP Bar-Sheet_TransparentBG_84
+  - first:
+      213: 8843679229271817799
+    second: HP Bar-Sheet_TransparentBG_85
+  - first:
+      213: -4755962021286071795
+    second: HP Bar-Sheet_TransparentBG_86
+  - first:
+      213: -2331672856008039832
+    second: HP Bar-Sheet_TransparentBG_87
+  - first:
+      213: 5046626565065387034
+    second: HP Bar-Sheet_TransparentBG_88
+  - first:
+      213: 1233290439267122072
+    second: HP Bar-Sheet_TransparentBG_89
+  - first:
+      213: -3751147669261318992
+    second: HP Bar-Sheet_TransparentBG_90
+  - first:
+      213: 6717066686420757811
+    second: HP Bar-Sheet_TransparentBG_91
+  - first:
+      213: -591646093714794530
+    second: HP Bar-Sheet_TransparentBG_92
+  - first:
+      213: 6547969475554363730
+    second: HP Bar-Sheet_TransparentBG_93
+  - first:
+      213: -5131158616793378897
+    second: HP Bar-Sheet_TransparentBG_94
+  - first:
+      213: 2240565654013668187
+    second: HP Bar-Sheet_TransparentBG_95
+  - first:
+      213: -5467012355996319178
+    second: HP Bar-Sheet_TransparentBG_96
+  - first:
+      213: 2632741697038083110
+    second: HP Bar-Sheet_TransparentBG_97
+  - first:
+      213: 4228074200453100485
+    second: HP Bar-Sheet_TransparentBG_98
+  - first:
+      213: 6793336162947656955
+    second: HP Bar-Sheet_TransparentBG_99
+  - first:
+      213: 4951837601408735473
+    second: HP Bar-Sheet_TransparentBG_100
+  - first:
+      213: 3139135872223026912
+    second: HP Bar-Sheet_TransparentBG_101
+  - first:
+      213: 4261123676204895995
+    second: HP Bar-Sheet_TransparentBG_102
+  - first:
+      213: -5409393367651979448
+    second: HP Bar-Sheet_TransparentBG_103
+  - first:
+      213: 6609883964179565585
+    second: HP Bar-Sheet_TransparentBG_104
+  - first:
+      213: -3837631811967405859
+    second: HP Bar-Sheet_TransparentBG_105
+  - first:
+      213: 5256376568553874755
+    second: HP Bar-Sheet_TransparentBG_106
+  - first:
+      213: -4489067090706558957
+    second: HP Bar-Sheet_TransparentBG_107
+  - first:
+      213: -2529161765679612820
+    second: HP Bar-Sheet_TransparentBG_108
+  - first:
+      213: 1267089309106990252
+    second: HP Bar-Sheet_TransparentBG_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HP Bar-Sheet_TransparentBG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee32306d1c3358aa0800000000000000
+      internalID: -6159460007747050514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP Bar-Sheet_TransparentBG_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7bb2b08ff0a1340800000000000000
+      internalID: 4835194707949369262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP Bar-Sheet_TransparentBG_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f8948e36ec15800800000000000000
+      internalID: 599487153911205700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP Bar-Sheet_TransparentBG_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b5fe4de877f0080800000000000000
+      internalID: -9219018456862598372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP Bar-Sheet_TransparentBG_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74817d491d247c9e0800000000000000
+      internalID: -1601237674594199481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP Bar-Sheet_TransparentBG_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954bf23ecfa0ea710800000000000000
+      internalID: 1706313390079587417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP Bar-Sheet_TransparentBG_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a0aef361c9b1770800000000000000
+      internalID: 8582625134260128383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP Bar-Sheet_TransparentBG_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4530bed94641630800000000000000
+      internalID: 3896850206997828837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP Bar-Sheet_TransparentBG_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a08612d323c9f090800000000000000
+      internalID: -8000148704431013726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP Bar-Sheet_TransparentBG_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2a42891ffdebea0800000000000000
+      internalID: -5854996236802415889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP Bar-Sheet_TransparentBG_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e4343c8f4e63fd0800000000000000
+      internalID: -2362449197430255993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c7ffbddcf7e3755438f083131756892c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":11.0,"y":1.0},"gridSpriteSize":{"x":51.0,"y":9.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      HP Bar-Sheet_TransparentBG_0: -6159460007747050514
+      HP Bar-Sheet_TransparentBG_1: 4835194707949369262
+      HP Bar-Sheet_TransparentBG_10: -2362449197430255993
+      HP Bar-Sheet_TransparentBG_2: 599487153911205700
+      HP Bar-Sheet_TransparentBG_3: -9219018456862598372
+      HP Bar-Sheet_TransparentBG_4: -1601237674594199481
+      HP Bar-Sheet_TransparentBG_5: 1706313390079587417
+      HP Bar-Sheet_TransparentBG_6: 8582625134260128383
+      HP Bar-Sheet_TransparentBG_7: 3896850206997828837
+      HP Bar-Sheet_TransparentBG_8: -8000148704431013726
+      HP Bar-Sheet_TransparentBG_9: -5854996236802415889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: e1fb456d167585c4987457d959b34cc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4116540847373522409
+    second: Tribe Tamed Beast-death_0
+  - first:
+      213: 87000336998575607
+    second: Tribe Tamed Beast-death_1
+  - first:
+      213: -4513132478456746016
+    second: Tribe Tamed Beast-death_2
+  - first:
+      213: 7125199125599975876
+    second: Tribe Tamed Beast-death_3
+  - first:
+      213: -2762140541411618608
+    second: Tribe Tamed Beast-death_4
+  - first:
+      213: 7205600862953769894
+    second: Tribe Tamed Beast-death_5
+  - first:
+      213: -3201521305722877860
+    second: Tribe Tamed Beast-death_6
+  - first:
+      213: 13146508855948324
+    second: Tribe Tamed Beast-death_7
+  - first:
+      213: -1090171927962265357
+    second: Tribe Tamed Beast-death_8
+  - first:
+      213: 2858371654822680431
+    second: Tribe Tamed Beast-death_9
+  - first:
+      213: 2796845634079324288
+    second: Tribe Tamed Beast-death_10
+  - first:
+      213: -455168760162106566
+    second: Tribe Tamed Beast-death_11
+  - first:
+      213: -3451926957776111452
+    second: Tribe Tamed Beast-death_12
+  - first:
+      213: -1151762224092174792
+    second: Tribe Tamed Beast-death_13
+  - first:
+      213: 2209899557446079450
+    second: Tribe Tamed Beast-death_14
+  - first:
+      213: 3041611872857939352
+    second: Tribe Tamed Beast-death_15
+  - first:
+      213: 8777061475746886741
+    second: Tribe Tamed Beast-death_16
+  - first:
+      213: -3431800847709680626
+    second: Tribe Tamed Beast-death_17
+  - first:
+      213: 1282339376784834577
+    second: Tribe Tamed Beast-death_18
+  - first:
+      213: 779724688188404458
+    second: Tribe Tamed Beast-death_19
+  - first:
+      213: 5207955160509991190
+    second: Tribe Tamed Beast-death_20
+  - first:
+      213: -7578434522713321633
+    second: Tribe Tamed Beast-death_21
+  - first:
+      213: 1984697086337893477
+    second: Tribe Tamed Beast-death_22
+  - first:
+      213: -3582859260038090639
+    second: Tribe Tamed Beast-death_23
+  - first:
+      213: -294620619504650707
+    second: Tribe Tamed Beast-death_24
+  - first:
+      213: -6643814483859319317
+    second: Tribe Tamed Beast-death_25
+  - first:
+      213: 2417254276797957436
+    second: Tribe Tamed Beast-death_26
+  - first:
+      213: -5409209792761106326
+    second: Tribe Tamed Beast-death_27
+  - first:
+      213: 7213316494881576033
+    second: Tribe Tamed Beast-death_28
+  - first:
+      213: -8727439466340342416
+    second: Tribe Tamed Beast-death_29
+  - first:
+      213: 8621493027300579445
+    second: Tribe Tamed Beast-death_30
+  - first:
+      213: 7514690321469579708
+    second: Tribe Tamed Beast-death_31
+  - first:
+      213: 8472223621772627031
+    second: Tribe Tamed Beast-death_32
+  - first:
+      213: 4415898959416340035
+    second: Tribe Tamed Beast-death_33
+  - first:
+      213: 2470175821174874777
+    second: Tribe Tamed Beast-death_34
+  - first:
+      213: -8658114968333936439
+    second: Tribe Tamed Beast-death_35
+  - first:
+      213: -7171107840809562129
+    second: Tribe Tamed Beast-death_36
+  - first:
+      213: 8667880605301143746
+    second: Tribe Tamed Beast-death_37
+  - first:
+      213: 4128859459368301179
+    second: Tribe Tamed Beast-death_38
+  - first:
+      213: -4593686057680606366
+    second: Tribe Tamed Beast-death_39
+  - first:
+      213: -5945341771643294350
+    second: Tribe Tamed Beast-death_40
+  - first:
+      213: 7410250761123531400
+    second: Tribe Tamed Beast-death_41
+  - first:
+      213: -6483804410443935120
+    second: Tribe Tamed Beast-death_42
+  - first:
+      213: -8602921806208060849
+    second: Tribe Tamed Beast-death_43
+  - first:
+      213: 4338192506624758338
+    second: Tribe Tamed Beast-death_44
+  - first:
+      213: 9211042058552931026
+    second: Tribe Tamed Beast-death_45
+  - first:
+      213: -5633556822870961399
+    second: Tribe Tamed Beast-death_46
+  - first:
+      213: 5965735793363661247
+    second: Tribe Tamed Beast-death_47
+  - first:
+      213: -320873685395988171
+    second: Tribe Tamed Beast-death_48
+  - first:
+      213: -8785856744018275824
+    second: Tribe Tamed Beast-death_49
+  - first:
+      213: 6798995478057781968
+    second: Tribe Tamed Beast-death_50
+  - first:
+      213: 8495731430230574725
+    second: Tribe Tamed Beast-death_51
+  - first:
+      213: -5989425080247149620
+    second: Tribe Tamed Beast-death_52
+  - first:
+      213: -7623115368410926846
+    second: Tribe Tamed Beast-death_53
+  - first:
+      213: 4369708403534997300
+    second: Tribe Tamed Beast-death_54
+  - first:
+      213: 5674437122057728097
+    second: Tribe Tamed Beast-death_55
+  - first:
+      213: 5578709944793394305
+    second: Tribe Tamed Beast-death_56
+  - first:
+      213: 6686514837351583779
+    second: Tribe Tamed Beast-death_57
+  - first:
+      213: 4587140885650103073
+    second: Tribe Tamed Beast-death_58
+  - first:
+      213: -1878599545809005322
+    second: Tribe Tamed Beast-death_59
+  - first:
+      213: 2664951842337547568
+    second: Tribe Tamed Beast-death_60
+  - first:
+      213: 5751874860125695964
+    second: Tribe Tamed Beast-death_61
+  - first:
+      213: -9194965411201587769
+    second: Tribe Tamed Beast-death_62
+  - first:
+      213: -1059961068561839038
+    second: Tribe Tamed Beast-death_63
+  - first:
+      213: 3431422384976916396
+    second: Tribe Tamed Beast-death_64
+  - first:
+      213: 1763061036025720788
+    second: Tribe Tamed Beast-death_65
+  - first:
+      213: 979298412095669348
+    second: Tribe Tamed Beast-death_66
+  - first:
+      213: 5913066320941152284
+    second: Tribe Tamed Beast-death_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5951f1714e02930800000000000000
+      internalID: 4116540847373522409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fda3267856153100800000000000000
+      internalID: 87000336998575607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efae452ce12e51c0800000000000000
+      internalID: -4513132478456746016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c97f439adac1e260800000000000000
+      internalID: 7125199125599975876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d09471efc7eaa9d0800000000000000
+      internalID: -2762140541411618608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab8b95decf6ff360800000000000000
+      internalID: 7205600862953769894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c580b87b559e193d0800000000000000
+      internalID: -3201521305722877860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424356e1ea4be2000800000000000000
+      internalID: 13146508855948324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_8
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8d4b1586eeed0f0800000000000000
+      internalID: -1090171927962265357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6750c130e9faa720800000000000000
+      internalID: 2858371654822680431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_10
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08876ee294460d620800000000000000
+      internalID: 2796845634079324288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33cea99c6aeea9f0800000000000000
+      internalID: -455168760162106566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_12
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8f82398ba4810d0800000000000000
+      internalID: -3451926957776111452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_13
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836a5470c5e1400f0800000000000000
+      internalID: -1151762224092174792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_14
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3ddde50f32bae10800000000000000
+      internalID: 2209899557446079450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_15
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dde4a12e9f53a20800000000000000
+      internalID: 3041611872857939352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-death_16
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554b8a9c8e26ec970800000000000000
+      internalID: 8777061475746886741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c5409814336d22044a6ae4398188e523
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":17.0,"y":1.0},"gridSpriteSize":{"x":76.0,"y":67.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tribe Tamed Beast-death_0: 4116540847373522409
+      Tribe Tamed Beast-death_1: 87000336998575607
+      Tribe Tamed Beast-death_10: 2796845634079324288
+      Tribe Tamed Beast-death_11: -455168760162106566
+      Tribe Tamed Beast-death_12: -3451926957776111452
+      Tribe Tamed Beast-death_13: -1151762224092174792
+      Tribe Tamed Beast-death_14: 2209899557446079450
+      Tribe Tamed Beast-death_15: 3041611872857939352
+      Tribe Tamed Beast-death_16: 8777061475746886741
+      Tribe Tamed Beast-death_2: -4513132478456746016
+      Tribe Tamed Beast-death_3: 7125199125599975876
+      Tribe Tamed Beast-death_4: -2762140541411618608
+      Tribe Tamed Beast-death_5: 7205600862953769894
+      Tribe Tamed Beast-death_6: -3201521305722877860
+      Tribe Tamed Beast-death_7: 13146508855948324
+      Tribe Tamed Beast-death_8: -1090171927962265357
+      Tribe Tamed Beast-death_9: 2858371654822680431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6526 @@
+fileFormatVersion: 2
+guid: 4fd4ca8dd89e238469b81fce21aa9612
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6780292683394555685
+    second: Hand 133x103 Sprite Sheet _0
+  - first:
+      213: 6253237679259918031
+    second: Hand 133x103 Sprite Sheet _1
+  - first:
+      213: 5623800503901977156
+    second: Hand 133x103 Sprite Sheet _2
+  - first:
+      213: -8777856296973752679
+    second: Hand 133x103 Sprite Sheet _3
+  - first:
+      213: -7470096752607369492
+    second: Hand 133x103 Sprite Sheet _4
+  - first:
+      213: -6959567425395506489
+    second: Hand 133x103 Sprite Sheet _5
+  - first:
+      213: 1025172638317539244
+    second: Hand 133x103 Sprite Sheet _6
+  - first:
+      213: -548709568792366715
+    second: Hand 133x103 Sprite Sheet _7
+  - first:
+      213: -7296616737750873219
+    second: Hand 133x103 Sprite Sheet _8
+  - first:
+      213: -582318040128248092
+    second: Hand 133x103 Sprite Sheet _9
+  - first:
+      213: -1798733238533977276
+    second: Hand 133x103 Sprite Sheet _10
+  - first:
+      213: -6397235510329387405
+    second: Hand 133x103 Sprite Sheet _11
+  - first:
+      213: -3319853240281991275
+    second: Hand 133x103 Sprite Sheet _12
+  - first:
+      213: -4929361461520130251
+    second: Hand 133x103 Sprite Sheet _13
+  - first:
+      213: 7126698425354480164
+    second: Hand 133x103 Sprite Sheet _14
+  - first:
+      213: -56556939406299057
+    second: Hand 133x103 Sprite Sheet _15
+  - first:
+      213: 7463992337609447644
+    second: Hand 133x103 Sprite Sheet _16
+  - first:
+      213: -6039153808731933981
+    second: Hand 133x103 Sprite Sheet _17
+  - first:
+      213: -8717401883422115360
+    second: Hand 133x103 Sprite Sheet _18
+  - first:
+      213: -3417273799846976727
+    second: Hand 133x103 Sprite Sheet _19
+  - first:
+      213: -1667001587727998707
+    second: Hand 133x103 Sprite Sheet _20
+  - first:
+      213: -938991997846843654
+    second: Hand 133x103 Sprite Sheet _21
+  - first:
+      213: 8557588486638008681
+    second: Hand 133x103 Sprite Sheet _22
+  - first:
+      213: -4881692569950094391
+    second: Hand 133x103 Sprite Sheet _23
+  - first:
+      213: 2240295869042308705
+    second: Hand 133x103 Sprite Sheet _24
+  - first:
+      213: -1428546682707889283
+    second: Hand 133x103 Sprite Sheet _25
+  - first:
+      213: -3355485699702098594
+    second: Hand 133x103 Sprite Sheet _26
+  - first:
+      213: -1088933690638052765
+    second: Hand 133x103 Sprite Sheet _27
+  - first:
+      213: 7251244452896710618
+    second: Hand 133x103 Sprite Sheet _28
+  - first:
+      213: -4311254182413661574
+    second: Hand 133x103 Sprite Sheet _29
+  - first:
+      213: -8904718506535651941
+    second: Hand 133x103 Sprite Sheet _30
+  - first:
+      213: -4289273700770144486
+    second: Hand 133x103 Sprite Sheet _31
+  - first:
+      213: 560091593883108043
+    second: Hand 133x103 Sprite Sheet _32
+  - first:
+      213: 125903589413535888
+    second: Hand 133x103 Sprite Sheet _33
+  - first:
+      213: -6237752271437760749
+    second: Hand 133x103 Sprite Sheet _34
+  - first:
+      213: -3689165494550821077
+    second: Hand 133x103 Sprite Sheet _35
+  - first:
+      213: 1504245173544318165
+    second: Hand 133x103 Sprite Sheet _36
+  - first:
+      213: -3110800109587075861
+    second: Hand 133x103 Sprite Sheet _37
+  - first:
+      213: 6073020519120359563
+    second: Hand 133x103 Sprite Sheet _38
+  - first:
+      213: 4635794842935176800
+    second: Hand 133x103 Sprite Sheet _39
+  - first:
+      213: -5477066319792161010
+    second: Hand 133x103 Sprite Sheet _40
+  - first:
+      213: -175749432891688562
+    second: Hand 133x103 Sprite Sheet _41
+  - first:
+      213: -1045730976675412347
+    second: Hand 133x103 Sprite Sheet _42
+  - first:
+      213: 6042495088992304399
+    second: Hand 133x103 Sprite Sheet _43
+  - first:
+      213: 9025929392118134568
+    second: Hand 133x103 Sprite Sheet _44
+  - first:
+      213: -2641626607953944139
+    second: Hand 133x103 Sprite Sheet _45
+  - first:
+      213: 2117499829145095370
+    second: Hand 133x103 Sprite Sheet _46
+  - first:
+      213: -9105105788402234658
+    second: Hand 133x103 Sprite Sheet _47
+  - first:
+      213: 4665761780315270241
+    second: Hand 133x103 Sprite Sheet _48
+  - first:
+      213: 6780519055450781077
+    second: Hand 133x103 Sprite Sheet _49
+  - first:
+      213: -473769339788377324
+    second: Hand 133x103 Sprite Sheet _50
+  - first:
+      213: 7475799569446042468
+    second: Hand 133x103 Sprite Sheet _51
+  - first:
+      213: 8603672363930276349
+    second: Hand 133x103 Sprite Sheet _52
+  - first:
+      213: -349353158896403661
+    second: Hand 133x103 Sprite Sheet _53
+  - first:
+      213: -3514891921907445153
+    second: Hand 133x103 Sprite Sheet _54
+  - first:
+      213: 5120869478558579298
+    second: Hand 133x103 Sprite Sheet _55
+  - first:
+      213: -1494830284811858567
+    second: Hand 133x103 Sprite Sheet _56
+  - first:
+      213: 4955266193602934720
+    second: Hand 133x103 Sprite Sheet _57
+  - first:
+      213: -8481128666194031791
+    second: Hand 133x103 Sprite Sheet _58
+  - first:
+      213: -8222820513625814936
+    second: Hand 133x103 Sprite Sheet _59
+  - first:
+      213: 4041014848672694907
+    second: Hand 133x103 Sprite Sheet _60
+  - first:
+      213: 6909246771095877598
+    second: Hand 133x103 Sprite Sheet _61
+  - first:
+      213: 7004999376375446500
+    second: Hand 133x103 Sprite Sheet _62
+  - first:
+      213: -4604345097154978612
+    second: Hand 133x103 Sprite Sheet _63
+  - first:
+      213: 8238570074093018818
+    second: Hand 133x103 Sprite Sheet _64
+  - first:
+      213: 8078842989053964577
+    second: Hand 133x103 Sprite Sheet _65
+  - first:
+      213: -7245166727428357052
+    second: Hand 133x103 Sprite Sheet _66
+  - first:
+      213: 6916749468038927687
+    second: Hand 133x103 Sprite Sheet _67
+  - first:
+      213: -3170930855388739489
+    second: Hand 133x103 Sprite Sheet _68
+  - first:
+      213: 4766574055881262492
+    second: Hand 133x103 Sprite Sheet _69
+  - first:
+      213: 2044680954816649791
+    second: Hand 133x103 Sprite Sheet _70
+  - first:
+      213: -255774639480992321
+    second: Hand 133x103 Sprite Sheet _71
+  - first:
+      213: -8494144210493140888
+    second: Hand 133x103 Sprite Sheet _72
+  - first:
+      213: 7778248018290735568
+    second: Hand 133x103 Sprite Sheet _73
+  - first:
+      213: 2309463731338606989
+    second: Hand 133x103 Sprite Sheet _74
+  - first:
+      213: -541349932983532699
+    second: Hand 133x103 Sprite Sheet _75
+  - first:
+      213: -1819517976668748041
+    second: Hand 133x103 Sprite Sheet _76
+  - first:
+      213: 3710009654104511005
+    second: Hand 133x103 Sprite Sheet _77
+  - first:
+      213: 7967697523193804958
+    second: Hand 133x103 Sprite Sheet _78
+  - first:
+      213: -7657306055140756065
+    second: Hand 133x103 Sprite Sheet _79
+  - first:
+      213: -2694216241576362130
+    second: Hand 133x103 Sprite Sheet _80
+  - first:
+      213: -4104132940781688842
+    second: Hand 133x103 Sprite Sheet _81
+  - first:
+      213: 6664008302015456120
+    second: Hand 133x103 Sprite Sheet _82
+  - first:
+      213: -424221982247114899
+    second: Hand 133x103 Sprite Sheet _83
+  - first:
+      213: -742223117445102530
+    second: Hand 133x103 Sprite Sheet _84
+  - first:
+      213: -4533417650356595959
+    second: Hand 133x103 Sprite Sheet _85
+  - first:
+      213: -8843515941574511267
+    second: Hand 133x103 Sprite Sheet _86
+  - first:
+      213: -4517939574481456988
+    second: Hand 133x103 Sprite Sheet _87
+  - first:
+      213: 5554657888784364478
+    second: Hand 133x103 Sprite Sheet _88
+  - first:
+      213: -3221408565568768810
+    second: Hand 133x103 Sprite Sheet _89
+  - first:
+      213: -4605514860382713348
+    second: Hand 133x103 Sprite Sheet _90
+  - first:
+      213: -7925836792507307377
+    second: Hand 133x103 Sprite Sheet _91
+  - first:
+      213: -247485281804230797
+    second: Hand 133x103 Sprite Sheet _92
+  - first:
+      213: -1733493358088989009
+    second: Hand 133x103 Sprite Sheet _93
+  - first:
+      213: 4344753668846590848
+    second: Hand 133x103 Sprite Sheet _94
+  - first:
+      213: 5868450357738950330
+    second: Hand 133x103 Sprite Sheet _95
+  - first:
+      213: -789391492990823808
+    second: Hand 133x103 Sprite Sheet _96
+  - first:
+      213: -4855847757360764957
+    second: Hand 133x103 Sprite Sheet _97
+  - first:
+      213: 8434677652205176049
+    second: Hand 133x103 Sprite Sheet _98
+  - first:
+      213: -292990433070993377
+    second: Hand 133x103 Sprite Sheet _99
+  - first:
+      213: 7001864432242867490
+    second: Hand 133x103 Sprite Sheet _100
+  - first:
+      213: 3650350516527673035
+    second: Hand 133x103 Sprite Sheet _101
+  - first:
+      213: 2236393342233720495
+    second: Hand 133x103 Sprite Sheet _102
+  - first:
+      213: 802549654069952868
+    second: Hand 133x103 Sprite Sheet _103
+  - first:
+      213: -5592527550042724380
+    second: Hand 133x103 Sprite Sheet _104
+  - first:
+      213: 5373774108896476139
+    second: Hand 133x103 Sprite Sheet _105
+  - first:
+      213: 9119364293072930409
+    second: Hand 133x103 Sprite Sheet _106
+  - first:
+      213: -8240243383105027790
+    second: Hand 133x103 Sprite Sheet _107
+  - first:
+      213: 9116284103593818619
+    second: Hand 133x103 Sprite Sheet _108
+  - first:
+      213: -266037798153108422
+    second: Hand 133x103 Sprite Sheet _109
+  - first:
+      213: 5942193373423114356
+    second: Hand 133x103 Sprite Sheet _110
+  - first:
+      213: -460202196206105846
+    second: Hand 133x103 Sprite Sheet _111
+  - first:
+      213: -8428738851555064478
+    second: Hand 133x103 Sprite Sheet _112
+  - first:
+      213: 8340011490795185099
+    second: Hand 133x103 Sprite Sheet _113
+  - first:
+      213: 9050620520769167064
+    second: Hand 133x103 Sprite Sheet _114
+  - first:
+      213: -1542941621017470943
+    second: Hand 133x103 Sprite Sheet _115
+  - first:
+      213: 3988684365615527625
+    second: Hand 133x103 Sprite Sheet _116
+  - first:
+      213: -5588388109062879905
+    second: Hand 133x103 Sprite Sheet _117
+  - first:
+      213: -7396408811076385652
+    second: Hand 133x103 Sprite Sheet _118
+  - first:
+      213: -3120639495615579986
+    second: Hand 133x103 Sprite Sheet _119
+  - first:
+      213: 4766434735725794508
+    second: Hand 133x103 Sprite Sheet _120
+  - first:
+      213: 1319722287901957753
+    second: Hand 133x103 Sprite Sheet _121
+  - first:
+      213: 6509393935224018485
+    second: Hand 133x103 Sprite Sheet _122
+  - first:
+      213: 7798518459350932301
+    second: Hand 133x103 Sprite Sheet _123
+  - first:
+      213: 8614929652336257180
+    second: Hand 133x103 Sprite Sheet _124
+  - first:
+      213: -8892300706887376221
+    second: Hand 133x103 Sprite Sheet _125
+  - first:
+      213: 4405160258805912731
+    second: Hand 133x103 Sprite Sheet _126
+  - first:
+      213: -2702452580132313548
+    second: Hand 133x103 Sprite Sheet _127
+  - first:
+      213: 7588928721911161412
+    second: Hand 133x103 Sprite Sheet _128
+  - first:
+      213: -5424968673047660099
+    second: Hand 133x103 Sprite Sheet _129
+  - first:
+      213: 166928978583036941
+    second: Hand 133x103 Sprite Sheet _130
+  - first:
+      213: -6014064026942497215
+    second: Hand 133x103 Sprite Sheet _131
+  - first:
+      213: 396891222824639897
+    second: Hand 133x103 Sprite Sheet _132
+  - first:
+      213: -1888143345270100521
+    second: Hand 133x103 Sprite Sheet _133
+  - first:
+      213: -8268631907860062539
+    second: Hand 133x103 Sprite Sheet _134
+  - first:
+      213: -2527712188913951564
+    second: Hand 133x103 Sprite Sheet _135
+  - first:
+      213: -9146962415478723340
+    second: Hand 133x103 Sprite Sheet _136
+  - first:
+      213: -7159463570866527479
+    second: Hand 133x103 Sprite Sheet _137
+  - first:
+      213: -5642074010010531100
+    second: Hand 133x103 Sprite Sheet _138
+  - first:
+      213: 4441792529961673568
+    second: Hand 133x103 Sprite Sheet _139
+  - first:
+      213: -7689811882050942684
+    second: Hand 133x103 Sprite Sheet _140
+  - first:
+      213: -3101487812728771514
+    second: Hand 133x103 Sprite Sheet _141
+  - first:
+      213: -2336039173944962194
+    second: Hand 133x103 Sprite Sheet _142
+  - first:
+      213: -4949895229034602612
+    second: Hand 133x103 Sprite Sheet _143
+  - first:
+      213: -5606914433479168107
+    second: Hand 133x103 Sprite Sheet _144
+  - first:
+      213: 2465579607402121745
+    second: Hand 133x103 Sprite Sheet _145
+  - first:
+      213: 8589621931817603905
+    second: Hand 133x103 Sprite Sheet _146
+  - first:
+      213: -6925981933162961148
+    second: Hand 133x103 Sprite Sheet _147
+  - first:
+      213: -5080465980657584043
+    second: Hand 133x103 Sprite Sheet _148
+  - first:
+      213: 1578817471225974897
+    second: Hand 133x103 Sprite Sheet _149
+  - first:
+      213: -4897671849061641850
+    second: Hand 133x103 Sprite Sheet _150
+  - first:
+      213: 5488603595668945648
+    second: Hand 133x103 Sprite Sheet _151
+  - first:
+      213: -1314990635794256735
+    second: Hand 133x103 Sprite Sheet _152
+  - first:
+      213: -5454300064798760327
+    second: Hand 133x103 Sprite Sheet _153
+  - first:
+      213: 6414857415455051400
+    second: Hand 133x103 Sprite Sheet _154
+  - first:
+      213: -8493608801231128576
+    second: Hand 133x103 Sprite Sheet _155
+  - first:
+      213: -4257369869287868590
+    second: Hand 133x103 Sprite Sheet _156
+  - first:
+      213: -8127760605687972424
+    second: Hand 133x103 Sprite Sheet _157
+  - first:
+      213: -5349403589214400540
+    second: Hand 133x103 Sprite Sheet _158
+  - first:
+      213: -4492895609543651064
+    second: Hand 133x103 Sprite Sheet _159
+  - first:
+      213: 5735336495822340046
+    second: Hand 133x103 Sprite Sheet _160
+  - first:
+      213: -3443101935476038626
+    second: Hand 133x103 Sprite Sheet _161
+  - first:
+      213: -8571166823241070318
+    second: Hand 133x103 Sprite Sheet _162
+  - first:
+      213: 3008879809004317848
+    second: Hand 133x103 Sprite Sheet _163
+  - first:
+      213: -7361560601779560679
+    second: Hand 133x103 Sprite Sheet _164
+  - first:
+      213: -1814521310453137360
+    second: Hand 133x103 Sprite Sheet _165
+  - first:
+      213: 6864203266703601418
+    second: Hand 133x103 Sprite Sheet _166
+  - first:
+      213: 352458774306359878
+    second: Hand 133x103 Sprite Sheet _167
+  - first:
+      213: 1412896210633527642
+    second: Hand 133x103 Sprite Sheet _168
+  - first:
+      213: -3255963217193822230
+    second: Hand 133x103 Sprite Sheet _169
+  - first:
+      213: -8507406680470942561
+    second: Hand 133x103 Sprite Sheet _170
+  - first:
+      213: 2615992131496451155
+    second: Hand 133x103 Sprite Sheet _171
+  - first:
+      213: 982469755966153043
+    second: Hand 133x103 Sprite Sheet _172
+  - first:
+      213: -6705866129717907268
+    second: Hand 133x103 Sprite Sheet _173
+  - first:
+      213: 657103252813013392
+    second: Hand 133x103 Sprite Sheet _174
+  - first:
+      213: -4051181423493113821
+    second: Hand 133x103 Sprite Sheet _175
+  - first:
+      213: 8474334931158394184
+    second: Hand 133x103 Sprite Sheet _176
+  - first:
+      213: 7908561022180835410
+    second: Hand 133x103 Sprite Sheet _177
+  - first:
+      213: -5273141198423351092
+    second: Hand 133x103 Sprite Sheet _178
+  - first:
+      213: 3167371809606409639
+    second: Hand 133x103 Sprite Sheet _179
+  - first:
+      213: 6878830241393449695
+    second: Hand 133x103 Sprite Sheet _180
+  - first:
+      213: 8888723907978383129
+    second: Hand 133x103 Sprite Sheet _181
+  - first:
+      213: -4926824818276019633
+    second: Hand 133x103 Sprite Sheet _182
+  - first:
+      213: 4920246775396432387
+    second: Hand 133x103 Sprite Sheet _183
+  - first:
+      213: 3339119050018018011
+    second: Hand 133x103 Sprite Sheet _184
+  - first:
+      213: -6540144068144578601
+    second: Hand 133x103 Sprite Sheet _185
+  - first:
+      213: 5978934104069860812
+    second: Hand 133x103 Sprite Sheet _186
+  - first:
+      213: 165468288969064156
+    second: Hand 133x103 Sprite Sheet _187
+  - first:
+      213: 4839974848039957284
+    second: Hand 133x103 Sprite Sheet _188
+  - first:
+      213: 6188172273322929493
+    second: Hand 133x103 Sprite Sheet _189
+  - first:
+      213: 9109738548361674704
+    second: Hand 133x103 Sprite Sheet _190
+  - first:
+      213: -695986055569021426
+    second: Hand 133x103 Sprite Sheet _191
+  - first:
+      213: -2130442204249477472
+    second: Hand 133x103 Sprite Sheet _192
+  - first:
+      213: -8257360298993089352
+    second: Hand 133x103 Sprite Sheet _193
+  - first:
+      213: 5779925863672068783
+    second: Hand 133x103 Sprite Sheet _194
+  - first:
+      213: -7347405195726949411
+    second: Hand 133x103 Sprite Sheet _195
+  - first:
+      213: -7071628959189032735
+    second: Hand 133x103 Sprite Sheet _196
+  - first:
+      213: -6619652661814679369
+    second: Hand 133x103 Sprite Sheet _197
+  - first:
+      213: -866063239836489220
+    second: Hand 133x103 Sprite Sheet _198
+  - first:
+      213: 5421080092204397588
+    second: Hand 133x103 Sprite Sheet _199
+  - first:
+      213: -6441099892897227904
+    second: Hand 133x103 Sprite Sheet _200
+  - first:
+      213: -7735434692180163284
+    second: Hand 133x103 Sprite Sheet _201
+  - first:
+      213: -8661634404324196110
+    second: Hand 133x103 Sprite Sheet _202
+  - first:
+      213: -4475160968283053403
+    second: Hand 133x103 Sprite Sheet _203
+  - first:
+      213: 8172245574650833246
+    second: Hand 133x103 Sprite Sheet _204
+  - first:
+      213: -3650662324069913793
+    second: Hand 133x103 Sprite Sheet _205
+  - first:
+      213: 610979140525955750
+    second: Hand 133x103 Sprite Sheet _206
+  - first:
+      213: 4041832732494573228
+    second: Hand 133x103 Sprite Sheet _207
+  - first:
+      213: 5112302288683352061
+    second: Hand 133x103 Sprite Sheet _208
+  - first:
+      213: -5180163374406604457
+    second: Hand 133x103 Sprite Sheet _209
+  - first:
+      213: 3031041143289372635
+    second: Hand 133x103 Sprite Sheet _210
+  - first:
+      213: 1024636018960090550
+    second: Hand 133x103 Sprite Sheet _211
+  - first:
+      213: 7482920972763639972
+    second: Hand 133x103 Sprite Sheet _212
+  - first:
+      213: 8020690934481614094
+    second: Hand 133x103 Sprite Sheet _213
+  - first:
+      213: 2095423292374242360
+    second: Hand 133x103 Sprite Sheet _214
+  - first:
+      213: -4793141223988896200
+    second: Hand 133x103 Sprite Sheet _215
+  - first:
+      213: 1218217333813901091
+    second: Hand 133x103 Sprite Sheet _216
+  - first:
+      213: 1456754895202599374
+    second: Hand 133x103 Sprite Sheet _217
+  - first:
+      213: 1733540252339198107
+    second: Hand 133x103 Sprite Sheet _218
+  - first:
+      213: -2430128450724547398
+    second: Hand 133x103 Sprite Sheet _219
+  - first:
+      213: -6560316751489875863
+    second: Hand 133x103 Sprite Sheet _220
+  - first:
+      213: -3554857191712863995
+    second: Hand 133x103 Sprite Sheet _221
+  - first:
+      213: -8673450871270528031
+    second: Hand 133x103 Sprite Sheet _222
+  - first:
+      213: -1768468460972344328
+    second: Hand 133x103 Sprite Sheet _223
+  - first:
+      213: -4677720910380033444
+    second: Hand 133x103 Sprite Sheet _224
+  - first:
+      213: 6045990271825458004
+    second: Hand 133x103 Sprite Sheet _225
+  - first:
+      213: 7051909067075071419
+    second: Hand 133x103 Sprite Sheet _226
+  - first:
+      213: 5771903692966300403
+    second: Hand 133x103 Sprite Sheet _227
+  - first:
+      213: -7773284841958170074
+    second: Hand 133x103 Sprite Sheet _228
+  - first:
+      213: 7485115582202760416
+    second: Hand 133x103 Sprite Sheet _229
+  - first:
+      213: 568852920677380892
+    second: Hand 133x103 Sprite Sheet _230
+  - first:
+      213: 5158453229666651701
+    second: Hand 133x103 Sprite Sheet _231
+  - first:
+      213: -8256845112031875082
+    second: Hand 133x103 Sprite Sheet _232
+  - first:
+      213: 9137530121646967248
+    second: Hand 133x103 Sprite Sheet _233
+  - first:
+      213: -3446248957477125973
+    second: Hand 133x103 Sprite Sheet _234
+  - first:
+      213: -1166974915177675475
+    second: Hand 133x103 Sprite Sheet _235
+  - first:
+      213: -5453561562694557462
+    second: Hand 133x103 Sprite Sheet _236
+  - first:
+      213: -2190944708304323397
+    second: Hand 133x103 Sprite Sheet _237
+  - first:
+      213: 6387828661048275429
+    second: Hand 133x103 Sprite Sheet _238
+  - first:
+      213: 7422593980771372607
+    second: Hand 133x103 Sprite Sheet _239
+  - first:
+      213: 4002836960214023012
+    second: Hand 133x103 Sprite Sheet _240
+  - first:
+      213: -1578594227860248631
+    second: Hand 133x103 Sprite Sheet _241
+  - first:
+      213: -472772892948668242
+    second: Hand 133x103 Sprite Sheet _242
+  - first:
+      213: -3420468102677441103
+    second: Hand 133x103 Sprite Sheet _243
+  - first:
+      213: 8152912114734963732
+    second: Hand 133x103 Sprite Sheet _244
+  - first:
+      213: 6907010612317233713
+    second: Hand 133x103 Sprite Sheet _245
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 638
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f99e2a540781e50800000000000000
+      internalID: 6780292683394555685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 637
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce1068c986f7c650800000000000000
+      internalID: 6253237679259918031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 638
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a7dba13c0cb0e40800000000000000
+      internalID: 5623800503901977156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 637
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9962479743ace2680800000000000000
+      internalID: -8777856296973752679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 638
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6e90fe492e45890800000000000000
+      internalID: -7470096752607369492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 637
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2cbeacc46aa6f90800000000000000
+      internalID: -6959567425395506489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _6
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 638
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafed5c35152a3e00800000000000000
+      internalID: 1025172638317539244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 637
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581f54bed879268f0800000000000000
+      internalID: -548709568792366715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _8
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 639
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b80347cb53dba90800000000000000
+      internalID: -7296616737750873219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _9
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 638
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6aad7e3d03be7f0800000000000000
+      internalID: -582318040128248092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 639
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b8e7f46ad9907e0800000000000000
+      internalID: -1798733238533977276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _11
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 638
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3765d4682347837a0800000000000000
+      internalID: -6397235510329387405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _12
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 639
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597ff8a31138de1d0800000000000000
+      internalID: -3319853240281991275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 638
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f979c1ed3679bb0800000000000000
+      internalID: -4929361461520130251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _14
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 638
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ae690857e17e260800000000000000
+      internalID: 7126698425354480164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _15
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 637
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40ba1563c1173ff0800000000000000
+      internalID: -56556939406299057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _16
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 638
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8d2713c7d659760800000000000000
+      internalID: 7463992337609447644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _17
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 637
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2f5969b9d903ca0800000000000000
+      internalID: -6039153808731933981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _18
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 638
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9bd4e7c21950780800000000000000
+      internalID: -8717401883422115360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _19
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 637
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9232fd3a5976390d0800000000000000
+      internalID: -3417273799846976727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _20
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 637
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01e57b53ee9dd8e0800000000000000
+      internalID: -1667001587727998707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _21
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 636
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe8761c0c708f2f0800000000000000
+      internalID: -938991997846843654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _22
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 637
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969f7087369a2c670800000000000000
+      internalID: 8557588486638008681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _23
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 636
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbf571d87eb04cb0800000000000000
+      internalID: -4881692569950094391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _24
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 638
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166ba0a2931271f10800000000000000
+      internalID: 2240295869042308705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _25
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 637
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7332206c58cc2ce0800000000000000
+      internalID: -1428546682707889283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _26
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 638
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e557a54c88bee61d0800000000000000
+      internalID: -3355485699702098594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _27
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 637
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3625099e39453e0f0800000000000000
+      internalID: -1088933690638052765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _28
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 637
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf1e62496891a460800000000000000
+      internalID: 7251244452896710618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _29
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 637
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a01d0c9295b24c0800000000000000
+      internalID: -4311254182413661574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _30
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 638
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95781192b51c6480800000000000000
+      internalID: -8904718506535651941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _31
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 638
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f9b217b407974c0800000000000000
+      internalID: -4289273700770144486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _32
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 639
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2c51f4658d5c700800000000000000
+      internalID: 560091593883108043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _33
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 638
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c0f2c5ac4fb100800000000000000
+      internalID: 125903589413535888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _34
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 638
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317f010bb5d0f69a0800000000000000
+      internalID: -6237752271437760749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _35
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 637
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b278bab57837dccc0800000000000000
+      internalID: -3689165494550821077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _36
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 638
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d47438f30720e410800000000000000
+      internalID: 1504245173544318165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _37
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 637
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bece0d438c734d4d0800000000000000
+      internalID: -3110800109587075861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _38
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 638
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80d3d36cf3b74450800000000000000
+      internalID: 6073020519120359563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _39
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 637
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e2db029d6a55040800000000000000
+      internalID: 4635794842935176800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _40
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 637
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f388d633d8df3b0800000000000000
+      internalID: -5477066319792161010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _41
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 636
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89b30b62dc9f8df0800000000000000
+      internalID: -175749432891688562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _42
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 637
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586c3ac9731dc71f0800000000000000
+      internalID: -1045730976675412347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _43
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 636
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dbd68d4414bd350800000000000000
+      internalID: 6042495088992304399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 534
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82775f0f5fa824d70800000000000000
+      internalID: 9025929392118134568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _45
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 535
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b16fa3989e075bd0800000000000000
+      internalID: -2641626607953944139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _46
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 558
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accc42820eed26d10800000000000000
+      internalID: 2117499829145095370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 559
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda8eefb68a24a180800000000000000
+      internalID: -9105105788402234658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _48
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 560
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c29427e9d10c040800000000000000
+      internalID: 4665761780315270241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _49
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 514
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59539ecf72e391e50800000000000000
+      internalID: 6780519055450781077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _50
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 531
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413417cab45dc69f0800000000000000
+      internalID: -473769339788377324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _51
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 530
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b79d499106fb760800000000000000
+      internalID: 7475799569446042468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _52
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 534
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1d8e74e62666770800000000000000
+      internalID: 8603672363930276349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _53
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 533
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bb1d62729d62bf0800000000000000
+      internalID: -349353158896403661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _54
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 535
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5211d27b68983fc0800000000000000
+      internalID: -3514891921907445153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _55
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 534
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26abf92c8abf01740800000000000000
+      internalID: 5120869478558579298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _56
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 514
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d0b42a6cb414be0800000000000000
+      internalID: -1494830284811858567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _57
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 514
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c774355954a4c440800000000000000
+      internalID: 4955266193602934720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _58
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 526
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b4f1db96afc4a80800000000000000
+      internalID: -8481128666194031791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _59
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 514
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868c9892f4ca2ed80800000000000000
+      internalID: -8222820513625814936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _60
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 514
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72073b3891941830800000000000000
+      internalID: 4041014848672694907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _61
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 514
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed73fa0e45392ef50800000000000000
+      internalID: 6909246771095877598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _62
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 525
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebf0b891d1c63160800000000000000
+      internalID: 7004999376375446500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _63
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 523
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc14cc67841a10c0800000000000000
+      internalID: -4604345097154978612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _64
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 514
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce5a7325d7455270800000000000000
+      internalID: 8238570074093018818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _65
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 514
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12177be15e0dd1070800000000000000
+      internalID: 8078842989053964577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _66
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 514
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44447297f3ff37b90800000000000000
+      internalID: -7245166727428357052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _67
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 514
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74515d2aefa3dff50800000000000000
+      internalID: 6916749468038927687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _68
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 514
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f588a35ff279ef3d0800000000000000
+      internalID: -3170930855388739489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _69
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 517
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95456479d5462240800000000000000
+      internalID: 4766574055881262492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _70
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 514
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a5ad6ce7a206c10800000000000000
+      internalID: 2044680954816649791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _71
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 514
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd8e2f025e437cf0800000000000000
+      internalID: -255774639480992321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _72
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 514
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8609d9e28dcbe1a80800000000000000
+      internalID: -8494144210493140888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _73
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 514
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9fa199c53e1fb60800000000000000
+      internalID: 7778248018290735568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _74
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 514
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89f510170ddc0020800000000000000
+      internalID: 2309463731338606989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _75
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 514
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563c559aa1dbc78f0800000000000000
+      internalID: -541349932983532699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _76
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 514
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6c83a5a06cfb6e0800000000000000
+      internalID: -1819517976668748041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _77
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 514
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d125b2abf1a9c7330800000000000000
+      internalID: 3710009654104511005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _78
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 514
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98f9b3cea2f29e60800000000000000
+      internalID: 7967697523193804958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _79
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 514
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9533e686b8cbb590800000000000000
+      internalID: -7657306055140756065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _80
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 514
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fb0c45a983c9ad0800000000000000
+      internalID: -2694216241576362130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _81
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 514
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f76ab1c5d03b07c0800000000000000
+      internalID: -4104132940781688842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _82
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 514
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873a2e54e305b7c50800000000000000
+      internalID: 6664008302015456120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _83
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 514
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67af32da5cdc1af0800000000000000
+      internalID: -424221982247114899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _84
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 514
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e340a94d10813b5f0800000000000000
+      internalID: -742223117445102530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _85
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 514
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90352048aa01611c0800000000000000
+      internalID: -4533417650356595959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _86
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 514
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5572f82b15854580800000000000000
+      internalID: -8843515941574511267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _87
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 514
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a07a52e4ed0d41c0800000000000000
+      internalID: -4517939574481456988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _88
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 514
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb330d58beb161d40800000000000000
+      internalID: 5554657888784364478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _89
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 514
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d47fd43af14b43d0800000000000000
+      internalID: -3221408565568768810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _90
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 515
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf90b13b2ace510c0800000000000000
+      internalID: -4605514860382713348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _91
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 514
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a61ea1e65c10290800000000000000
+      internalID: -7925836792507307377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _92
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 431
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fdbea8271c09cf0800000000000000
+      internalID: -247485281804230797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _93
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 432
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa65b9aa9f461f7e0800000000000000
+      internalID: -1733493358088989009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _94
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 455
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b1d2c317aab4c30800000000000000
+      internalID: 4344753668846590848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _95
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 456
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe4b0b028ce07150800000000000000
+      internalID: 5868450357738950330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _96
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 457
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08211979e948b05f0800000000000000
+      internalID: -789391492990823808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _97
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 411
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7622b21309c9cb0800000000000000
+      internalID: -4855847757360764957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _98
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 431
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f48d96c2aefd0570800000000000000
+      internalID: 8434677652205176049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _99
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 411
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f103732e0c61febf0800000000000000
+      internalID: -292990433070993377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _100
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 432
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d37498a9e9b2160800000000000000
+      internalID: 7001864432242867490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _101
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 411
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceab435476a8a230800000000000000
+      internalID: 3650350516527673035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _102
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 308
+        width: 27
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6b3e555e3490f10800000000000000
+      internalID: 2236393342233720495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _103
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 411
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461c37588aa332b00800000000000000
+      internalID: 802549654069952868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _104
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 411
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e72e1fd2d95362b0800000000000000
+      internalID: -5592527550042724380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _105
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 423
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb37ff941b739a40800000000000000
+      internalID: 5373774108896476139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _106
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 411
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9664ef1128d7e8e70800000000000000
+      internalID: 9119364293072930409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _107
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 411
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231034f3d46c4ad80800000000000000
+      internalID: -8240243383105027790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _108
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 411
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9ff32971c838e70800000000000000
+      internalID: 9116284103593818619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _109
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 422
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34c1483808de4cf0800000000000000
+      internalID: -266037798153108422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _110
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 420
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4789099d369e67250800000000000000
+      internalID: 5942193373423114356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _111
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 411
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bc7427a880d99f0800000000000000
+      internalID: -460202196206105846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _112
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 411
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265c6800caa170b80800000000000000
+      internalID: -8428738851555064478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _113
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 411
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3e58b734cadb370800000000000000
+      internalID: 8340011490795185099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _114
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 411
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de9e4159634a9d70800000000000000
+      internalID: 9050620520769167064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _115
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 411
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128961245ce569ae0800000000000000
+      internalID: -1542941621017470943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _116
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 414
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6faad2c47aa5730800000000000000
+      internalID: 3988684365615527625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _117
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 411
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f554a449f9e0272b0800000000000000
+      internalID: -5588388109062879905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _118
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 411
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84093acf5daa5990800000000000000
+      internalID: -7396408811076385652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _119
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 411
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea877cf99e241b4d0800000000000000
+      internalID: -3120639495615579986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _120
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 411
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4d4047327c52240800000000000000
+      internalID: 4766434735725794508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _121
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 411
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97edf8cbd68905210800000000000000
+      internalID: 1319722287901957753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _122
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 411
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5361c1cbb43065a50800000000000000
+      internalID: 6509393935224018485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _123
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 411
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b50ff6837e93c60800000000000000
+      internalID: 7798518459350932301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _124
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 411
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c986b7cffd06e8770800000000000000
+      internalID: 8614929652336257180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _125
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 411
+        width: 75
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2e50ade93389480800000000000000
+      internalID: -8892300706887376221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _126
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 411
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b945bc47ae5422d30800000000000000
+      internalID: 4405160258805912731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _127
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 411
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43620e252b5fe7ad0800000000000000
+      internalID: -2702452580132313548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _128
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 411
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4422647f67a415960800000000000000
+      internalID: 7588928721911161412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _129
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 411
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db93f5d0cb3a6b4b0800000000000000
+      internalID: -5424968673047660099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _130
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 411
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d042927850d015200800000000000000
+      internalID: 166928978583036941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _131
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 411
+        width: 101
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e13a1a1a0c98ca0800000000000000
+      internalID: -6014064026942497215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _132
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 411
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ddeeed67a028500800000000000000
+      internalID: 396891222824639897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _133
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 411
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd682c91a7fbc5e0800000000000000
+      internalID: -1888143345270100521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _134
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 411
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be5a81c61bef3d80800000000000000
+      internalID: -8268631907860062539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _135
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 411
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcdb551823cbecd0800000000000000
+      internalID: -2527712188913951564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _136
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 424
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcaa8355267f0180800000000000000
+      internalID: -9146962415478723340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _137
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 413
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903a62490d974ac90800000000000000
+      internalID: -7159463570866527479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _138
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 411
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eacbd4b49353b1b0800000000000000
+      internalID: -5642074010010531100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _139
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 411
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063695ab5ca64ad30800000000000000
+      internalID: 4441792529961673568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _140
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 411
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42986cce5dc484590800000000000000
+      internalID: -7689811882050942684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _141
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 411
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c2917444d45f4d0800000000000000
+      internalID: -3101487812728771514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _142
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 411
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e631d978fb8b49fd0800000000000000
+      internalID: -2336039173944962194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _143
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 364
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fddfdc3807e4bb0800000000000000
+      internalID: -4949895229034602612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _144
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 373
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fa67a870d3032b0800000000000000
+      internalID: -5606914433479168107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _145
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 374
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a86a8f69f773220800000000000000
+      internalID: 2465579607402121745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _146
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 375
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14394e023a7743770800000000000000
+      internalID: 8589621931817603905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _147
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 374
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4076c019028f1ef90800000000000000
+      internalID: -6925981933162961148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _148
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 328
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558b279ab1f8e79b0800000000000000
+      internalID: -5080465980657584043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _149
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 329
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170da99002619e510800000000000000
+      internalID: 1578817471225974897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _150
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 272
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681104af669f70cb0800000000000000
+      internalID: -4897671849061641850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 205
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa77c0f3ef6b2c40800000000000000
+      internalID: 5488603595668945648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _152
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 272
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aca48edbf630cde0800000000000000
+      internalID: -1314990635794256735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _153
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 205
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972a74b3dfe6e44b0800000000000000
+      internalID: -5454300064798760327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _154
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 272
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e8afcf4d6260950800000000000000
+      internalID: 6414857415455051400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _155
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 205
+        width: 45
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008bc7ddbc3a02a80800000000000000
+      internalID: -8493608801231128576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _156
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 272
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25735af09a8cae4c0800000000000000
+      internalID: -4257369869287868590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _157
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 102
+        width: 45
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdfd86bac4643f80800000000000000
+      internalID: -8127760605687972424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _158
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 205
+        width: 55
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef0da827c913c5b0800000000000000
+      internalID: -5349403589214400540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _159
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 272
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8011d3c5f3706a1c0800000000000000
+      internalID: -4492895609543651064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _160
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 205
+        width: 57
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecff2d4e722089f40800000000000000
+      internalID: 5735336495822340046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _161
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 272
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14ad723805a730d0800000000000000
+      internalID: -3443101935476038626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _162
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 205
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2194a1eaf291d0980800000000000000
+      internalID: -8571166823241070318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _163
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 272
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c2c8b9e30b1c920800000000000000
+      internalID: 3008879809004317848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _164
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 272
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f1b6ac2ab76d990800000000000000
+      internalID: -7361560601779560679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _165
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 205
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030801d5b7681d6e0800000000000000
+      internalID: -1814521310453137360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _166
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 239
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fa1f1c08c824f50800000000000000
+      internalID: 6864203266703601418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _167
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 238
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a0088436f24e400800000000000000
+      internalID: 352458774306359878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _168
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 169
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a519e432e9d9b9310800000000000000
+      internalID: 1412896210633527642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _169
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 102
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae79c6d64be70d2d0800000000000000
+      internalID: -3255963217193822230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _170
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 169
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c8eb2c2be9fe980800000000000000
+      internalID: -8507406680470942561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _171
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 102
+        width: 44
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c1015cbfedd4420800000000000000
+      internalID: 2615992131496451155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _172
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 169
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3516de6a90f62ad00800000000000000
+      internalID: 982469755966153043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _173
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 102
+        width: 45
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb037d2c84affe2a0800000000000000
+      internalID: -6705866129717907268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _174
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 169
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0916cac4def7e1900800000000000000
+      internalID: 657103252813013392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _175
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 102
+        width: 55
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328180c95ff47c7c0800000000000000
+      internalID: -4051181423493113821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _176
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 169
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845616f88b2ea9570800000000000000
+      internalID: 8474334931158394184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _177
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 102
+        width: 57
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250c69b295ad0cd60800000000000000
+      internalID: 7908561022180835410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _178
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 169
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0af71b40a02d6b0800000000000000
+      internalID: -5273141198423351092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _179
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 102
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad1d2f11e3c4fb20800000000000000
+      internalID: 3167371809606409639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _180
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 167
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda9870b8a3867f50800000000000000
+      internalID: 6878830241393449695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _181
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 162
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fc291cc471b5b70800000000000000
+      internalID: 8888723907978383129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _182
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 102
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4254146ee660abb0800000000000000
+      internalID: -4926824818276019633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _183
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 161
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30af3c6af5a384440800000000000000
+      internalID: 4920246775396432387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _184
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 138
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd25017a51fe65e20800000000000000
+      internalID: 3339119050018018011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _185
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 121
+        width: 15
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df3d560f9dbc35a0800000000000000
+      internalID: -6540144068144578601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _186
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 150
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd6d80d3e079f250800000000000000
+      internalID: 5978934104069860812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _187
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 120
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeb799388cdb4200800000000000000
+      internalID: 165468288969064156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _188
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 124
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4233f332b7b0b2340800000000000000
+      internalID: 4839974848039957284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _189
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 136
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55da55075edc0e550800000000000000
+      internalID: 6188172273322929493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _190
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 135
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfb7cbb1fa4c6e70800000000000000
+      internalID: 9109738548361674704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _191
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 20
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06ee25be5c5756f0800000000000000
+      internalID: -695986055569021426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _192
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 19
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aea5315a162f62e0800000000000000
+      internalID: -2130442204249477472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _193
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 20
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b48a14be86f76d80800000000000000
+      internalID: -8257360298993089352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _194
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 19
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa344c13fb663050800000000000000
+      internalID: 5779925863672068783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _195
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 20
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3f5d717e5c80a90800000000000000
+      internalID: -7347405195726949411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _196
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 19
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e02c20cde68cdd90800000000000000
+      internalID: -7071628959189032735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _197
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 20
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8211cf9f44224a0800000000000000
+      internalID: -6619652661814679369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _198
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 19
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9a58c62102bf3f0800000000000000
+      internalID: -866063239836489220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _199
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 21
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414f8ca2f9b8b3b40800000000000000
+      internalID: 5421080092204397588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _200
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 20
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bdd0916cd9c96a0800000000000000
+      internalID: -6441099892897227904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _201
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 21
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c254e5da12736a490800000000000000
+      internalID: -7735434692180163284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _202
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 20
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f044fb8661bbc780800000000000000
+      internalID: -8661634404324196110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _203
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 21
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2abcc4fc805e1c0800000000000000
+      internalID: -4475160968283053403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _204
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 20
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59225e3d06a96170800000000000000
+      internalID: 8172245574650833246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _205
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 20
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b29e255fd365dc0800000000000000
+      internalID: -3650662324069913793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _206
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 19
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa193c8a42aa7800800000000000000
+      internalID: 610979140525955750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _207
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 20
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caea2e5a479771830800000000000000
+      internalID: 4041832732494573228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _208
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 19
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff336d68db82f640800000000000000
+      internalID: 5112302288683352061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _209
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 20
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759610e4bdc5c18b0800000000000000
+      internalID: -5180163374406604457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _210
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 19
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf5b555cdb601a20800000000000000
+      internalID: 3031041143289372635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _211
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 19
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5cf2ec70d383e00800000000000000
+      internalID: 1024636018960090550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _212
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 18
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0b5ef7afca8d760800000000000000
+      internalID: 7482920972763639972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _213
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 19
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05f8f2d8e73f4f60800000000000000
+      internalID: 8020690934481614094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _214
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 18
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834db04e160741d10800000000000000
+      internalID: 2095423292374242360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _215
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 20
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e5cd1b3775b7db0800000000000000
+      internalID: -4793141223988896200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _216
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 19
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3277331f53af7e010800000000000000
+      internalID: 1218217333813901091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _217
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 20
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1cc55ebde673410800000000000000
+      internalID: 1456754895202599374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _218
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 19
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98d480cca5ce0810800000000000000
+      internalID: 1733540252339198107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _219
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 19
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab43ef7ac03764ed0800000000000000
+      internalID: -2430128450724547398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _220
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 19
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960c66d2ca215f4a0800000000000000
+      internalID: -6560316751489875863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _221
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 20
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50946b4f73c9aaec0800000000000000
+      internalID: -3554857191712863995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _222
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 20
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb2e11f266b1a780800000000000000
+      internalID: -8673450871270528031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _223
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 21
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbf243fd432577e0800000000000000
+      internalID: -1768468460972344328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _224
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 20
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a916a9d95651fb0800000000000000
+      internalID: -4677720910380033444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _225
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 20
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453bf938e1ca7e350800000000000000
+      internalID: 6045990271825458004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _226
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 19
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdad531fe96dd160800000000000000
+      internalID: 7051909067075071419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _227
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 20
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa8501f3dbe91050800000000000000
+      internalID: 5771903692966300403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _228
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 19
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622a721fe9ebf1490800000000000000
+      internalID: -7773284841958170074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _229
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 20
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eccfe3d6f870e760800000000000000
+      internalID: 7485115582202760416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _230
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 19
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c133b6aa7b8f4e700800000000000000
+      internalID: 568852920677380892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _231
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 19
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e4fb8b1e1869740800000000000000
+      internalID: 5158453229666651701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _232
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 18
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff6be30e1bc96d80800000000000000
+      internalID: -8256845112031875082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _233
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 19
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d90331ab370fce70800000000000000
+      internalID: 9137530121646967248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _234
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 18
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0040a05d67c20d0800000000000000
+      internalID: -3446248957477125973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _235
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 28
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d250b0f5f721ecfe0800000000000000
+      internalID: -1166974915177675475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _236
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0edd627ae0154b0800000000000000
+      internalID: -5453561562694557462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _237
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 41
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcbffa55633891e0800000000000000
+      internalID: -2190944708304323397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _238
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 32
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e177d3b25026a850800000000000000
+      internalID: 6387828661048275429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _239
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e84df16e9520760800000000000000
+      internalID: 7422593980771372607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _240
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 21
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b7c53e10fec8730800000000000000
+      internalID: 4002836960214023012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _241
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 20
+        width: 528
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c768ebd9e4b71ae0800000000000000
+      internalID: -1578594227860248631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _242
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 24
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea06c580f8f5079f0800000000000000
+      internalID: -472772892948668242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _243
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 32
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b55b5e026e0880d0800000000000000
+      internalID: -3420468102677441103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _244
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 31
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c91c35f56f42170800000000000000
+      internalID: 8152912114734963732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 133x103 Sprite Sheet _245
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 22
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132a5079e81aadf50800000000000000
+      internalID: 6907010612317233713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hand 133x103 Sprite Sheet _0: 6780292683394555685
+      Hand 133x103 Sprite Sheet _1: 6253237679259918031
+      Hand 133x103 Sprite Sheet _10: -1798733238533977276
+      Hand 133x103 Sprite Sheet _100: 7001864432242867490
+      Hand 133x103 Sprite Sheet _101: 3650350516527673035
+      Hand 133x103 Sprite Sheet _102: 2236393342233720495
+      Hand 133x103 Sprite Sheet _103: 802549654069952868
+      Hand 133x103 Sprite Sheet _104: -5592527550042724380
+      Hand 133x103 Sprite Sheet _105: 5373774108896476139
+      Hand 133x103 Sprite Sheet _106: 9119364293072930409
+      Hand 133x103 Sprite Sheet _107: -8240243383105027790
+      Hand 133x103 Sprite Sheet _108: 9116284103593818619
+      Hand 133x103 Sprite Sheet _109: -266037798153108422
+      Hand 133x103 Sprite Sheet _11: -6397235510329387405
+      Hand 133x103 Sprite Sheet _110: 5942193373423114356
+      Hand 133x103 Sprite Sheet _111: -460202196206105846
+      Hand 133x103 Sprite Sheet _112: -8428738851555064478
+      Hand 133x103 Sprite Sheet _113: 8340011490795185099
+      Hand 133x103 Sprite Sheet _114: 9050620520769167064
+      Hand 133x103 Sprite Sheet _115: -1542941621017470943
+      Hand 133x103 Sprite Sheet _116: 3988684365615527625
+      Hand 133x103 Sprite Sheet _117: -5588388109062879905
+      Hand 133x103 Sprite Sheet _118: -7396408811076385652
+      Hand 133x103 Sprite Sheet _119: -3120639495615579986
+      Hand 133x103 Sprite Sheet _12: -3319853240281991275
+      Hand 133x103 Sprite Sheet _120: 4766434735725794508
+      Hand 133x103 Sprite Sheet _121: 1319722287901957753
+      Hand 133x103 Sprite Sheet _122: 6509393935224018485
+      Hand 133x103 Sprite Sheet _123: 7798518459350932301
+      Hand 133x103 Sprite Sheet _124: 8614929652336257180
+      Hand 133x103 Sprite Sheet _125: -8892300706887376221
+      Hand 133x103 Sprite Sheet _126: 4405160258805912731
+      Hand 133x103 Sprite Sheet _127: -2702452580132313548
+      Hand 133x103 Sprite Sheet _128: 7588928721911161412
+      Hand 133x103 Sprite Sheet _129: -5424968673047660099
+      Hand 133x103 Sprite Sheet _13: -4929361461520130251
+      Hand 133x103 Sprite Sheet _130: 166928978583036941
+      Hand 133x103 Sprite Sheet _131: -6014064026942497215
+      Hand 133x103 Sprite Sheet _132: 396891222824639897
+      Hand 133x103 Sprite Sheet _133: -1888143345270100521
+      Hand 133x103 Sprite Sheet _134: -8268631907860062539
+      Hand 133x103 Sprite Sheet _135: -2527712188913951564
+      Hand 133x103 Sprite Sheet _136: -9146962415478723340
+      Hand 133x103 Sprite Sheet _137: -7159463570866527479
+      Hand 133x103 Sprite Sheet _138: -5642074010010531100
+      Hand 133x103 Sprite Sheet _139: 4441792529961673568
+      Hand 133x103 Sprite Sheet _14: 7126698425354480164
+      Hand 133x103 Sprite Sheet _140: -7689811882050942684
+      Hand 133x103 Sprite Sheet _141: -3101487812728771514
+      Hand 133x103 Sprite Sheet _142: -2336039173944962194
+      Hand 133x103 Sprite Sheet _143: -4949895229034602612
+      Hand 133x103 Sprite Sheet _144: -5606914433479168107
+      Hand 133x103 Sprite Sheet _145: 2465579607402121745
+      Hand 133x103 Sprite Sheet _146: 8589621931817603905
+      Hand 133x103 Sprite Sheet _147: -6925981933162961148
+      Hand 133x103 Sprite Sheet _148: -5080465980657584043
+      Hand 133x103 Sprite Sheet _149: 1578817471225974897
+      Hand 133x103 Sprite Sheet _15: -56556939406299057
+      Hand 133x103 Sprite Sheet _150: -4897671849061641850
+      Hand 133x103 Sprite Sheet _151: 5488603595668945648
+      Hand 133x103 Sprite Sheet _152: -1314990635794256735
+      Hand 133x103 Sprite Sheet _153: -5454300064798760327
+      Hand 133x103 Sprite Sheet _154: 6414857415455051400
+      Hand 133x103 Sprite Sheet _155: -8493608801231128576
+      Hand 133x103 Sprite Sheet _156: -4257369869287868590
+      Hand 133x103 Sprite Sheet _157: -8127760605687972424
+      Hand 133x103 Sprite Sheet _158: -5349403589214400540
+      Hand 133x103 Sprite Sheet _159: -4492895609543651064
+      Hand 133x103 Sprite Sheet _16: 7463992337609447644
+      Hand 133x103 Sprite Sheet _160: 5735336495822340046
+      Hand 133x103 Sprite Sheet _161: -3443101935476038626
+      Hand 133x103 Sprite Sheet _162: -8571166823241070318
+      Hand 133x103 Sprite Sheet _163: 3008879809004317848
+      Hand 133x103 Sprite Sheet _164: -7361560601779560679
+      Hand 133x103 Sprite Sheet _165: -1814521310453137360
+      Hand 133x103 Sprite Sheet _166: 6864203266703601418
+      Hand 133x103 Sprite Sheet _167: 352458774306359878
+      Hand 133x103 Sprite Sheet _168: 1412896210633527642
+      Hand 133x103 Sprite Sheet _169: -3255963217193822230
+      Hand 133x103 Sprite Sheet _17: -6039153808731933981
+      Hand 133x103 Sprite Sheet _170: -8507406680470942561
+      Hand 133x103 Sprite Sheet _171: 2615992131496451155
+      Hand 133x103 Sprite Sheet _172: 982469755966153043
+      Hand 133x103 Sprite Sheet _173: -6705866129717907268
+      Hand 133x103 Sprite Sheet _174: 657103252813013392
+      Hand 133x103 Sprite Sheet _175: -4051181423493113821
+      Hand 133x103 Sprite Sheet _176: 8474334931158394184
+      Hand 133x103 Sprite Sheet _177: 7908561022180835410
+      Hand 133x103 Sprite Sheet _178: -5273141198423351092
+      Hand 133x103 Sprite Sheet _179: 3167371809606409639
+      Hand 133x103 Sprite Sheet _18: -8717401883422115360
+      Hand 133x103 Sprite Sheet _180: 6878830241393449695
+      Hand 133x103 Sprite Sheet _181: 8888723907978383129
+      Hand 133x103 Sprite Sheet _182: -4926824818276019633
+      Hand 133x103 Sprite Sheet _183: 4920246775396432387
+      Hand 133x103 Sprite Sheet _184: 3339119050018018011
+      Hand 133x103 Sprite Sheet _185: -6540144068144578601
+      Hand 133x103 Sprite Sheet _186: 5978934104069860812
+      Hand 133x103 Sprite Sheet _187: 165468288969064156
+      Hand 133x103 Sprite Sheet _188: 4839974848039957284
+      Hand 133x103 Sprite Sheet _189: 6188172273322929493
+      Hand 133x103 Sprite Sheet _19: -3417273799846976727
+      Hand 133x103 Sprite Sheet _190: 9109738548361674704
+      Hand 133x103 Sprite Sheet _191: -695986055569021426
+      Hand 133x103 Sprite Sheet _192: -2130442204249477472
+      Hand 133x103 Sprite Sheet _193: -8257360298993089352
+      Hand 133x103 Sprite Sheet _194: 5779925863672068783
+      Hand 133x103 Sprite Sheet _195: -7347405195726949411
+      Hand 133x103 Sprite Sheet _196: -7071628959189032735
+      Hand 133x103 Sprite Sheet _197: -6619652661814679369
+      Hand 133x103 Sprite Sheet _198: -866063239836489220
+      Hand 133x103 Sprite Sheet _199: 5421080092204397588
+      Hand 133x103 Sprite Sheet _2: 5623800503901977156
+      Hand 133x103 Sprite Sheet _20: -1667001587727998707
+      Hand 133x103 Sprite Sheet _200: -6441099892897227904
+      Hand 133x103 Sprite Sheet _201: -7735434692180163284
+      Hand 133x103 Sprite Sheet _202: -8661634404324196110
+      Hand 133x103 Sprite Sheet _203: -4475160968283053403
+      Hand 133x103 Sprite Sheet _204: 8172245574650833246
+      Hand 133x103 Sprite Sheet _205: -3650662324069913793
+      Hand 133x103 Sprite Sheet _206: 610979140525955750
+      Hand 133x103 Sprite Sheet _207: 4041832732494573228
+      Hand 133x103 Sprite Sheet _208: 5112302288683352061
+      Hand 133x103 Sprite Sheet _209: -5180163374406604457
+      Hand 133x103 Sprite Sheet _21: -938991997846843654
+      Hand 133x103 Sprite Sheet _210: 3031041143289372635
+      Hand 133x103 Sprite Sheet _211: 1024636018960090550
+      Hand 133x103 Sprite Sheet _212: 7482920972763639972
+      Hand 133x103 Sprite Sheet _213: 8020690934481614094
+      Hand 133x103 Sprite Sheet _214: 2095423292374242360
+      Hand 133x103 Sprite Sheet _215: -4793141223988896200
+      Hand 133x103 Sprite Sheet _216: 1218217333813901091
+      Hand 133x103 Sprite Sheet _217: 1456754895202599374
+      Hand 133x103 Sprite Sheet _218: 1733540252339198107
+      Hand 133x103 Sprite Sheet _219: -2430128450724547398
+      Hand 133x103 Sprite Sheet _22: 8557588486638008681
+      Hand 133x103 Sprite Sheet _220: -6560316751489875863
+      Hand 133x103 Sprite Sheet _221: -3554857191712863995
+      Hand 133x103 Sprite Sheet _222: -8673450871270528031
+      Hand 133x103 Sprite Sheet _223: -1768468460972344328
+      Hand 133x103 Sprite Sheet _224: -4677720910380033444
+      Hand 133x103 Sprite Sheet _225: 6045990271825458004
+      Hand 133x103 Sprite Sheet _226: 7051909067075071419
+      Hand 133x103 Sprite Sheet _227: 5771903692966300403
+      Hand 133x103 Sprite Sheet _228: -7773284841958170074
+      Hand 133x103 Sprite Sheet _229: 7485115582202760416
+      Hand 133x103 Sprite Sheet _23: -4881692569950094391
+      Hand 133x103 Sprite Sheet _230: 568852920677380892
+      Hand 133x103 Sprite Sheet _231: 5158453229666651701
+      Hand 133x103 Sprite Sheet _232: -8256845112031875082
+      Hand 133x103 Sprite Sheet _233: 9137530121646967248
+      Hand 133x103 Sprite Sheet _234: -3446248957477125973
+      Hand 133x103 Sprite Sheet _235: -1166974915177675475
+      Hand 133x103 Sprite Sheet _236: -5453561562694557462
+      Hand 133x103 Sprite Sheet _237: -2190944708304323397
+      Hand 133x103 Sprite Sheet _238: 6387828661048275429
+      Hand 133x103 Sprite Sheet _239: 7422593980771372607
+      Hand 133x103 Sprite Sheet _24: 2240295869042308705
+      Hand 133x103 Sprite Sheet _240: 4002836960214023012
+      Hand 133x103 Sprite Sheet _241: -1578594227860248631
+      Hand 133x103 Sprite Sheet _242: -472772892948668242
+      Hand 133x103 Sprite Sheet _243: -3420468102677441103
+      Hand 133x103 Sprite Sheet _244: 8152912114734963732
+      Hand 133x103 Sprite Sheet _245: 6907010612317233713
+      Hand 133x103 Sprite Sheet _25: -1428546682707889283
+      Hand 133x103 Sprite Sheet _26: -3355485699702098594
+      Hand 133x103 Sprite Sheet _27: -1088933690638052765
+      Hand 133x103 Sprite Sheet _28: 7251244452896710618
+      Hand 133x103 Sprite Sheet _29: -4311254182413661574
+      Hand 133x103 Sprite Sheet _3: -8777856296973752679
+      Hand 133x103 Sprite Sheet _30: -8904718506535651941
+      Hand 133x103 Sprite Sheet _31: -4289273700770144486
+      Hand 133x103 Sprite Sheet _32: 560091593883108043
+      Hand 133x103 Sprite Sheet _33: 125903589413535888
+      Hand 133x103 Sprite Sheet _34: -6237752271437760749
+      Hand 133x103 Sprite Sheet _35: -3689165494550821077
+      Hand 133x103 Sprite Sheet _36: 1504245173544318165
+      Hand 133x103 Sprite Sheet _37: -3110800109587075861
+      Hand 133x103 Sprite Sheet _38: 6073020519120359563
+      Hand 133x103 Sprite Sheet _39: 4635794842935176800
+      Hand 133x103 Sprite Sheet _4: -7470096752607369492
+      Hand 133x103 Sprite Sheet _40: -5477066319792161010
+      Hand 133x103 Sprite Sheet _41: -175749432891688562
+      Hand 133x103 Sprite Sheet _42: -1045730976675412347
+      Hand 133x103 Sprite Sheet _43: 6042495088992304399
+      Hand 133x103 Sprite Sheet _44: 9025929392118134568
+      Hand 133x103 Sprite Sheet _45: -2641626607953944139
+      Hand 133x103 Sprite Sheet _46: 2117499829145095370
+      Hand 133x103 Sprite Sheet _47: -9105105788402234658
+      Hand 133x103 Sprite Sheet _48: 4665761780315270241
+      Hand 133x103 Sprite Sheet _49: 6780519055450781077
+      Hand 133x103 Sprite Sheet _5: -6959567425395506489
+      Hand 133x103 Sprite Sheet _50: -473769339788377324
+      Hand 133x103 Sprite Sheet _51: 7475799569446042468
+      Hand 133x103 Sprite Sheet _52: 8603672363930276349
+      Hand 133x103 Sprite Sheet _53: -349353158896403661
+      Hand 133x103 Sprite Sheet _54: -3514891921907445153
+      Hand 133x103 Sprite Sheet _55: 5120869478558579298
+      Hand 133x103 Sprite Sheet _56: -1494830284811858567
+      Hand 133x103 Sprite Sheet _57: 4955266193602934720
+      Hand 133x103 Sprite Sheet _58: -8481128666194031791
+      Hand 133x103 Sprite Sheet _59: -8222820513625814936
+      Hand 133x103 Sprite Sheet _6: 1025172638317539244
+      Hand 133x103 Sprite Sheet _60: 4041014848672694907
+      Hand 133x103 Sprite Sheet _61: 6909246771095877598
+      Hand 133x103 Sprite Sheet _62: 7004999376375446500
+      Hand 133x103 Sprite Sheet _63: -4604345097154978612
+      Hand 133x103 Sprite Sheet _64: 8238570074093018818
+      Hand 133x103 Sprite Sheet _65: 8078842989053964577
+      Hand 133x103 Sprite Sheet _66: -7245166727428357052
+      Hand 133x103 Sprite Sheet _67: 6916749468038927687
+      Hand 133x103 Sprite Sheet _68: -3170930855388739489
+      Hand 133x103 Sprite Sheet _69: 4766574055881262492
+      Hand 133x103 Sprite Sheet _7: -548709568792366715
+      Hand 133x103 Sprite Sheet _70: 2044680954816649791
+      Hand 133x103 Sprite Sheet _71: -255774639480992321
+      Hand 133x103 Sprite Sheet _72: -8494144210493140888
+      Hand 133x103 Sprite Sheet _73: 7778248018290735568
+      Hand 133x103 Sprite Sheet _74: 2309463731338606989
+      Hand 133x103 Sprite Sheet _75: -541349932983532699
+      Hand 133x103 Sprite Sheet _76: -1819517976668748041
+      Hand 133x103 Sprite Sheet _77: 3710009654104511005
+      Hand 133x103 Sprite Sheet _78: 7967697523193804958
+      Hand 133x103 Sprite Sheet _79: -7657306055140756065
+      Hand 133x103 Sprite Sheet _8: -7296616737750873219
+      Hand 133x103 Sprite Sheet _80: -2694216241576362130
+      Hand 133x103 Sprite Sheet _81: -4104132940781688842
+      Hand 133x103 Sprite Sheet _82: 6664008302015456120
+      Hand 133x103 Sprite Sheet _83: -424221982247114899
+      Hand 133x103 Sprite Sheet _84: -742223117445102530
+      Hand 133x103 Sprite Sheet _85: -4533417650356595959
+      Hand 133x103 Sprite Sheet _86: -8843515941574511267
+      Hand 133x103 Sprite Sheet _87: -4517939574481456988
+      Hand 133x103 Sprite Sheet _88: 5554657888784364478
+      Hand 133x103 Sprite Sheet _89: -3221408565568768810
+      Hand 133x103 Sprite Sheet _9: -582318040128248092
+      Hand 133x103 Sprite Sheet _90: -4605514860382713348
+      Hand 133x103 Sprite Sheet _91: -7925836792507307377
+      Hand 133x103 Sprite Sheet _92: -247485281804230797
+      Hand 133x103 Sprite Sheet _93: -1733493358088989009
+      Hand 133x103 Sprite Sheet _94: 4344753668846590848
+      Hand 133x103 Sprite Sheet _95: 5868450357738950330
+      Hand 133x103 Sprite Sheet _96: -789391492990823808
+      Hand 133x103 Sprite Sheet _97: -4855847757360764957
+      Hand 133x103 Sprite Sheet _98: 8434677652205176049
+      Hand 133x103 Sprite Sheet _99: -292990433070993377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

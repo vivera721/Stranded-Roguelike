@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 60b3fc7e4ed191d42b453a930258fa6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6071926322377303728
+    second: HP or Loading Icon 13x13_0
+  - first:
+      213: 4760717403041846424
+    second: HP or Loading Icon 13x13_1
+  - first:
+      213: -3536393773202412897
+    second: HP or Loading Icon 13x13_2
+  - first:
+      213: -9119530497784469727
+    second: HP or Loading Icon 13x13_3
+  - first:
+      213: -3829302751083113401
+    second: HP or Loading Icon 13x13_4
+  - first:
+      213: 8999952555241699511
+    second: HP or Loading Icon 13x13_5
+  - first:
+      213: 9173173603138756127
+    second: HP or Loading Icon 13x13_6
+  - first:
+      213: -3127606261841975977
+    second: HP or Loading Icon 13x13_7
+  - first:
+      213: -1186003617742128741
+    second: HP or Loading Icon 13x13_8
+  - first:
+      213: 6958302287059387695
+    second: HP or Loading Icon 13x13_9
+  - first:
+      213: 5505396729704265158
+    second: HP or Loading Icon 13x13_10
+  - first:
+      213: -1369387937660479610
+    second: HP or Loading Icon 13x13_11
+  - first:
+      213: 4440179504669364464
+    second: HP or Loading Icon 13x13_12
+  - first:
+      213: 7266825454157206573
+    second: HP or Loading Icon 13x13_13
+  - first:
+      213: 1628346059609704584
+    second: HP or Loading Icon 13x13_14
+  - first:
+      213: 2999050390268208280
+    second: HP or Loading Icon 13x13_15
+  - first:
+      213: -5484678441445489520
+    second: HP or Loading Icon 13x13_16
+  - first:
+      213: -304094439557662195
+    second: HP or Loading Icon 13x13_17
+  - first:
+      213: -1637086435171492418
+    second: HP or Loading Icon 13x13_18
+  - first:
+      213: -7350660405716300023
+    second: HP or Loading Icon 13x13_19
+  - first:
+      213: 6107266662422293024
+    second: HP or Loading Icon 13x13_20
+  - first:
+      213: -126486711185797357
+    second: HP or Loading Icon 13x13_21
+  - first:
+      213: -4413504014527036205
+    second: HP or Loading Icon 13x13_22
+  - first:
+      213: 3077921509656073153
+    second: HP or Loading Icon 13x13_23
+  - first:
+      213: 5353285108193322808
+    second: HP or Loading Icon 13x13_24
+  - first:
+      213: 436616407884477632
+    second: HP or Loading Icon 13x13_25
+  - first:
+      213: -3934879580223426836
+    second: HP or Loading Icon 13x13_26
+  - first:
+      213: 8148086795279627692
+    second: HP or Loading Icon 13x13_27
+  - first:
+      213: -5160490596681779168
+    second: HP or Loading Icon 13x13_28
+  - first:
+      213: 3014250816765786503
+    second: HP or Loading Icon 13x13_29
+  - first:
+      213: -8662387976315529825
+    second: HP or Loading Icon 13x13_30
+  - first:
+      213: 2155504522266540116
+    second: HP or Loading Icon 13x13_31
+  - first:
+      213: 820938802315040533
+    second: HP or Loading Icon 13x13_32
+  - first:
+      213: 4072280169083148826
+    second: HP or Loading Icon 13x13_33
+  - first:
+      213: 6883403541600850282
+    second: HP or Loading Icon 13x13_34
+  - first:
+      213: -5026542414935936469
+    second: HP or Loading Icon 13x13_35
+  - first:
+      213: 5595959207718615648
+    second: HP or Loading Icon 13x13_36
+  - first:
+      213: -1939306210513382918
+    second: HP or Loading Icon 13x13_37
+  - first:
+      213: -1636319766570875035
+    second: HP or Loading Icon 13x13_38
+  - first:
+      213: 4499473781485370419
+    second: HP or Loading Icon 13x13_39
+  - first:
+      213: 2266376116118836931
+    second: HP or Loading Icon 13x13_40
+  - first:
+      213: -7253886586520378176
+    second: HP or Loading Icon 13x13_41
+  - first:
+      213: -697363481314029314
+    second: HP or Loading Icon 13x13_42
+  - first:
+      213: 6898344502448078017
+    second: HP or Loading Icon 13x13_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HP or Loading Icon 13x13_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6a4abd1d0d34450800000000000000
+      internalID: 6071926322377303728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP or Loading Icon 13x13_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89454543147711240800000000000000
+      internalID: 4760717403041846424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP or Loading Icon 13x13_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aed5299943ceec0800000000000000
+      internalID: -3536393773202412897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP or Loading Icon 13x13_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1272731645be07180800000000000000
+      internalID: -9119530497784469727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP or Loading Icon 13x13_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744d348bf659bdac0800000000000000
+      internalID: -3829302751083113401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP or Loading Icon 13x13_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8fc8a4a2146ec70800000000000000
+      internalID: 8999952555241699511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP or Loading Icon 13x13_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e531e5ac8ad4f70800000000000000
+      internalID: 9173173603138756127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP or Loading Icon 13x13_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7552f95fca28894d0800000000000000
+      internalID: -3127606261841975977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP or Loading Icon 13x13_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99f62e4ef77a8fe0800000000000000
+      internalID: -1186003617742128741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP or Loading Icon 13x13_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2586fb301bd09060800000000000000
+      internalID: 6958302287059387695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP or Loading Icon 13x13_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5be952829176c40800000000000000
+      internalID: 5505396729704265158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP or Loading Icon 13x13_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 143
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7a38ff5668c43468f08d28965a6da3
+      internalID: 1788944665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 82edda989d6ef7840ac422a054c05351
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":11.0,"y":1.0},"gridSpriteSize":{"x":13.0,"y":13.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      HP or Loading Icon 13x13_0: 6071926322377303728
+      HP or Loading Icon 13x13_1: 4760717403041846424
+      HP or Loading Icon 13x13_10: 5505396729704265158
+      HP or Loading Icon 13x13_11: 1788944665
+      HP or Loading Icon 13x13_2: -3536393773202412897
+      HP or Loading Icon 13x13_3: -9119530497784469727
+      HP or Loading Icon 13x13_4: -3829302751083113401
+      HP or Loading Icon 13x13_5: 8999952555241699511
+      HP or Loading Icon 13x13_6: 9173173603138756127
+      HP or Loading Icon 13x13_7: -3127606261841975977
+      HP or Loading Icon 13x13_8: -1186003617742128741
+      HP or Loading Icon 13x13_9: 6958302287059387695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

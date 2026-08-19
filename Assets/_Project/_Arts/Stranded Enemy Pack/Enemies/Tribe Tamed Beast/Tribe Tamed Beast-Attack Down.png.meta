@@ -1,0 +1,851 @@
+fileFormatVersion: 2
+guid: d2a419f66c1b614479f476dab80c4c95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 408787389958363488
+    second: Tribe Tamed Beast-Attack Down_0
+  - first:
+      213: 7457175968368471449
+    second: Tribe Tamed Beast-Attack Down_1
+  - first:
+      213: -6139505580949386918
+    second: Tribe Tamed Beast-Attack Down_2
+  - first:
+      213: 8416656629751999191
+    second: Tribe Tamed Beast-Attack Down_3
+  - first:
+      213: 4274539005141135045
+    second: Tribe Tamed Beast-Attack Down_4
+  - first:
+      213: -5454909264015752603
+    second: Tribe Tamed Beast-Attack Down_5
+  - first:
+      213: -4549354405093720033
+    second: Tribe Tamed Beast-Attack Down_6
+  - first:
+      213: 6684397645120329568
+    second: Tribe Tamed Beast-Attack Down_7
+  - first:
+      213: -352508827742647073
+    second: Tribe Tamed Beast-Attack Down_8
+  - first:
+      213: 7217274973130487960
+    second: Tribe Tamed Beast-Attack Down_9
+  - first:
+      213: -1097398918338800280
+    second: Tribe Tamed Beast-Attack Down_10
+  - first:
+      213: -1826291285255391773
+    second: Tribe Tamed Beast-Attack Down_11
+  - first:
+      213: -4015002223078310275
+    second: Tribe Tamed Beast-Attack Down_12
+  - first:
+      213: -5769464075879437251
+    second: Tribe Tamed Beast-Attack Down_13
+  - first:
+      213: -291931129440902156
+    second: Tribe Tamed Beast-Attack Down_14
+  - first:
+      213: 4984533784022550296
+    second: Tribe Tamed Beast-Attack Down_15
+  - first:
+      213: -3893912977888568611
+    second: Tribe Tamed Beast-Attack Down_16
+  - first:
+      213: -2186900196232306402
+    second: Tribe Tamed Beast-Attack Down_17
+  - first:
+      213: -5042886420436057183
+    second: Tribe Tamed Beast-Attack Down_18
+  - first:
+      213: 2155314775538801051
+    second: Tribe Tamed Beast-Attack Down_19
+  - first:
+      213: -5612153567500476986
+    second: Tribe Tamed Beast-Attack Down_20
+  - first:
+      213: 3938350936352992452
+    second: Tribe Tamed Beast-Attack Down_21
+  - first:
+      213: -112421614312713642
+    second: Tribe Tamed Beast-Attack Down_22
+  - first:
+      213: 5187005230378711403
+    second: Tribe Tamed Beast-Attack Down_23
+  - first:
+      213: 7880259558079455896
+    second: Tribe Tamed Beast-Attack Down_24
+  - first:
+      213: 6907274912792920135
+    second: Tribe Tamed Beast-Attack Down_25
+  - first:
+      213: 4347276698915873680
+    second: Tribe Tamed Beast-Attack Down_26
+  - first:
+      213: -6815637572794870985
+    second: Tribe Tamed Beast-Attack Down_27
+  - first:
+      213: -7291878578666891043
+    second: Tribe Tamed Beast-Attack Down_28
+  - first:
+      213: -8950974322410384680
+    second: Tribe Tamed Beast-Attack Down_29
+  - first:
+      213: -4672220150403858610
+    second: Tribe Tamed Beast-Attack Down_30
+  - first:
+      213: -1799419673925350985
+    second: Tribe Tamed Beast-Attack Down_31
+  - first:
+      213: -909258988688358143
+    second: Tribe Tamed Beast-Attack Down_32
+  - first:
+      213: -1088607628065709025
+    second: Tribe Tamed Beast-Attack Down_33
+  - first:
+      213: 4742359564813629826
+    second: Tribe Tamed Beast-Attack Down_34
+  - first:
+      213: 1160359088956111288
+    second: Tribe Tamed Beast-Attack Down_35
+  - first:
+      213: -12163630661060102
+    second: Tribe Tamed Beast-Attack Down_36
+  - first:
+      213: -4753400628454896606
+    second: Tribe Tamed Beast-Attack Down_37
+  - first:
+      213: 7757837896795900630
+    second: Tribe Tamed Beast-Attack Down_38
+  - first:
+      213: 1031831774078444287
+    second: Tribe Tamed Beast-Attack Down_39
+  - first:
+      213: 373579972190246469
+    second: Tribe Tamed Beast-Attack Down_40
+  - first:
+      213: -3879329696137190434
+    second: Tribe Tamed Beast-Attack Down_41
+  - first:
+      213: 5398538457223486110
+    second: Tribe Tamed Beast-Attack Down_42
+  - first:
+      213: -7807015946141509497
+    second: Tribe Tamed Beast-Attack Down_43
+  - first:
+      213: 2931895921702362569
+    second: Tribe Tamed Beast-Attack Down_44
+  - first:
+      213: 2265705226563690104
+    second: Tribe Tamed Beast-Attack Down_45
+  - first:
+      213: 6258815152536059333
+    second: Tribe Tamed Beast-Attack Down_46
+  - first:
+      213: -6491327473307013602
+    second: Tribe Tamed Beast-Attack Down_47
+  - first:
+      213: -4061236972777642420
+    second: Tribe Tamed Beast-Attack Down_48
+  - first:
+      213: -7351957263623437421
+    second: Tribe Tamed Beast-Attack Down_49
+  - first:
+      213: -2181567980922195770
+    second: Tribe Tamed Beast-Attack Down_50
+  - first:
+      213: -1987394467180542565
+    second: Tribe Tamed Beast-Attack Down_51
+  - first:
+      213: 6748331212275870583
+    second: Tribe Tamed Beast-Attack Down_52
+  - first:
+      213: 6772748349945408201
+    second: Tribe Tamed Beast-Attack Down_53
+  - first:
+      213: 5798702409698097575
+    second: Tribe Tamed Beast-Attack Down_54
+  - first:
+      213: -8457437436626680894
+    second: Tribe Tamed Beast-Attack Down_55
+  - first:
+      213: -6444282645896974195
+    second: Tribe Tamed Beast-Attack Down_56
+  - first:
+      213: 1474519015074088063
+    second: Tribe Tamed Beast-Attack Down_57
+  - first:
+      213: 4676568292623058260
+    second: Tribe Tamed Beast-Attack Down_58
+  - first:
+      213: -7678844800263944032
+    second: Tribe Tamed Beast-Attack Down_59
+  - first:
+      213: -8184694073765361486
+    second: Tribe Tamed Beast-Attack Down_60
+  - first:
+      213: 5715205411828700261
+    second: Tribe Tamed Beast-Attack Down_61
+  - first:
+      213: -7956244660869796060
+    second: Tribe Tamed Beast-Attack Down_62
+  - first:
+      213: -7133942974984475368
+    second: Tribe Tamed Beast-Attack Down_63
+  - first:
+      213: -2462071456479767682
+    second: Tribe Tamed Beast-Attack Down_64
+  - first:
+      213: -1017451162487270258
+    second: Tribe Tamed Beast-Attack Down_65
+  - first:
+      213: -5103385150020597716
+    second: Tribe Tamed Beast-Attack Down_66
+  - first:
+      213: 4799792860660449691
+    second: Tribe Tamed Beast-Attack Down_67
+  - first:
+      213: -1307711882729861623
+    second: Tribe Tamed Beast-Attack Down_68
+  - first:
+      213: -6843790923085284416
+    second: Tribe Tamed Beast-Attack Down_69
+  - first:
+      213: 7601618256674976911
+    second: Tribe Tamed Beast-Attack Down_70
+  - first:
+      213: 4674301021292091524
+    second: Tribe Tamed Beast-Attack Down_71
+  - first:
+      213: -1972449953942528480
+    second: Tribe Tamed Beast-Attack Down_72
+  - first:
+      213: -5814841214921537717
+    second: Tribe Tamed Beast-Attack Down_73
+  - first:
+      213: -4361198138722568787
+    second: Tribe Tamed Beast-Attack Down_74
+  - first:
+      213: 4643777415579726891
+    second: Tribe Tamed Beast-Attack Down_75
+  - first:
+      213: 3041855550656185130
+    second: Tribe Tamed Beast-Attack Down_76
+  - first:
+      213: 3104246344003030967
+    second: Tribe Tamed Beast-Attack Down_77
+  - first:
+      213: 5084614611713301086
+    second: Tribe Tamed Beast-Attack Down_78
+  - first:
+      213: -249535668914460002
+    second: Tribe Tamed Beast-Attack Down_79
+  - first:
+      213: -1357812340862073030
+    second: Tribe Tamed Beast-Attack Down_80
+  - first:
+      213: -461274532946507536
+    second: Tribe Tamed Beast-Attack Down_81
+  - first:
+      213: 148744098819384934
+    second: Tribe Tamed Beast-Attack Down_82
+  - first:
+      213: 7308080207902916355
+    second: Tribe Tamed Beast-Attack Down_83
+  - first:
+      213: -1137285849995179067
+    second: Tribe Tamed Beast-Attack Down_84
+  - first:
+      213: 7622961683774254940
+    second: Tribe Tamed Beast-Attack Down_85
+  - first:
+      213: -6795598944615006806
+    second: Tribe Tamed Beast-Attack Down_86
+  - first:
+      213: -3813677243278238263
+    second: Tribe Tamed Beast-Attack Down_87
+  - first:
+      213: -7424489307171524291
+    second: Tribe Tamed Beast-Attack Down_88
+  - first:
+      213: -8494159430293547728
+    second: Tribe Tamed Beast-Attack Down_89
+  - first:
+      213: -4276102688088652090
+    second: Tribe Tamed Beast-Attack Down_90
+  - first:
+      213: 6466336744274106488
+    second: Tribe Tamed Beast-Attack Down_91
+  - first:
+      213: -5211732927769425922
+    second: Tribe Tamed Beast-Attack Down_92
+  - first:
+      213: 1057561745083604491
+    second: Tribe Tamed Beast-Attack Down_93
+  - first:
+      213: 1815096250298034724
+    second: Tribe Tamed Beast-Attack Down_94
+  - first:
+      213: -4252245857684133342
+    second: Tribe Tamed Beast-Attack Down_95
+  - first:
+      213: -2612571339847451452
+    second: Tribe Tamed Beast-Attack Down_96
+  - first:
+      213: -964463951550487582
+    second: Tribe Tamed Beast-Attack Down_97
+  - first:
+      213: -6404337515241905241
+    second: Tribe Tamed Beast-Attack Down_98
+  - first:
+      213: -3078759445031360530
+    second: Tribe Tamed Beast-Attack Down_99
+  - first:
+      213: -2590172710792679130
+    second: Tribe Tamed Beast-Attack Down_100
+  - first:
+      213: -1031092743638136452
+    second: Tribe Tamed Beast-Attack Down_101
+  - first:
+      213: 4354949864839522803
+    second: Tribe Tamed Beast-Attack Down_102
+  - first:
+      213: -2757879976769868901
+    second: Tribe Tamed Beast-Attack Down_103
+  - first:
+      213: 6509403365850028979
+    second: Tribe Tamed Beast-Attack Down_104
+  - first:
+      213: 8853698226380378780
+    second: Tribe Tamed Beast-Attack Down_105
+  - first:
+      213: -7921130165012801396
+    second: Tribe Tamed Beast-Attack Down_106
+  - first:
+      213: 7926109037913302644
+    second: Tribe Tamed Beast-Attack Down_107
+  - first:
+      213: 8427638906835589415
+    second: Tribe Tamed Beast-Attack Down_108
+  - first:
+      213: -2211434845049693504
+    second: Tribe Tamed Beast-Attack Down_109
+  - first:
+      213: -5335735663440557580
+    second: Tribe Tamed Beast-Attack Down_110
+  - first:
+      213: -8634772936251869120
+    second: Tribe Tamed Beast-Attack Down_111
+  - first:
+      213: 7619639429118010927
+    second: Tribe Tamed Beast-Attack Down_112
+  - first:
+      213: -3320216505693380278
+    second: Tribe Tamed Beast-Attack Down_113
+  - first:
+      213: 3093540747429498183
+    second: Tribe Tamed Beast-Attack Down_114
+  - first:
+      213: 4246735392383615892
+    second: Tribe Tamed Beast-Attack Down_115
+  - first:
+      213: -2434726922926290718
+    second: Tribe Tamed Beast-Attack Down_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069902f17fd4ca500800000000000000
+      internalID: 408787389958363488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dae2e88063d7760800000000000000
+      internalID: 7457175968368471449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59cbfed3381ccaa0800000000000000
+      internalID: -6139505580949386918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daedc48c98fdc470800000000000000
+      internalID: 8416656629751999191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce2df3e396325b30800000000000000
+      internalID: 4274539005141135045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5628a5cfce44c44b0800000000000000
+      internalID: -5454909264015752603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10c707a5427dd0c0800000000000000
+      internalID: -4549354405093720033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067dad62e30c3cc50800000000000000
+      internalID: 6684397645120329568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_8
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcc53eb613ab1bf0800000000000000
+      internalID: -352508827742647073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89872cb6959e82460800000000000000
+      internalID: 7217274973130487960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_10
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865948f7f7145c0f0800000000000000
+      internalID: -1097398918338800280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5f5fd80c5b7a6e0800000000000000
+      internalID: -1826291285255391773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_12
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e730120c8d748c0800000000000000
+      internalID: -4015002223078310275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_13
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c24dcadfebeefa0800000000000000
+      internalID: -5769464075879437251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_14
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ebca3f2ad2fbf0800000000000000
+      internalID: -291931129440902156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast-Attack Down_15
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817099f311f9c2540800000000000000
+      internalID: 4984533784022550296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bef3f2d358c6658438da90a4c1421e19
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":1.0},"gridSpriteSize":{"x":76.0,"y":67.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tribe Tamed Beast-Attack Down_0: 408787389958363488
+      Tribe Tamed Beast-Attack Down_1: 7457175968368471449
+      Tribe Tamed Beast-Attack Down_10: -1097398918338800280
+      Tribe Tamed Beast-Attack Down_11: -1826291285255391773
+      Tribe Tamed Beast-Attack Down_12: -4015002223078310275
+      Tribe Tamed Beast-Attack Down_13: -5769464075879437251
+      Tribe Tamed Beast-Attack Down_14: -291931129440902156
+      Tribe Tamed Beast-Attack Down_15: 4984533784022550296
+      Tribe Tamed Beast-Attack Down_2: -6139505580949386918
+      Tribe Tamed Beast-Attack Down_3: 8416656629751999191
+      Tribe Tamed Beast-Attack Down_4: 4274539005141135045
+      Tribe Tamed Beast-Attack Down_5: -5454909264015752603
+      Tribe Tamed Beast-Attack Down_6: -4549354405093720033
+      Tribe Tamed Beast-Attack Down_7: 6684397645120329568
+      Tribe Tamed Beast-Attack Down_8: -352508827742647073
+      Tribe Tamed Beast-Attack Down_9: 7217274973130487960
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

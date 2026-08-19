@@ -1,0 +1,3838 @@
+fileFormatVersion: 2
+guid: 7289bd8726b30b545863b9503b482d7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -428778676845877643
+    second: Tribe Tamed Beast 76x67_0
+  - first:
+      213: 6575794040536706461
+    second: Tribe Tamed Beast 76x67_1
+  - first:
+      213: 1683664413902152502
+    second: Tribe Tamed Beast 76x67_2
+  - first:
+      213: -5481060335822322354
+    second: Tribe Tamed Beast 76x67_3
+  - first:
+      213: 6353647701082303694
+    second: Tribe Tamed Beast 76x67_4
+  - first:
+      213: -3244466546432207690
+    second: Tribe Tamed Beast 76x67_5
+  - first:
+      213: 5854434824377664392
+    second: Tribe Tamed Beast 76x67_6
+  - first:
+      213: -7025805595639366926
+    second: Tribe Tamed Beast 76x67_7
+  - first:
+      213: -6669250623881534367
+    second: Tribe Tamed Beast 76x67_8
+  - first:
+      213: -5235075711632425594
+    second: Tribe Tamed Beast 76x67_9
+  - first:
+      213: -3179893666270972794
+    second: Tribe Tamed Beast 76x67_10
+  - first:
+      213: 5788371995271514483
+    second: Tribe Tamed Beast 76x67_11
+  - first:
+      213: -7239416077032321364
+    second: Tribe Tamed Beast 76x67_12
+  - first:
+      213: 2121818311183409132
+    second: Tribe Tamed Beast 76x67_13
+  - first:
+      213: -8970396312311723218
+    second: Tribe Tamed Beast 76x67_14
+  - first:
+      213: 7224813785712439961
+    second: Tribe Tamed Beast 76x67_15
+  - first:
+      213: -8956405035795628278
+    second: Tribe Tamed Beast 76x67_16
+  - first:
+      213: 362559345545660022
+    second: Tribe Tamed Beast 76x67_17
+  - first:
+      213: -3038066988067122105
+    second: Tribe Tamed Beast 76x67_18
+  - first:
+      213: -222662540263126948
+    second: Tribe Tamed Beast 76x67_19
+  - first:
+      213: 8855427968349533933
+    second: Tribe Tamed Beast 76x67_20
+  - first:
+      213: 8347383788035989807
+    second: Tribe Tamed Beast 76x67_21
+  - first:
+      213: -1320944080441747004
+    second: Tribe Tamed Beast 76x67_22
+  - first:
+      213: -7423989731074358510
+    second: Tribe Tamed Beast 76x67_23
+  - first:
+      213: -5601496054455754724
+    second: Tribe Tamed Beast 76x67_24
+  - first:
+      213: -4311687500590118873
+    second: Tribe Tamed Beast 76x67_25
+  - first:
+      213: -2009980217263882117
+    second: Tribe Tamed Beast 76x67_26
+  - first:
+      213: -98925530979323256
+    second: Tribe Tamed Beast 76x67_27
+  - first:
+      213: -1181212657487570159
+    second: Tribe Tamed Beast 76x67_28
+  - first:
+      213: 5737160690109395623
+    second: Tribe Tamed Beast 76x67_29
+  - first:
+      213: 6110007720446215072
+    second: Tribe Tamed Beast 76x67_30
+  - first:
+      213: 118145277188378364
+    second: Tribe Tamed Beast 76x67_31
+  - first:
+      213: -5252862735886865816
+    second: Tribe Tamed Beast 76x67_32
+  - first:
+      213: -5574615915374431034
+    second: Tribe Tamed Beast 76x67_33
+  - first:
+      213: 2706490447918858894
+    second: Tribe Tamed Beast 76x67_34
+  - first:
+      213: -3373027734834803193
+    second: Tribe Tamed Beast 76x67_35
+  - first:
+      213: 464072430885295174
+    second: Tribe Tamed Beast 76x67_36
+  - first:
+      213: 6016932639109801500
+    second: Tribe Tamed Beast 76x67_37
+  - first:
+      213: 7124537976550475331
+    second: Tribe Tamed Beast 76x67_38
+  - first:
+      213: -751733906890604643
+    second: Tribe Tamed Beast 76x67_39
+  - first:
+      213: 8602328341471647195
+    second: Tribe Tamed Beast 76x67_40
+  - first:
+      213: -3967759809364207168
+    second: Tribe Tamed Beast 76x67_41
+  - first:
+      213: 6646727277401222883
+    second: Tribe Tamed Beast 76x67_42
+  - first:
+      213: 946035308209673965
+    second: Tribe Tamed Beast 76x67_43
+  - first:
+      213: 9038577270850169194
+    second: Tribe Tamed Beast 76x67_44
+  - first:
+      213: -7398909879268791225
+    second: Tribe Tamed Beast 76x67_45
+  - first:
+      213: 7485708356803030691
+    second: Tribe Tamed Beast 76x67_46
+  - first:
+      213: 8171175410538251694
+    second: Tribe Tamed Beast 76x67_47
+  - first:
+      213: 3424645908752485884
+    second: Tribe Tamed Beast 76x67_48
+  - first:
+      213: -3390433868077000042
+    second: Tribe Tamed Beast 76x67_49
+  - first:
+      213: 5557752218512156835
+    second: Tribe Tamed Beast 76x67_50
+  - first:
+      213: -7144790092369027837
+    second: Tribe Tamed Beast 76x67_51
+  - first:
+      213: -8585861151883616790
+    second: Tribe Tamed Beast 76x67_52
+  - first:
+      213: -8461016138897876150
+    second: Tribe Tamed Beast 76x67_53
+  - first:
+      213: -9120604157819398371
+    second: Tribe Tamed Beast 76x67_54
+  - first:
+      213: 170486052015111408
+    second: Tribe Tamed Beast 76x67_55
+  - first:
+      213: 3704487492860076885
+    second: Tribe Tamed Beast 76x67_56
+  - first:
+      213: 7224205657624143230
+    second: Tribe Tamed Beast 76x67_57
+  - first:
+      213: -7960585288917505422
+    second: Tribe Tamed Beast 76x67_58
+  - first:
+      213: 2104279717100991859
+    second: Tribe Tamed Beast 76x67_59
+  - first:
+      213: -2662711787161796790
+    second: Tribe Tamed Beast 76x67_60
+  - first:
+      213: -1955967810797700355
+    second: Tribe Tamed Beast 76x67_61
+  - first:
+      213: 4482987188859366441
+    second: Tribe Tamed Beast 76x67_62
+  - first:
+      213: 4239104389777196658
+    second: Tribe Tamed Beast 76x67_63
+  - first:
+      213: 1898901888171999797
+    second: Tribe Tamed Beast 76x67_64
+  - first:
+      213: 7428325176761748843
+    second: Tribe Tamed Beast 76x67_65
+  - first:
+      213: 6774128260102785365
+    second: Tribe Tamed Beast 76x67_66
+  - first:
+      213: 4076649538051920142
+    second: Tribe Tamed Beast 76x67_67
+  - first:
+      213: 197110360401017415
+    second: Tribe Tamed Beast 76x67_68
+  - first:
+      213: -9183777688619900573
+    second: Tribe Tamed Beast 76x67_69
+  - first:
+      213: 4703539782445921767
+    second: Tribe Tamed Beast 76x67_70
+  - first:
+      213: 5830921855140505915
+    second: Tribe Tamed Beast 76x67_71
+  - first:
+      213: 7486667321410509502
+    second: Tribe Tamed Beast 76x67_72
+  - first:
+      213: 3082639651496105589
+    second: Tribe Tamed Beast 76x67_73
+  - first:
+      213: -7127073298117823659
+    second: Tribe Tamed Beast 76x67_74
+  - first:
+      213: 1817256553012120520
+    second: Tribe Tamed Beast 76x67_75
+  - first:
+      213: 8999674724145562635
+    second: Tribe Tamed Beast 76x67_76
+  - first:
+      213: -8701614169205347267
+    second: Tribe Tamed Beast 76x67_77
+  - first:
+      213: 7696402875802389229
+    second: Tribe Tamed Beast 76x67_78
+  - first:
+      213: 2336746636767274527
+    second: Tribe Tamed Beast 76x67_79
+  - first:
+      213: -4210217639616411460
+    second: Tribe Tamed Beast 76x67_80
+  - first:
+      213: -4485207431037652927
+    second: Tribe Tamed Beast 76x67_81
+  - first:
+      213: 2082722667245200767
+    second: Tribe Tamed Beast 76x67_82
+  - first:
+      213: -2020936051025313135
+    second: Tribe Tamed Beast 76x67_83
+  - first:
+      213: -4379794309659700701
+    second: Tribe Tamed Beast 76x67_84
+  - first:
+      213: 4843737189435658604
+    second: Tribe Tamed Beast 76x67_85
+  - first:
+      213: -5692281177928534809
+    second: Tribe Tamed Beast 76x67_86
+  - first:
+      213: 5809660994555256926
+    second: Tribe Tamed Beast 76x67_87
+  - first:
+      213: -7237908436385808934
+    second: Tribe Tamed Beast 76x67_88
+  - first:
+      213: 482077452423003268
+    second: Tribe Tamed Beast 76x67_89
+  - first:
+      213: 2100938181591211395
+    second: Tribe Tamed Beast 76x67_90
+  - first:
+      213: -4215206246222820610
+    second: Tribe Tamed Beast 76x67_91
+  - first:
+      213: 5093666063884419165
+    second: Tribe Tamed Beast 76x67_92
+  - first:
+      213: -2095188381470167222
+    second: Tribe Tamed Beast 76x67_93
+  - first:
+      213: -7475454487505698503
+    second: Tribe Tamed Beast 76x67_94
+  - first:
+      213: -6525947637137936122
+    second: Tribe Tamed Beast 76x67_95
+  - first:
+      213: -7876326248643623646
+    second: Tribe Tamed Beast 76x67_96
+  - first:
+      213: 2591808003420109687
+    second: Tribe Tamed Beast 76x67_97
+  - first:
+      213: -1943932836379287466
+    second: Tribe Tamed Beast 76x67_98
+  - first:
+      213: -5733721224189078913
+    second: Tribe Tamed Beast 76x67_99
+  - first:
+      213: 261709670933861189
+    second: Tribe Tamed Beast 76x67_100
+  - first:
+      213: 6951586577026129460
+    second: Tribe Tamed Beast 76x67_101
+  - first:
+      213: 4743092569964459029
+    second: Tribe Tamed Beast 76x67_102
+  - first:
+      213: 6055372619355743048
+    second: Tribe Tamed Beast 76x67_103
+  - first:
+      213: -1304518543984315830
+    second: Tribe Tamed Beast 76x67_104
+  - first:
+      213: -5305302673683401174
+    second: Tribe Tamed Beast 76x67_105
+  - first:
+      213: 4580531983846965039
+    second: Tribe Tamed Beast 76x67_106
+  - first:
+      213: -9029731703773077549
+    second: Tribe Tamed Beast 76x67_107
+  - first:
+      213: 2000000345245691488
+    second: Tribe Tamed Beast 76x67_108
+  - first:
+      213: 3742468434135639980
+    second: Tribe Tamed Beast 76x67_109
+  - first:
+      213: -6732338210702892290
+    second: Tribe Tamed Beast 76x67_110
+  - first:
+      213: 2697529579932105759
+    second: Tribe Tamed Beast 76x67_111
+  - first:
+      213: 4744214372526161769
+    second: Tribe Tamed Beast 76x67_112
+  - first:
+      213: 64163538721078076
+    second: Tribe Tamed Beast 76x67_113
+  - first:
+      213: 1311035803150777942
+    second: Tribe Tamed Beast 76x67_114
+  - first:
+      213: 5055167812273983166
+    second: Tribe Tamed Beast 76x67_115
+  - first:
+      213: 2335937828180273846
+    second: Tribe Tamed Beast 76x67_116
+  - first:
+      213: -5718453542495950142
+    second: Tribe Tamed Beast 76x67_117
+  - first:
+      213: 7267247978764508366
+    second: Tribe Tamed Beast 76x67_118
+  - first:
+      213: 2356701444751900648
+    second: Tribe Tamed Beast 76x67_119
+  - first:
+      213: 2841119888014327176
+    second: Tribe Tamed Beast 76x67_120
+  - first:
+      213: -889238008117508371
+    second: Tribe Tamed Beast 76x67_121
+  - first:
+      213: -2388165899432809376
+    second: Tribe Tamed Beast 76x67_122
+  - first:
+      213: 1671677252329637340
+    second: Tribe Tamed Beast 76x67_123
+  - first:
+      213: -8524205737900023313
+    second: Tribe Tamed Beast 76x67_124
+  - first:
+      213: 3476965707626715765
+    second: Tribe Tamed Beast 76x67_125
+  - first:
+      213: 4366082840718527538
+    second: Tribe Tamed Beast 76x67_126
+  - first:
+      213: 3105650945376943128
+    second: Tribe Tamed Beast 76x67_127
+  - first:
+      213: 8475621114740479818
+    second: Tribe Tamed Beast 76x67_128
+  - first:
+      213: 3987843044345237021
+    second: Tribe Tamed Beast 76x67_129
+  - first:
+      213: -5585228003019516400
+    second: Tribe Tamed Beast 76x67_130
+  - first:
+      213: 6859089530213124823
+    second: Tribe Tamed Beast 76x67_131
+  - first:
+      213: -7800134580236454216
+    second: Tribe Tamed Beast 76x67_132
+  - first:
+      213: 6246284099079007893
+    second: Tribe Tamed Beast 76x67_133
+  - first:
+      213: -9162676225548179096
+    second: Tribe Tamed Beast 76x67_134
+  - first:
+      213: 5106294386527376603
+    second: Tribe Tamed Beast 76x67_135
+  - first:
+      213: 8164660603768314992
+    second: Tribe Tamed Beast 76x67_136
+  - first:
+      213: 723231916553817772
+    second: Tribe Tamed Beast 76x67_137
+  - first:
+      213: -508340367076545055
+    second: Tribe Tamed Beast 76x67_138
+  - first:
+      213: -4422893190954218765
+    second: Tribe Tamed Beast 76x67_139
+  - first:
+      213: 8759748404740341209
+    second: Tribe Tamed Beast 76x67_140
+  - first:
+      213: -2911891412128964802
+    second: Tribe Tamed Beast 76x67_141
+  - first:
+      213: -5894475635068428907
+    second: Tribe Tamed Beast 76x67_142
+  - first:
+      213: 5581586983033567601
+    second: Tribe Tamed Beast 76x67_143
+  - first:
+      213: 8711165904960045209
+    second: Tribe Tamed Beast 76x67_144
+  - first:
+      213: 4438885717453447437
+    second: Tribe Tamed Beast 76x67_145
+  - first:
+      213: 3024508305969758532
+    second: Tribe Tamed Beast 76x67_146
+  - first:
+      213: 2070654367270054992
+    second: Tribe Tamed Beast 76x67_147
+  - first:
+      213: -5222007156646844278
+    second: Tribe Tamed Beast 76x67_148
+  - first:
+      213: 7656044668773389112
+    second: Tribe Tamed Beast 76x67_149
+  - first:
+      213: 2211452221953755945
+    second: Tribe Tamed Beast 76x67_150
+  - first:
+      213: 5696066496615078934
+    second: Tribe Tamed Beast 76x67_151
+  - first:
+      213: -4859117536794769144
+    second: Tribe Tamed Beast 76x67_152
+  - first:
+      213: -7636721908372905058
+    second: Tribe Tamed Beast 76x67_153
+  - first:
+      213: -2413438301251674036
+    second: Tribe Tamed Beast 76x67_154
+  - first:
+      213: -3338435544546073353
+    second: Tribe Tamed Beast 76x67_155
+  - first:
+      213: -6712778357536221337
+    second: Tribe Tamed Beast 76x67_156
+  - first:
+      213: 5317065563674596201
+    second: Tribe Tamed Beast 76x67_157
+  - first:
+      213: 8580717858780173508
+    second: Tribe Tamed Beast 76x67_158
+  - first:
+      213: 6357786605990847966
+    second: Tribe Tamed Beast 76x67_159
+  - first:
+      213: -8607163032674105022
+    second: Tribe Tamed Beast 76x67_160
+  - first:
+      213: -3926476675989221226
+    second: Tribe Tamed Beast 76x67_161
+  - first:
+      213: 6924378171327517580
+    second: Tribe Tamed Beast 76x67_162
+  - first:
+      213: -9006145735586278752
+    second: Tribe Tamed Beast 76x67_163
+  - first:
+      213: 1986187583629673168
+    second: Tribe Tamed Beast 76x67_164
+  - first:
+      213: -5793931766580008858
+    second: Tribe Tamed Beast 76x67_165
+  - first:
+      213: 5743706541400562687
+    second: Tribe Tamed Beast 76x67_166
+  - first:
+      213: -2254293026352587951
+    second: Tribe Tamed Beast 76x67_167
+  - first:
+      213: -7747534548583966495
+    second: Tribe Tamed Beast 76x67_168
+  - first:
+      213: 583712116549036016
+    second: Tribe Tamed Beast 76x67_169
+  - first:
+      213: 7627853427389706767
+    second: Tribe Tamed Beast 76x67_170
+  - first:
+      213: -8291741157653668216
+    second: Tribe Tamed Beast 76x67_171
+  - first:
+      213: -7448710788719070708
+    second: Tribe Tamed Beast 76x67_172
+  - first:
+      213: -954704342525186189
+    second: Tribe Tamed Beast 76x67_173
+  - first:
+      213: -4547337450204819286
+    second: Tribe Tamed Beast 76x67_174
+  - first:
+      213: -8708882026593042466
+    second: Tribe Tamed Beast 76x67_175
+  - first:
+      213: -9111143463401460507
+    second: Tribe Tamed Beast 76x67_176
+  - first:
+      213: -5861915436808172625
+    second: Tribe Tamed Beast 76x67_177
+  - first:
+      213: 3331231548932172820
+    second: Tribe Tamed Beast 76x67_178
+  - first:
+      213: 71335672484420558
+    second: Tribe Tamed Beast 76x67_179
+  - first:
+      213: 7219428665322384878
+    second: Tribe Tamed Beast 76x67_180
+  - first:
+      213: -3136479864528302356
+    second: Tribe Tamed Beast 76x67_181
+  - first:
+      213: 2411041096952022218
+    second: Tribe Tamed Beast 76x67_182
+  - first:
+      213: 3101623943243114680
+    second: Tribe Tamed Beast 76x67_183
+  - first:
+      213: 4807158030358734080
+    second: Tribe Tamed Beast 76x67_184
+  - first:
+      213: 7672495338273837603
+    second: Tribe Tamed Beast 76x67_185
+  - first:
+      213: -128780524187764485
+    second: Tribe Tamed Beast 76x67_186
+  - first:
+      213: -4710170591423203057
+    second: Tribe Tamed Beast 76x67_187
+  - first:
+      213: 2431077878401926113
+    second: Tribe Tamed Beast 76x67_188
+  - first:
+      213: -749006081047492948
+    second: Tribe Tamed Beast 76x67_189
+  - first:
+      213: -1900775320764683230
+    second: Tribe Tamed Beast 76x67_190
+  - first:
+      213: -8451258190976858638
+    second: Tribe Tamed Beast 76x67_191
+  - first:
+      213: 6572605127912839196
+    second: Tribe Tamed Beast 76x67_192
+  - first:
+      213: 2486674963533218901
+    second: Tribe Tamed Beast 76x67_193
+  - first:
+      213: 723143046948324898
+    second: Tribe Tamed Beast 76x67_194
+  - first:
+      213: 6547809863406503290
+    second: Tribe Tamed Beast 76x67_195
+  - first:
+      213: -1900936204559805840
+    second: Tribe Tamed Beast 76x67_196
+  - first:
+      213: 8135660532824460270
+    second: Tribe Tamed Beast 76x67_197
+  - first:
+      213: -1585461376478615427
+    second: Tribe Tamed Beast 76x67_198
+  - first:
+      213: 8927080995759845581
+    second: Tribe Tamed Beast 76x67_199
+  - first:
+      213: -986667764540728088
+    second: Tribe Tamed Beast 76x67_200
+  - first:
+      213: 3488512309278856983
+    second: Tribe Tamed Beast 76x67_201
+  - first:
+      213: -5139105701980946957
+    second: Tribe Tamed Beast 76x67_202
+  - first:
+      213: 7015055859811830548
+    second: Tribe Tamed Beast 76x67_203
+  - first:
+      213: -715690675052281692
+    second: Tribe Tamed Beast 76x67_204
+  - first:
+      213: -8317580601902819331
+    second: Tribe Tamed Beast 76x67_205
+  - first:
+      213: -1828209998730450848
+    second: Tribe Tamed Beast 76x67_206
+  - first:
+      213: -3995148988839539039
+    second: Tribe Tamed Beast 76x67_207
+  - first:
+      213: 7404905940281207346
+    second: Tribe Tamed Beast 76x67_208
+  - first:
+      213: 3124065724219093235
+    second: Tribe Tamed Beast 76x67_209
+  - first:
+      213: -8960011339789229498
+    second: Tribe Tamed Beast 76x67_210
+  - first:
+      213: -7439974922138984651
+    second: Tribe Tamed Beast 76x67_211
+  - first:
+      213: -6375782375782472525
+    second: Tribe Tamed Beast 76x67_212
+  - first:
+      213: -6670481297945910509
+    second: Tribe Tamed Beast 76x67_213
+  - first:
+      213: 7530847770491529399
+    second: Tribe Tamed Beast 76x67_214
+  - first:
+      213: -8414575741219797157
+    second: Tribe Tamed Beast 76x67_215
+  - first:
+      213: 7678685579964377846
+    second: Tribe Tamed Beast 76x67_216
+  - first:
+      213: -6689514839657854064
+    second: Tribe Tamed Beast 76x67_217
+  - first:
+      213: 3111443586915302452
+    second: Tribe Tamed Beast 76x67_218
+  - first:
+      213: -6850786148092986367
+    second: Tribe Tamed Beast 76x67_219
+  - first:
+      213: -7126496751988767603
+    second: Tribe Tamed Beast 76x67_220
+  - first:
+      213: 7128722605665178329
+    second: Tribe Tamed Beast 76x67_221
+  - first:
+      213: 5802279120186565464
+    second: Tribe Tamed Beast 76x67_222
+  - first:
+      213: 3311795721188755054
+    second: Tribe Tamed Beast 76x67_223
+  - first:
+      213: -5858873817739992679
+    second: Tribe Tamed Beast 76x67_224
+  - first:
+      213: -4285612885370171344
+    second: Tribe Tamed Beast 76x67_225
+  - first:
+      213: -6061135328806221413
+    second: Tribe Tamed Beast 76x67_226
+  - first:
+      213: 6161634254096515967
+    second: Tribe Tamed Beast 76x67_227
+  - first:
+      213: 1673161792564803802
+    second: Tribe Tamed Beast 76x67_228
+  - first:
+      213: -1233204795566682962
+    second: Tribe Tamed Beast 76x67_229
+  - first:
+      213: 2264136321004955630
+    second: Tribe Tamed Beast 76x67_230
+  - first:
+      213: 64918181534136316
+    second: Tribe Tamed Beast 76x67_231
+  - first:
+      213: -2449763008379962437
+    second: Tribe Tamed Beast 76x67_232
+  - first:
+      213: 272345945487713449
+    second: Tribe Tamed Beast 76x67_233
+  - first:
+      213: -2843295702041106183
+    second: Tribe Tamed Beast 76x67_234
+  - first:
+      213: -3052468995547091076
+    second: Tribe Tamed Beast 76x67_235
+  - first:
+      213: 8055394756840695720
+    second: Tribe Tamed Beast 76x67_236
+  - first:
+      213: -6199275841449912497
+    second: Tribe Tamed Beast 76x67_237
+  - first:
+      213: -7112206638035863204
+    second: Tribe Tamed Beast 76x67_238
+  - first:
+      213: 4065850216711631970
+    second: Tribe Tamed Beast 76x67_239
+  - first:
+      213: -6651494944542767727
+    second: Tribe Tamed Beast 76x67_240
+  - first:
+      213: -2851717928340390887
+    second: Tribe Tamed Beast 76x67_241
+  - first:
+      213: -964194767844986586
+    second: Tribe Tamed Beast 76x67_242
+  - first:
+      213: -7259852832397647299
+    second: Tribe Tamed Beast 76x67_243
+  - first:
+      213: -3663911285176279793
+    second: Tribe Tamed Beast 76x67_244
+  - first:
+      213: -7075970648947781830
+    second: Tribe Tamed Beast 76x67_245
+  - first:
+      213: 7110459266311895195
+    second: Tribe Tamed Beast 76x67_246
+  - first:
+      213: 8367370887867476143
+    second: Tribe Tamed Beast 76x67_247
+  - first:
+      213: 858078881139372783
+    second: Tribe Tamed Beast 76x67_248
+  - first:
+      213: -2050631951927621761
+    second: Tribe Tamed Beast 76x67_249
+  - first:
+      213: 7765535760582688894
+    second: Tribe Tamed Beast 76x67_250
+  - first:
+      213: 3945730800874825987
+    second: Tribe Tamed Beast 76x67_251
+  - first:
+      213: -1110574077314720555
+    second: Tribe Tamed Beast 76x67_252
+  - first:
+      213: -7030333048520429609
+    second: Tribe Tamed Beast 76x67_253
+  - first:
+      213: -4833413866806996998
+    second: Tribe Tamed Beast 76x67_254
+  - first:
+      213: -8023332281190921125
+    second: Tribe Tamed Beast 76x67_255
+  - first:
+      213: -1520770969717614351
+    second: Tribe Tamed Beast 76x67_256
+  - first:
+      213: -3336873097702641793
+    second: Tribe Tamed Beast 76x67_257
+  - first:
+      213: 5094909114814727053
+    second: Tribe Tamed Beast 76x67_258
+  - first:
+      213: -5863419092717402300
+    second: Tribe Tamed Beast 76x67_259
+  - first:
+      213: -6008469894948954839
+    second: Tribe Tamed Beast 76x67_260
+  - first:
+      213: -6662111758651605120
+    second: Tribe Tamed Beast 76x67_261
+  - first:
+      213: 850618610139901165
+    second: Tribe Tamed Beast 76x67_262
+  - first:
+      213: 3247169205379055421
+    second: Tribe Tamed Beast 76x67_263
+  - first:
+      213: -4127152364364560854
+    second: Tribe Tamed Beast 76x67_264
+  - first:
+      213: -7935292987932931145
+    second: Tribe Tamed Beast 76x67_265
+  - first:
+      213: 6116392498910731337
+    second: Tribe Tamed Beast 76x67_266
+  - first:
+      213: -3070972939701801524
+    second: Tribe Tamed Beast 76x67_267
+  - first:
+      213: -6907885642448310086
+    second: Tribe Tamed Beast 76x67_268
+  - first:
+      213: 4620618809176123060
+    second: Tribe Tamed Beast 76x67_269
+  - first:
+      213: -7682686983254466312
+    second: Tribe Tamed Beast 76x67_270
+  - first:
+      213: 3833219932491976259
+    second: Tribe Tamed Beast 76x67_271
+  - first:
+      213: 6043433937414699208
+    second: Tribe Tamed Beast 76x67_272
+  - first:
+      213: -3352799202229396554
+    second: Tribe Tamed Beast 76x67_273
+  - first:
+      213: 8264547588561649489
+    second: Tribe Tamed Beast 76x67_274
+  - first:
+      213: 3242835532481543250
+    second: Tribe Tamed Beast 76x67_275
+  - first:
+      213: -1630179435361662120
+    second: Tribe Tamed Beast 76x67_276
+  - first:
+      213: 7643905176188066430
+    second: Tribe Tamed Beast 76x67_277
+  - first:
+      213: 5124200841710388813
+    second: Tribe Tamed Beast 76x67_278
+  - first:
+      213: 7803479880108835075
+    second: Tribe Tamed Beast 76x67_279
+  - first:
+      213: 3251008785791656408
+    second: Tribe Tamed Beast 76x67_280
+  - first:
+      213: 120966478895138302
+    second: Tribe Tamed Beast 76x67_281
+  - first:
+      213: 44880450077481071
+    second: Tribe Tamed Beast 76x67_282
+  - first:
+      213: 3990609197519002745
+    second: Tribe Tamed Beast 76x67_283
+  - first:
+      213: -8566591050236974688
+    second: Tribe Tamed Beast 76x67_284
+  - first:
+      213: 820055826937406040
+    second: Tribe Tamed Beast 76x67_285
+  - first:
+      213: -5347465404356811236
+    second: Tribe Tamed Beast 76x67_286
+  - first:
+      213: -4746011412802809465
+    second: Tribe Tamed Beast 76x67_287
+  - first:
+      213: 7131679327682744632
+    second: Tribe Tamed Beast 76x67_288
+  - first:
+      213: 2460198188944238205
+    second: Tribe Tamed Beast 76x67_289
+  - first:
+      213: -1133653443855615252
+    second: Tribe Tamed Beast 76x67_290
+  - first:
+      213: 5655319599470807112
+    second: Tribe Tamed Beast 76x67_291
+  - first:
+      213: -5329952764183422719
+    second: Tribe Tamed Beast 76x67_292
+  - first:
+      213: -3765016739291773756
+    second: Tribe Tamed Beast 76x67_293
+  - first:
+      213: -5556598913117635004
+    second: Tribe Tamed Beast 76x67_294
+  - first:
+      213: 3180228482323791288
+    second: Tribe Tamed Beast 76x67_295
+  - first:
+      213: -3405971642863022903
+    second: Tribe Tamed Beast 76x67_296
+  - first:
+      213: -3892868489878976728
+    second: Tribe Tamed Beast 76x67_297
+  - first:
+      213: 236517409772833028
+    second: Tribe Tamed Beast 76x67_298
+  - first:
+      213: -7332008023862594880
+    second: Tribe Tamed Beast 76x67_299
+  - first:
+      213: 5755795701692092729
+    second: Tribe Tamed Beast 76x67_300
+  - first:
+      213: 2587288440415214002
+    second: Tribe Tamed Beast 76x67_301
+  - first:
+      213: 3618186702389064244
+    second: Tribe Tamed Beast 76x67_302
+  - first:
+      213: 5919891289051558810
+    second: Tribe Tamed Beast 76x67_303
+  - first:
+      213: 877519735184092727
+    second: Tribe Tamed Beast 76x67_304
+  - first:
+      213: 2657172924032277911
+    second: Tribe Tamed Beast 76x67_305
+  - first:
+      213: -6867784907771343046
+    second: Tribe Tamed Beast 76x67_306
+  - first:
+      213: 190556640794415116
+    second: Tribe Tamed Beast 76x67_307
+  - first:
+      213: 250680230511985334
+    second: Tribe Tamed Beast 76x67_308
+  - first:
+      213: -1296066698871705816
+    second: Tribe Tamed Beast 76x67_309
+  - first:
+      213: 1931467015029214401
+    second: Tribe Tamed Beast 76x67_310
+  - first:
+      213: -411920103395496206
+    second: Tribe Tamed Beast 76x67_311
+  - first:
+      213: -4240710569232394177
+    second: Tribe Tamed Beast 76x67_312
+  - first:
+      213: -3532898731652730051
+    second: Tribe Tamed Beast 76x67_313
+  - first:
+      213: 4001385581134822276
+    second: Tribe Tamed Beast 76x67_314
+  - first:
+      213: 8662980475497748467
+    second: Tribe Tamed Beast 76x67_315
+  - first:
+      213: -7430270594339217078
+    second: Tribe Tamed Beast 76x67_316
+  - first:
+      213: 2655070681972397646
+    second: Tribe Tamed Beast 76x67_317
+  - first:
+      213: 4058706172690354320
+    second: Tribe Tamed Beast 76x67_318
+  - first:
+      213: -1381141911448617563
+    second: Tribe Tamed Beast 76x67_319
+  - first:
+      213: 7753738816864373070
+    second: Tribe Tamed Beast 76x67_320
+  - first:
+      213: 6326936002149534748
+    second: Tribe Tamed Beast 76x67_321
+  - first:
+      213: 2925349160144560636
+    second: Tribe Tamed Beast 76x67_322
+  - first:
+      213: 1898506821436950043
+    second: Tribe Tamed Beast 76x67_323
+  - first:
+      213: -7420285887990654195
+    second: Tribe Tamed Beast 76x67_324
+  - first:
+      213: -1544077184199825261
+    second: Tribe Tamed Beast 76x67_325
+  - first:
+      213: 8928144450479616317
+    second: Tribe Tamed Beast 76x67_326
+  - first:
+      213: -2570228365225863505
+    second: Tribe Tamed Beast 76x67_327
+  - first:
+      213: -7270186620973150333
+    second: Tribe Tamed Beast 76x67_328
+  - first:
+      213: 8663543736293637454
+    second: Tribe Tamed Beast 76x67_329
+  - first:
+      213: -3124190518086995688
+    second: Tribe Tamed Beast 76x67_330
+  - first:
+      213: 7382981698480294372
+    second: Tribe Tamed Beast 76x67_331
+  - first:
+      213: 6452906074324730751
+    second: Tribe Tamed Beast 76x67_332
+  - first:
+      213: -4124547095458887739
+    second: Tribe Tamed Beast 76x67_333
+  - first:
+      213: 9022911658231614152
+    second: Tribe Tamed Beast 76x67_334
+  - first:
+      213: -7773502204259957792
+    second: Tribe Tamed Beast 76x67_335
+  - first:
+      213: 8551479321128284666
+    second: Tribe Tamed Beast 76x67_336
+  - first:
+      213: -4618957065888004516
+    second: Tribe Tamed Beast 76x67_337
+  - first:
+      213: -853237191071938151
+    second: Tribe Tamed Beast 76x67_338
+  - first:
+      213: 2157910206542079635
+    second: Tribe Tamed Beast 76x67_339
+  - first:
+      213: 5941946574882951226
+    second: Tribe Tamed Beast 76x67_340
+  - first:
+      213: 2868173856010766052
+    second: Tribe Tamed Beast 76x67_341
+  - first:
+      213: 3939032562435929500
+    second: Tribe Tamed Beast 76x67_342
+  - first:
+      213: -1581476552690082981
+    second: Tribe Tamed Beast 76x67_343
+  - first:
+      213: -2504884562407095680
+    second: Tribe Tamed Beast 76x67_344
+  - first:
+      213: -494470282609246178
+    second: Tribe Tamed Beast 76x67_345
+  - first:
+      213: 2910563678005931227
+    second: Tribe Tamed Beast 76x67_346
+  - first:
+      213: 8987466008417924853
+    second: Tribe Tamed Beast 76x67_347
+  - first:
+      213: -4118513746634550895
+    second: Tribe Tamed Beast 76x67_348
+  - first:
+      213: -4478043146467917541
+    second: Tribe Tamed Beast 76x67_349
+  - first:
+      213: 5108424063901995186
+    second: Tribe Tamed Beast 76x67_350
+  - first:
+      213: -3546387345842310881
+    second: Tribe Tamed Beast 76x67_351
+  - first:
+      213: 217188159549125624
+    second: Tribe Tamed Beast 76x67_352
+  - first:
+      213: -1415202858084230685
+    second: Tribe Tamed Beast 76x67_353
+  - first:
+      213: -5899769423771343820
+    second: Tribe Tamed Beast 76x67_354
+  - first:
+      213: 3943676981036164504
+    second: Tribe Tamed Beast 76x67_355
+  - first:
+      213: -679010182917386528
+    second: Tribe Tamed Beast 76x67_356
+  - first:
+      213: 4874824211705186722
+    second: Tribe Tamed Beast 76x67_357
+  - first:
+      213: -3032115827712422614
+    second: Tribe Tamed Beast 76x67_358
+  - first:
+      213: -1336585887568807806
+    second: Tribe Tamed Beast 76x67_359
+  - first:
+      213: 5188839571905519301
+    second: Tribe Tamed Beast 76x67_360
+  - first:
+      213: -1454372808555153950
+    second: Tribe Tamed Beast 76x67_361
+  - first:
+      213: -5895749253459502080
+    second: Tribe Tamed Beast 76x67_362
+  - first:
+      213: 8644207402247269076
+    second: Tribe Tamed Beast 76x67_363
+  - first:
+      213: -544431254724327444
+    second: Tribe Tamed Beast 76x67_364
+  - first:
+      213: -3174165703376855135
+    second: Tribe Tamed Beast 76x67_365
+  - first:
+      213: -8303401967088955119
+    second: Tribe Tamed Beast 76x67_366
+  - first:
+      213: -8753032343104410342
+    second: Tribe Tamed Beast 76x67_367
+  - first:
+      213: 7644466561189254567
+    second: Tribe Tamed Beast 76x67_368
+  - first:
+      213: -5031269567171852631
+    second: Tribe Tamed Beast 76x67_369
+  - first:
+      213: 7421458300007990465
+    second: Tribe Tamed Beast 76x67_370
+  - first:
+      213: 1200027855947523496
+    second: Tribe Tamed Beast 76x67_371
+  - first:
+      213: 2583294110187456456
+    second: Tribe Tamed Beast 76x67_372
+  - first:
+      213: -6384604887759992004
+    second: Tribe Tamed Beast 76x67_373
+  - first:
+      213: -1250521796866842704
+    second: Tribe Tamed Beast 76x67_374
+  - first:
+      213: 1700276436746103178
+    second: Tribe Tamed Beast 76x67_375
+  - first:
+      213: 2958802311671602134
+    second: Tribe Tamed Beast 76x67_376
+  - first:
+      213: -8002933480317575958
+    second: Tribe Tamed Beast 76x67_377
+  - first:
+      213: -9146628608284630448
+    second: Tribe Tamed Beast 76x67_378
+  - first:
+      213: 1520745654253714010
+    second: Tribe Tamed Beast 76x67_379
+  - first:
+      213: -7939532413826048642
+    second: Tribe Tamed Beast 76x67_380
+  - first:
+      213: -6546527713906688852
+    second: Tribe Tamed Beast 76x67_381
+  - first:
+      213: -1799679447154572241
+    second: Tribe Tamed Beast 76x67_382
+  - first:
+      213: 6860114598441768625
+    second: Tribe Tamed Beast 76x67_383
+  - first:
+      213: -7330489810722682642
+    second: Tribe Tamed Beast 76x67_384
+  - first:
+      213: -1356865791000823399
+    second: Tribe Tamed Beast 76x67_385
+  - first:
+      213: 8541595201549639706
+    second: Tribe Tamed Beast 76x67_386
+  - first:
+      213: 5404967392255673762
+    second: Tribe Tamed Beast 76x67_387
+  - first:
+      213: 1768710162661006160
+    second: Tribe Tamed Beast 76x67_388
+  - first:
+      213: -7016910591518022164
+    second: Tribe Tamed Beast 76x67_389
+  - first:
+      213: -2928416419272622825
+    second: Tribe Tamed Beast 76x67_390
+  - first:
+      213: 30614523399494679
+    second: Tribe Tamed Beast 76x67_391
+  - first:
+      213: -1333221784531333493
+    second: Tribe Tamed Beast 76x67_392
+  - first:
+      213: 6009697593395774410
+    second: Tribe Tamed Beast 76x67_393
+  - first:
+      213: 4206316021102956758
+    second: Tribe Tamed Beast 76x67_394
+  - first:
+      213: -1982386096008295705
+    second: Tribe Tamed Beast 76x67_395
+  - first:
+      213: 6898969943053262607
+    second: Tribe Tamed Beast 76x67_396
+  - first:
+      213: -7242203882294883017
+    second: Tribe Tamed Beast 76x67_397
+  - first:
+      213: -4149285497194338882
+    second: Tribe Tamed Beast 76x67_398
+  - first:
+      213: -2764457299896105858
+    second: Tribe Tamed Beast 76x67_399
+  - first:
+      213: -1980947741562148860
+    second: Tribe Tamed Beast 76x67_400
+  - first:
+      213: 155082443920615568
+    second: Tribe Tamed Beast 76x67_401
+  - first:
+      213: -9121533058109313176
+    second: Tribe Tamed Beast 76x67_402
+  - first:
+      213: 955070745196604347
+    second: Tribe Tamed Beast 76x67_403
+  - first:
+      213: -4286421597472996904
+    second: Tribe Tamed Beast 76x67_404
+  - first:
+      213: -1124135659169289094
+    second: Tribe Tamed Beast 76x67_405
+  - first:
+      213: 2231496327823072791
+    second: Tribe Tamed Beast 76x67_406
+  - first:
+      213: 5269341437665199167
+    second: Tribe Tamed Beast 76x67_407
+  - first:
+      213: 8953934950615670051
+    second: Tribe Tamed Beast 76x67_408
+  - first:
+      213: -709728910175591668
+    second: Tribe Tamed Beast 76x67_409
+  - first:
+      213: -4179760955954157490
+    second: Tribe Tamed Beast 76x67_410
+  - first:
+      213: 985462773717235701
+    second: Tribe Tamed Beast 76x67_411
+  - first:
+      213: 3465014193069344923
+    second: Tribe Tamed Beast 76x67_412
+  - first:
+      213: 4009599637182248576
+    second: Tribe Tamed Beast 76x67_413
+  - first:
+      213: 4482117769700806108
+    second: Tribe Tamed Beast 76x67_414
+  - first:
+      213: -8765508925431448971
+    second: Tribe Tamed Beast 76x67_415
+  - first:
+      213: -1552907476557961073
+    second: Tribe Tamed Beast 76x67_416
+  - first:
+      213: -5438878800754563577
+    second: Tribe Tamed Beast 76x67_417
+  - first:
+      213: -263467930599082661
+    second: Tribe Tamed Beast 76x67_418
+  - first:
+      213: 255008039620140355
+    second: Tribe Tamed Beast 76x67_419
+  - first:
+      213: -8035496078670296566
+    second: Tribe Tamed Beast 76x67_420
+  - first:
+      213: 8211419633337800360
+    second: Tribe Tamed Beast 76x67_421
+  - first:
+      213: -6143014113822415039
+    second: Tribe Tamed Beast 76x67_422
+  - first:
+      213: 290780996766309871
+    second: Tribe Tamed Beast 76x67_423
+  - first:
+      213: -3805010948388922103
+    second: Tribe Tamed Beast 76x67_424
+  - first:
+      213: -1080347486945486922
+    second: Tribe Tamed Beast 76x67_425
+  - first:
+      213: 4815675587090391285
+    second: Tribe Tamed Beast 76x67_426
+  - first:
+      213: 2526967439169221414
+    second: Tribe Tamed Beast 76x67_427
+  - first:
+      213: 4003770062960585231
+    second: Tribe Tamed Beast 76x67_428
+  - first:
+      213: -459501530769212986
+    second: Tribe Tamed Beast 76x67_429
+  - first:
+      213: 8309519931391962503
+    second: Tribe Tamed Beast 76x67_430
+  - first:
+      213: 5402481194854145476
+    second: Tribe Tamed Beast 76x67_431
+  - first:
+      213: 905283856370702455
+    second: Tribe Tamed Beast 76x67_432
+  - first:
+      213: 7853562156988412688
+    second: Tribe Tamed Beast 76x67_433
+  - first:
+      213: 2544885189983358236
+    second: Tribe Tamed Beast 76x67_434
+  - first:
+      213: -2686971327112549525
+    second: Tribe Tamed Beast 76x67_435
+  - first:
+      213: -3732108654191493276
+    second: Tribe Tamed Beast 76x67_436
+  - first:
+      213: -729535393289250159
+    second: Tribe Tamed Beast 76x67_437
+  - first:
+      213: 2057721154811342275
+    second: Tribe Tamed Beast 76x67_438
+  - first:
+      213: -7026820839702866353
+    second: Tribe Tamed Beast 76x67_439
+  - first:
+      213: 6012770635850629391
+    second: Tribe Tamed Beast 76x67_440
+  - first:
+      213: 6151074070704157868
+    second: Tribe Tamed Beast 76x67_441
+  - first:
+      213: 5277529685542453341
+    second: Tribe Tamed Beast 76x67_442
+  - first:
+      213: 195127072653846954
+    second: Tribe Tamed Beast 76x67_443
+  - first:
+      213: -3817663544047145791
+    second: Tribe Tamed Beast 76x67_444
+  - first:
+      213: -4932174812154732282
+    second: Tribe Tamed Beast 76x67_445
+  - first:
+      213: -4130476855175083845
+    second: Tribe Tamed Beast 76x67_446
+  - first:
+      213: -1720028550005217905
+    second: Tribe Tamed Beast 76x67_447
+  - first:
+      213: 5649243364895514111
+    second: Tribe Tamed Beast 76x67_448
+  - first:
+      213: -4550420218139363960
+    second: Tribe Tamed Beast 76x67_449
+  - first:
+      213: 2123992391271318812
+    second: Tribe Tamed Beast 76x67_450
+  - first:
+      213: 3971074179001698331
+    second: Tribe Tamed Beast 76x67_451
+  - first:
+      213: 6762490986239808875
+    second: Tribe Tamed Beast 76x67_452
+  - first:
+      213: 7426042759523132865
+    second: Tribe Tamed Beast 76x67_453
+  - first:
+      213: -6045966551918252754
+    second: Tribe Tamed Beast 76x67_454
+  - first:
+      213: -6267957090936585826
+    second: Tribe Tamed Beast 76x67_455
+  - first:
+      213: 893545189383612784
+    second: Tribe Tamed Beast 76x67_456
+  - first:
+      213: 8320528179577283200
+    second: Tribe Tamed Beast 76x67_457
+  - first:
+      213: -1570107150168039606
+    second: Tribe Tamed Beast 76x67_458
+  - first:
+      213: -7425717752279030069
+    second: Tribe Tamed Beast 76x67_459
+  - first:
+      213: 1924126402819839918
+    second: Tribe Tamed Beast 76x67_460
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576e65fa01cac0af0800000000000000
+      internalID: -428778676845877643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 603
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d225ef6d9e14b50800000000000000
+      internalID: 6575794040536706461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 603
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633aa9f2dd39d5710800000000000000
+      internalID: 1683664413902152502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 603
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45c3da1aac5fe3b0800000000000000
+      internalID: -5481060335822322354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 603
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccecfacbe0bc2850800000000000000
+      internalID: 6353647701082303694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 603
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4154eadd659f2d0800000000000000
+      internalID: -3244466546432207690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305b364712f3150800000000000000
+      internalID: 5854434824377664392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 536
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fab6faf8035f7e90800000000000000
+      internalID: -7025805595639366926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 536
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1642d7d84ef0273a0800000000000000
+      internalID: -6669250623881534367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 536
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dbfdb70664957b0800000000000000
+      internalID: -5235075711632425594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 536
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684776eee8fbed3d0800000000000000
+      internalID: -3179893666270972794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 536
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3794afd59ad645050800000000000000
+      internalID: 5788371995271514483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae8c3b1f6d688b90800000000000000
+      internalID: -7239416077032321364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 469
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef910c1386327d10800000000000000
+      internalID: 2121818311183409132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 469
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b8f26c410c28380800000000000000
+      internalID: -8970396312311723218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_15
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 469
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9923cb10cd1b34460800000000000000
+      internalID: 7224813785712439961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 469
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fb1e0b21574b380800000000000000
+      internalID: -8956405035795628278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 469
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6764f39cdc1180500800000000000000
+      internalID: 362559345545660022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7441b64bb2e96d5d0800000000000000
+      internalID: -3038066988067122105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 402
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5884de6991f8ecf0800000000000000
+      internalID: -222662540263126948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 402
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de67883b1dcc4ea70800000000000000
+      internalID: 8855427968349533933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 402
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f216db1345dd7d370800000000000000
+      internalID: 8347383788035989807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 402
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c95d158b501bade0800000000000000
+      internalID: -1320944080441747004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_23
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 402
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2134a2f6ca0b8f890800000000000000
+      internalID: -7423989731074358510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10a967340d7342b0800000000000000
+      internalID: -5601496054455754724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 335
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72885d0001fc924c0800000000000000
+      internalID: -4311687500590118873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 335
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b708c6844ad1b14e0800000000000000
+      internalID: -2009980217263882117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 335
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882b2c2f0cb80aef0800000000000000
+      internalID: -98925530979323256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 335
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b124aa85d7b9fe0800000000000000
+      internalID: -1181212657487570159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_29
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 335
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a23e49304d7e9f40800000000000000
+      internalID: 5737160690109395623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3471846ab1bc450800000000000000
+      internalID: 6110007720446215072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_31
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 268
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe04bee08cb3a100800000000000000
+      internalID: 118145277188378364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 268
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86aa39d2c251a17b0800000000000000
+      internalID: -5252862735886865816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 268
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c43edc4c5cf2a2b0800000000000000
+      internalID: -5574615915374431034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 268
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82013809b26f8520800000000000000
+      internalID: 2706490447918858894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_35
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 268
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e81af65299031d0800000000000000
+      internalID: -3373027734834803193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64458f8ca67b07600800000000000000
+      internalID: 464072430885295174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16e79f2b50708350800000000000000
+      internalID: 6016932639109801500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_38
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3464211da817fd260800000000000000
+      internalID: 7124537976550475331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_39
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f3b2a9efd4195f0800000000000000
+      internalID: -751733906890604643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_40
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd551baac0c916770800000000000000
+      internalID: 8602328341471647195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_41
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c956c8b97fafe8c0800000000000000
+      internalID: -3967759809364207168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_42
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee26603e3bed3c50800000000000000
+      internalID: 6646727277401222883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_43
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de690dab91ef02d00800000000000000
+      internalID: 946035308209673965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_44
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69a1ffa32a7f6d70800000000000000
+      internalID: 9038577270850169194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_45
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c2e097aaac15990800000000000000
+      internalID: -7398909879268791225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_46
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeea6be61492e760800000000000000
+      internalID: 7485708356803030691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_47
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea50a8e3eb8d56170800000000000000
+      internalID: 8171175410538251694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_48
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdcfa83f49c68f20800000000000000
+      internalID: 3424645908752485884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_49
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a11da3c52c2f0d0800000000000000
+      internalID: -3390433868077000042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_50
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a86e0e423a112d40800000000000000
+      internalID: 5557752218512156835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_51
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 201
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d1d95044b98dc90800000000000000
+      internalID: -7144790092369027837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed962fa5c4e8d880800000000000000
+      internalID: -8585861151883616790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b152a66ae649a80800000000000000
+      internalID: -8461016138897876150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17593c67da1d6180800000000000000
+      internalID: -9120604157819398371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_55
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcf4893920bd5200800000000000000
+      internalID: 170486052015111408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_56
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5536dce5fbbf86330800000000000000
+      internalID: 3704487492860076885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_57
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75ed0725c8814460800000000000000
+      internalID: 7224205657624143230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_58
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a2fd15bd1568190800000000000000
+      internalID: -7960585288917505422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_59
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3753dd5f047e33d10800000000000000
+      internalID: 2104279717100991859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_60
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fb9fabcb52c0bd0800000000000000
+      internalID: -2662711787161796790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_61
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfafd45a3a10bd4e0800000000000000
+      internalID: -1955967810797700355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_62
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ce69ca815c63e30800000000000000
+      internalID: 4482987188859366441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_63
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27608769bf254da30800000000000000
+      internalID: 4239104389777196658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_64
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5328fcbd4314a5a10800000000000000
+      internalID: 1898901888171999797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_65
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d89fc2466b61760800000000000000
+      internalID: 7428325176761748843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_66
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5598c5ef2c9820e50800000000000000
+      internalID: 6774128260102785365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_67
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 134
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e015855e72b239830800000000000000
+      internalID: 4076649538051920142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a704514d64cb200800000000000000
+      internalID: 197110360401017415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_69
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36127a599daac8080800000000000000
+      internalID: -9183777688619900573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_70
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e57b9ff284564140800000000000000
+      internalID: 4703539782445921767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_71
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3926b0a8889be050800000000000000
+      internalID: 5830921855140505915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_72
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebad234434cf5e760800000000000000
+      internalID: 7486667321410509502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_73
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57695f53e6cb7ca20800000000000000
+      internalID: 3082639651496105589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_74
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553f381a89c871d90800000000000000
+      internalID: -7127073298117823659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_75
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbc90ce431383910800000000000000
+      internalID: 1817256553012120520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_76
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0402c2ba7445ec70800000000000000
+      internalID: 8999674724145562635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_77
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c62082408ad3780800000000000000
+      internalID: -8701614169205347267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_78
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea0f7463ad1fca60800000000000000
+      internalID: 7696402875802389229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_79
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f162a9e7faacd6020800000000000000
+      internalID: 2336746636767274527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_80
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8849b0d5d4295c0800000000000000
+      internalID: -4210217639616411460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_81
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140fe09ea9751c1c0800000000000000
+      internalID: -4485207431037652927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_82
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75edca2b3157ec10800000000000000
+      internalID: 2082722667245200767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_83
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 67
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1920bd47e5134f3e0800000000000000
+      internalID: -2020936051025313135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322d47fc748d733c0800000000000000
+      internalID: -4379794309659700701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_85
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6159a18f49683340800000000000000
+      internalID: 4843737189435658604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_86
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e47deb7d64f001b0800000000000000
+      internalID: -5692281177928534809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_87
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50a8e5c4ef00a050800000000000000
+      internalID: 5809660994555256926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_88
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addbb6c00a8cd8b90800000000000000
+      internalID: -7237908436385808934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_89
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cf5e983eea0b600800000000000000
+      internalID: 482077452423003268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_90
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d9cc81528082d10800000000000000
+      internalID: 2100938181591211395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_91
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa81ee80449085c0800000000000000
+      internalID: -4215206246222820610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_92
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d500b463c4650b640800000000000000
+      internalID: 5093666063884419165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_93
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fe1f094456ce2e0800000000000000
+      internalID: -2095188381470167222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_94
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9318f9110c9d14890800000000000000
+      internalID: -7475454487505698503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_95
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601f791333d2f65a0800000000000000
+      internalID: -6525947637137936122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_96
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2250386e10ba1b290800000000000000
+      internalID: -7876326248643623646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_97
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bbed9a5a3f7f320800000000000000
+      internalID: 2591808003420109687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_98
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650256c7263c505e0800000000000000
+      internalID: -1943932836379287466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_99
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f729717dceabd60b0800000000000000
+      internalID: -5733721224189078913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Tamed Beast 76x67_100
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5431c422f87c1a300800000000000000
+      internalID: 261709670933861189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 98a6496bb008edb4097f703c9f41b08a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":17.0,"y":10.0},"gridSpriteSize":{"x":76.0,"y":67.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tribe Tamed Beast 76x67_0: -428778676845877643
+      Tribe Tamed Beast 76x67_1: 6575794040536706461
+      Tribe Tamed Beast 76x67_10: -3179893666270972794
+      Tribe Tamed Beast 76x67_100: 261709670933861189
+      Tribe Tamed Beast 76x67_11: 5788371995271514483
+      Tribe Tamed Beast 76x67_12: -7239416077032321364
+      Tribe Tamed Beast 76x67_13: 2121818311183409132
+      Tribe Tamed Beast 76x67_14: -8970396312311723218
+      Tribe Tamed Beast 76x67_15: 7224813785712439961
+      Tribe Tamed Beast 76x67_16: -8956405035795628278
+      Tribe Tamed Beast 76x67_17: 362559345545660022
+      Tribe Tamed Beast 76x67_18: -3038066988067122105
+      Tribe Tamed Beast 76x67_19: -222662540263126948
+      Tribe Tamed Beast 76x67_2: 1683664413902152502
+      Tribe Tamed Beast 76x67_20: 8855427968349533933
+      Tribe Tamed Beast 76x67_21: 8347383788035989807
+      Tribe Tamed Beast 76x67_22: -1320944080441747004
+      Tribe Tamed Beast 76x67_23: -7423989731074358510
+      Tribe Tamed Beast 76x67_24: -5601496054455754724
+      Tribe Tamed Beast 76x67_25: -4311687500590118873
+      Tribe Tamed Beast 76x67_26: -2009980217263882117
+      Tribe Tamed Beast 76x67_27: -98925530979323256
+      Tribe Tamed Beast 76x67_28: -1181212657487570159
+      Tribe Tamed Beast 76x67_29: 5737160690109395623
+      Tribe Tamed Beast 76x67_3: -5481060335822322354
+      Tribe Tamed Beast 76x67_30: 6110007720446215072
+      Tribe Tamed Beast 76x67_31: 118145277188378364
+      Tribe Tamed Beast 76x67_32: -5252862735886865816
+      Tribe Tamed Beast 76x67_33: -5574615915374431034
+      Tribe Tamed Beast 76x67_34: 2706490447918858894
+      Tribe Tamed Beast 76x67_35: -3373027734834803193
+      Tribe Tamed Beast 76x67_36: 464072430885295174
+      Tribe Tamed Beast 76x67_37: 6016932639109801500
+      Tribe Tamed Beast 76x67_38: 7124537976550475331
+      Tribe Tamed Beast 76x67_39: -751733906890604643
+      Tribe Tamed Beast 76x67_4: 6353647701082303694
+      Tribe Tamed Beast 76x67_40: 8602328341471647195
+      Tribe Tamed Beast 76x67_41: -3967759809364207168
+      Tribe Tamed Beast 76x67_42: 6646727277401222883
+      Tribe Tamed Beast 76x67_43: 946035308209673965
+      Tribe Tamed Beast 76x67_44: 9038577270850169194
+      Tribe Tamed Beast 76x67_45: -7398909879268791225
+      Tribe Tamed Beast 76x67_46: 7485708356803030691
+      Tribe Tamed Beast 76x67_47: 8171175410538251694
+      Tribe Tamed Beast 76x67_48: 3424645908752485884
+      Tribe Tamed Beast 76x67_49: -3390433868077000042
+      Tribe Tamed Beast 76x67_5: -3244466546432207690
+      Tribe Tamed Beast 76x67_50: 5557752218512156835
+      Tribe Tamed Beast 76x67_51: -7144790092369027837
+      Tribe Tamed Beast 76x67_52: -8585861151883616790
+      Tribe Tamed Beast 76x67_53: -8461016138897876150
+      Tribe Tamed Beast 76x67_54: -9120604157819398371
+      Tribe Tamed Beast 76x67_55: 170486052015111408
+      Tribe Tamed Beast 76x67_56: 3704487492860076885
+      Tribe Tamed Beast 76x67_57: 7224205657624143230
+      Tribe Tamed Beast 76x67_58: -7960585288917505422
+      Tribe Tamed Beast 76x67_59: 2104279717100991859
+      Tribe Tamed Beast 76x67_6: 5854434824377664392
+      Tribe Tamed Beast 76x67_60: -2662711787161796790
+      Tribe Tamed Beast 76x67_61: -1955967810797700355
+      Tribe Tamed Beast 76x67_62: 4482987188859366441
+      Tribe Tamed Beast 76x67_63: 4239104389777196658
+      Tribe Tamed Beast 76x67_64: 1898901888171999797
+      Tribe Tamed Beast 76x67_65: 7428325176761748843
+      Tribe Tamed Beast 76x67_66: 6774128260102785365
+      Tribe Tamed Beast 76x67_67: 4076649538051920142
+      Tribe Tamed Beast 76x67_68: 197110360401017415
+      Tribe Tamed Beast 76x67_69: -9183777688619900573
+      Tribe Tamed Beast 76x67_7: -7025805595639366926
+      Tribe Tamed Beast 76x67_70: 4703539782445921767
+      Tribe Tamed Beast 76x67_71: 5830921855140505915
+      Tribe Tamed Beast 76x67_72: 7486667321410509502
+      Tribe Tamed Beast 76x67_73: 3082639651496105589
+      Tribe Tamed Beast 76x67_74: -7127073298117823659
+      Tribe Tamed Beast 76x67_75: 1817256553012120520
+      Tribe Tamed Beast 76x67_76: 8999674724145562635
+      Tribe Tamed Beast 76x67_77: -8701614169205347267
+      Tribe Tamed Beast 76x67_78: 7696402875802389229
+      Tribe Tamed Beast 76x67_79: 2336746636767274527
+      Tribe Tamed Beast 76x67_8: -6669250623881534367
+      Tribe Tamed Beast 76x67_80: -4210217639616411460
+      Tribe Tamed Beast 76x67_81: -4485207431037652927
+      Tribe Tamed Beast 76x67_82: 2082722667245200767
+      Tribe Tamed Beast 76x67_83: -2020936051025313135
+      Tribe Tamed Beast 76x67_84: -4379794309659700701
+      Tribe Tamed Beast 76x67_85: 4843737189435658604
+      Tribe Tamed Beast 76x67_86: -5692281177928534809
+      Tribe Tamed Beast 76x67_87: 5809660994555256926
+      Tribe Tamed Beast 76x67_88: -7237908436385808934
+      Tribe Tamed Beast 76x67_89: 482077452423003268
+      Tribe Tamed Beast 76x67_9: -5235075711632425594
+      Tribe Tamed Beast 76x67_90: 2100938181591211395
+      Tribe Tamed Beast 76x67_91: -4215206246222820610
+      Tribe Tamed Beast 76x67_92: 5093666063884419165
+      Tribe Tamed Beast 76x67_93: -2095188381470167222
+      Tribe Tamed Beast 76x67_94: -7475454487505698503
+      Tribe Tamed Beast 76x67_95: -6525947637137936122
+      Tribe Tamed Beast 76x67_96: -7876326248643623646
+      Tribe Tamed Beast 76x67_97: 2591808003420109687
+      Tribe Tamed Beast 76x67_98: -1943932836379287466
+      Tribe Tamed Beast 76x67_99: -5733721224189078913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

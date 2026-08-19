@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: f6c075e368de01c49a81ff1fdc885b3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2596804345528510346
+    second: Warrior spritesheet with shadow_0
+  - first:
+      213: 9128331739335538197
+    second: Warrior spritesheet with shadow_1
+  - first:
+      213: 2663938166119934813
+    second: Warrior spritesheet with shadow_2
+  - first:
+      213: 551525904586551204
+    second: Warrior spritesheet with shadow_3
+  - first:
+      213: 2952577808034544707
+    second: Warrior spritesheet with shadow_4
+  - first:
+      213: -1752745887919888393
+    second: Warrior spritesheet with shadow_5
+  - first:
+      213: 170907207877024930
+    second: Warrior spritesheet with shadow_6
+  - first:
+      213: -4129781159930426792
+    second: Warrior spritesheet with shadow_7
+  - first:
+      213: 4202814569805199639
+    second: Warrior spritesheet with shadow_8
+  - first:
+      213: -3701249639194670485
+    second: Warrior spritesheet with shadow_9
+  - first:
+      213: -6567541323801707465
+    second: Warrior spritesheet with shadow_10
+  - first:
+      213: -828205991193072579
+    second: Warrior spritesheet with shadow_11
+  - first:
+      213: 6246834765467110884
+    second: Warrior spritesheet with shadow_12
+  - first:
+      213: -2673795697776248264
+    second: Warrior spritesheet with shadow_13
+  - first:
+      213: 6365052681352801647
+    second: Warrior spritesheet with shadow_14
+  - first:
+      213: -5719713617880691374
+    second: Warrior spritesheet with shadow_15
+  - first:
+      213: -8968800553485988052
+    second: Warrior spritesheet with shadow_16
+  - first:
+      213: -1304871336906178452
+    second: Warrior spritesheet with shadow_17
+  - first:
+      213: 3587180710263045213
+    second: Warrior spritesheet with shadow_18
+  - first:
+      213: 6438263461612388820
+    second: Warrior spritesheet with shadow_19
+  - first:
+      213: -1411800049792037439
+    second: Warrior spritesheet with shadow_20
+  - first:
+      213: 397770528954735104
+    second: Warrior spritesheet with shadow_21
+  - first:
+      213: 2653586415817653116
+    second: Warrior spritesheet with shadow_22
+  - first:
+      213: -1761580521837630247
+    second: Warrior spritesheet with shadow_23
+  - first:
+      213: -1299090239115920711
+    second: Warrior spritesheet with shadow_24
+  - first:
+      213: 2087221777924450907
+    second: Warrior spritesheet with shadow_25
+  - first:
+      213: 8300054024802933004
+    second: Warrior spritesheet with shadow_26
+  - first:
+      213: -1614657897509476341
+    second: Warrior spritesheet with shadow_27
+  - first:
+      213: 4123052030410836733
+    second: Warrior spritesheet with shadow_28
+  - first:
+      213: -2954570087426548082
+    second: Warrior spritesheet with shadow_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 130
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87ea663bc3b90420800000000000000
+      internalID: 2596804345528510346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 130
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516b40b5a595eae70800000000000000
+      internalID: 9128331739335538197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 130
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b2f2fd5a538f420800000000000000
+      internalID: 2663938166119934813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 130
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afae4b53e967a700800000000000000
+      internalID: 551525904586551204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 130
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cb99b7fd9a9f820800000000000000
+      internalID: 2952577808034544707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 98
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f72201c6eefca7e0800000000000000
+      internalID: -1752745887919888393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 98
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac5017333f2f5200800000000000000
+      internalID: 170907207877024930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 98
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a0f326ae110b6c0800000000000000
+      internalID: -4129781159930426792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 98
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71933127595635a30800000000000000
+      internalID: 4202814569805199639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 66
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a42ce201582acc0800000000000000
+      internalID: -3701249639194670485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 66
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cb91b56f76bd4a0800000000000000
+      internalID: -6567541323801707465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c261ef90f9184f0800000000000000
+      internalID: -828205991193072579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 64
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed4a3e3f1731b650800000000000000
+      internalID: 6246834765467110884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 65
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a3410baf4c4ead0800000000000000
+      internalID: -2673795697776248264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 34
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d6ea0b0b5355850800000000000000
+      internalID: 6365052681352801647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 34
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dc145d4ce7f90b0800000000000000
+      internalID: -5719713617880691374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f04245a6b688380800000000000000
+      internalID: -8968800553485988052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c604e1ebe6a24ede0800000000000000
+      internalID: -1304871336906178452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cbc5ca9d938c130800000000000000
+      internalID: 3587180710263045213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 10
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d188c7c18e495950800000000000000
+      internalID: 6438263461612388820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd4442b557486ce0800000000000000
+      internalID: -1411800049792037439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a5778403a258500800000000000000
+      internalID: 397770528954735104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bfc9f29ce63d420800000000000000
+      internalID: 2653586415817653116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcee9049db9d87e0800000000000000
+      internalID: -1761580521837630247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 7
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba71567f44b8fde0800000000000000
+      internalID: -1299090239115920711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a65a0062d47fc10800000000000000
+      internalID: 2087221777924450907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c091ee4f827bf2370800000000000000
+      internalID: 8300054024802933004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b082b2172359799e0800000000000000
+      internalID: -1614657897509476341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa471f0af5083930800000000000000
+      internalID: 4123052030410836733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior spritesheet with shadow_29
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e12f2d8224ff6d0800000000000000
+      internalID: -2954570087426548082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Warrior spritesheet with shadow_0: 2596804345528510346
+      Warrior spritesheet with shadow_1: 9128331739335538197
+      Warrior spritesheet with shadow_10: -6567541323801707465
+      Warrior spritesheet with shadow_11: -828205991193072579
+      Warrior spritesheet with shadow_12: 6246834765467110884
+      Warrior spritesheet with shadow_13: -2673795697776248264
+      Warrior spritesheet with shadow_14: 6365052681352801647
+      Warrior spritesheet with shadow_15: -5719713617880691374
+      Warrior spritesheet with shadow_16: -8968800553485988052
+      Warrior spritesheet with shadow_17: -1304871336906178452
+      Warrior spritesheet with shadow_18: 3587180710263045213
+      Warrior spritesheet with shadow_19: 6438263461612388820
+      Warrior spritesheet with shadow_2: 2663938166119934813
+      Warrior spritesheet with shadow_20: -1411800049792037439
+      Warrior spritesheet with shadow_21: 397770528954735104
+      Warrior spritesheet with shadow_22: 2653586415817653116
+      Warrior spritesheet with shadow_23: -1761580521837630247
+      Warrior spritesheet with shadow_24: -1299090239115920711
+      Warrior spritesheet with shadow_25: 2087221777924450907
+      Warrior spritesheet with shadow_26: 8300054024802933004
+      Warrior spritesheet with shadow_27: -1614657897509476341
+      Warrior spritesheet with shadow_28: 4123052030410836733
+      Warrior spritesheet with shadow_29: -2954570087426548082
+      Warrior spritesheet with shadow_3: 551525904586551204
+      Warrior spritesheet with shadow_4: 2952577808034544707
+      Warrior spritesheet with shadow_5: -1752745887919888393
+      Warrior spritesheet with shadow_6: 170907207877024930
+      Warrior spritesheet with shadow_7: -4129781159930426792
+      Warrior spritesheet with shadow_8: 4202814569805199639
+      Warrior spritesheet with shadow_9: -3701249639194670485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

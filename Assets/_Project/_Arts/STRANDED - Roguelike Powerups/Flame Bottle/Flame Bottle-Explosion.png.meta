@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 8b132688f98659344bb0d34c63ff62ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6594257546121836621
+    second: Flame Bottle-Explosion_0
+  - first:
+      213: 4145211620172222773
+    second: Flame Bottle-Explosion_1
+  - first:
+      213: 8517903376198109753
+    second: Flame Bottle-Explosion_2
+  - first:
+      213: -5092260626360962629
+    second: Flame Bottle-Explosion_3
+  - first:
+      213: -5757356819549979941
+    second: Flame Bottle-Explosion_4
+  - first:
+      213: 3548055654882734391
+    second: Flame Bottle-Explosion_5
+  - first:
+      213: -4829350173949516043
+    second: Flame Bottle-Explosion_6
+  - first:
+      213: 4568763061043611035
+    second: Flame Bottle-Explosion_7
+  - first:
+      213: -4112600113180283170
+    second: Flame Bottle-Explosion_8
+  - first:
+      213: 4853369021267047883
+    second: Flame Bottle-Explosion_9
+  - first:
+      213: -3710638598858452305
+    second: Flame Bottle-Explosion_10
+  - first:
+      213: 3058540671239837878
+    second: Flame Bottle-Explosion_11
+  - first:
+      213: -1894068303736448946
+    second: Flame Bottle-Explosion_12
+  - first:
+      213: -4563748313039567119
+    second: Flame Bottle-Explosion_13
+  - first:
+      213: 4770619000217770172
+    second: Flame Bottle-Explosion_14
+  - first:
+      213: 4911156819941243783
+    second: Flame Bottle-Explosion_15
+  - first:
+      213: 5737156105175475926
+    second: Flame Bottle-Explosion_16
+  - first:
+      213: -5118567144684907906
+    second: Flame Bottle-Explosion_17
+  - first:
+      213: -8277247484564169208
+    second: Flame Bottle-Explosion_18
+  - first:
+      213: 300356387819297314
+    second: Flame Bottle-Explosion_19
+  - first:
+      213: -7069520553473323859
+    second: Flame Bottle-Explosion_20
+  - first:
+      213: -8028653050385680221
+    second: Flame Bottle-Explosion_21
+  - first:
+      213: -5704301360193011298
+    second: Flame Bottle-Explosion_22
+  - first:
+      213: 6576421805716029596
+    second: Flame Bottle-Explosion_23
+  - first:
+      213: 1773217580632676054
+    second: Flame Bottle-Explosion_24
+  - first:
+      213: -6641323489661827356
+    second: Flame Bottle-Explosion_25
+  - first:
+      213: 782696878397752765
+    second: Flame Bottle-Explosion_26
+  - first:
+      213: 6024282152025971230
+    second: Flame Bottle-Explosion_27
+  - first:
+      213: -5256428855560284730
+    second: Flame Bottle-Explosion_28
+  - first:
+      213: 1466418998245077119
+    second: Flame Bottle-Explosion_29
+  - first:
+      213: -4492805199123195655
+    second: Flame Bottle-Explosion_30
+  - first:
+      213: -4706080736492608401
+    second: Flame Bottle-Explosion_31
+  - first:
+      213: -4995724954864931518
+    second: Flame Bottle-Explosion_32
+  - first:
+      213: 4724999982654462346
+    second: Flame Bottle-Explosion_33
+  - first:
+      213: 2607257912378401372
+    second: Flame Bottle-Explosion_34
+  - first:
+      213: 5019622273298546100
+    second: Flame Bottle-Explosion_35
+  - first:
+      213: 2927092056837991246
+    second: Flame Bottle-Explosion_36
+  - first:
+      213: 4014167652766450637
+    second: Flame Bottle-Explosion_37
+  - first:
+      213: 2521918355693858628
+    second: Flame Bottle-Explosion_38
+  - first:
+      213: -7758620541855417387
+    second: Flame Bottle-Explosion_39
+  - first:
+      213: -4591698031177190035
+    second: Flame Bottle-Explosion_40
+  - first:
+      213: 6631849985217723869
+    second: Flame Bottle-Explosion_41
+  - first:
+      213: -374682623969890368
+    second: Flame Bottle-Explosion_42
+  - first:
+      213: -8304605063787377324
+    second: Flame Bottle-Explosion_43
+  - first:
+      213: -3640496526107901188
+    second: Flame Bottle-Explosion_44
+  - first:
+      213: -6032238057348510868
+    second: Flame Bottle-Explosion_45
+  - first:
+      213: 5181696727958506627
+    second: Flame Bottle-Explosion_46
+  - first:
+      213: -8466788168655870507
+    second: Flame Bottle-Explosion_47
+  - first:
+      213: 8970720552392697541
+    second: Flame Bottle-Explosion_48
+  - first:
+      213: 6929095352978361090
+    second: Flame Bottle-Explosion_49
+  - first:
+      213: -8157629828158598767
+    second: Flame Bottle-Explosion_50
+  - first:
+      213: 3601990788690762688
+    second: Flame Bottle-Explosion_51
+  - first:
+      213: -2397913873296983967
+    second: Flame Bottle-Explosion_52
+  - first:
+      213: -7826977181776168808
+    second: Flame Bottle-Explosion_53
+  - first:
+      213: -2712937924801011811
+    second: Flame Bottle-Explosion_54
+  - first:
+      213: 8471118113235584578
+    second: Flame Bottle-Explosion_55
+  - first:
+      213: -2586144013258193225
+    second: Flame Bottle-Explosion_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48f702ec42838b50800000000000000
+      internalID: 6594257546121836621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531df2b9100c68930800000000000000
+      internalID: 4145211620172222773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a8369adfba53670800000000000000
+      internalID: 8517903376198109753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1fb06b0f7a459b0800000000000000
+      internalID: -5092260626360962629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdafc85f972c910b0800000000000000
+      internalID: -5757356819549979941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731f998d1d93d3130800000000000000
+      internalID: 3548055654882734391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6a4c19a93bafcb0800000000000000
+      internalID: -4829350173949516043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b954e643cc1876f30800000000000000
+      internalID: 4568763061043611035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede68ae8cfb1de6c0800000000000000
+      internalID: -4112600113180283170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5f18c1961aa5340800000000000000
+      internalID: 4853369021267047883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa25039aad9218cc0800000000000000
+      internalID: -3710638598858452305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8d550298e127a20800000000000000
+      internalID: 3058540671239837878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_12
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e485677b9eae6b5e0800000000000000
+      internalID: -1894068303736448946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f60dfcc61f4aa0c0800000000000000
+      internalID: -4563748313039567119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_14
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb895b274b4a43240800000000000000
+      internalID: 4770619000217770172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_15
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bb5d87b1fe72440800000000000000
+      internalID: 4911156819941243783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_16
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6a2f5b4197e9f40800000000000000
+      internalID: 5737156105175475926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_17
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72121e1d4237f8b0800000000000000
+      internalID: -5118567144684907906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_18
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e9e8c744f412d80800000000000000
+      internalID: -8277247484564169208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_19
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a1df91b841b2400800000000000000
+      internalID: 300356387819297314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_20
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac46e5338404ed90800000000000000
+      internalID: -7069520553473323859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_21
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8b7ea969e749090800000000000000
+      internalID: -8028653050385680221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_22
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e910be5b22046d0b0800000000000000
+      internalID: -5704301360193011298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-Explosion_23
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 0
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ce157a5bd50b94ba951272a8bf8116
+      internalID: 748722857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3213220d2ea4b0942ad389c3c4dc5082
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":26.0,"y":1.0},"gridSpriteSize":{"x":63.0,"y":54.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Flame Bottle-Explosion_0: 6594257546121836621
+      Flame Bottle-Explosion_1: 4145211620172222773
+      Flame Bottle-Explosion_10: -3710638598858452305
+      Flame Bottle-Explosion_11: 3058540671239837878
+      Flame Bottle-Explosion_12: -1894068303736448946
+      Flame Bottle-Explosion_13: -4563748313039567119
+      Flame Bottle-Explosion_14: 4770619000217770172
+      Flame Bottle-Explosion_15: 4911156819941243783
+      Flame Bottle-Explosion_16: 5737156105175475926
+      Flame Bottle-Explosion_17: -5118567144684907906
+      Flame Bottle-Explosion_18: -8277247484564169208
+      Flame Bottle-Explosion_19: 300356387819297314
+      Flame Bottle-Explosion_2: 8517903376198109753
+      Flame Bottle-Explosion_20: -7069520553473323859
+      Flame Bottle-Explosion_21: -8028653050385680221
+      Flame Bottle-Explosion_22: -5704301360193011298
+      Flame Bottle-Explosion_23: 748722857
+      Flame Bottle-Explosion_3: -5092260626360962629
+      Flame Bottle-Explosion_4: -5757356819549979941
+      Flame Bottle-Explosion_5: 3548055654882734391
+      Flame Bottle-Explosion_6: -4829350173949516043
+      Flame Bottle-Explosion_7: 4568763061043611035
+      Flame Bottle-Explosion_8: -4112600113180283170
+      Flame Bottle-Explosion_9: 4853369021267047883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

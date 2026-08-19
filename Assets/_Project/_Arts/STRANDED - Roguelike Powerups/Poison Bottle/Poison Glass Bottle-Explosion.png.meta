@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: 78a4eb2bcc09a2347a7b1bf944d0c942
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6490491659254911443
+    second: Poison Glass Bottle-Explosion_0
+  - first:
+      213: -9104551527021316137
+    second: Poison Glass Bottle-Explosion_1
+  - first:
+      213: 6124391496010633039
+    second: Poison Glass Bottle-Explosion_2
+  - first:
+      213: -5041891108731404328
+    second: Poison Glass Bottle-Explosion_3
+  - first:
+      213: 7692295029913049454
+    second: Poison Glass Bottle-Explosion_4
+  - first:
+      213: -2845279227367249956
+    second: Poison Glass Bottle-Explosion_5
+  - first:
+      213: 8702994738200491274
+    second: Poison Glass Bottle-Explosion_6
+  - first:
+      213: -101315775600155642
+    second: Poison Glass Bottle-Explosion_7
+  - first:
+      213: -4632019774380117281
+    second: Poison Glass Bottle-Explosion_8
+  - first:
+      213: 4970628647486740453
+    second: Poison Glass Bottle-Explosion_9
+  - first:
+      213: 3680457275666123954
+    second: Poison Glass Bottle-Explosion_10
+  - first:
+      213: -6096392413716703552
+    second: Poison Glass Bottle-Explosion_11
+  - first:
+      213: -2810010133586840491
+    second: Poison Glass Bottle-Explosion_12
+  - first:
+      213: 4029955873491451961
+    second: Poison Glass Bottle-Explosion_13
+  - first:
+      213: 8048648544855420344
+    second: Poison Glass Bottle-Explosion_14
+  - first:
+      213: 3543182638282422262
+    second: Poison Glass Bottle-Explosion_15
+  - first:
+      213: -6258711703869471380
+    second: Poison Glass Bottle-Explosion_16
+  - first:
+      213: -4421801718518557674
+    second: Poison Glass Bottle-Explosion_17
+  - first:
+      213: -2510320449102300599
+    second: Poison Glass Bottle-Explosion_18
+  - first:
+      213: 877413104311459183
+    second: Poison Glass Bottle-Explosion_19
+  - first:
+      213: -7638191151272711190
+    second: Poison Glass Bottle-Explosion_20
+  - first:
+      213: 7171423219163545350
+    second: Poison Glass Bottle-Explosion_21
+  - first:
+      213: 2445311003106403221
+    second: Poison Glass Bottle-Explosion_22
+  - first:
+      213: -2141205936868344974
+    second: Poison Glass Bottle-Explosion_23
+  - first:
+      213: 7489514464818335811
+    second: Poison Glass Bottle-Explosion_24
+  - first:
+      213: -8855335716043527157
+    second: Poison Glass Bottle-Explosion_25
+  - first:
+      213: 7070515055976816204
+    second: Poison Glass Bottle-Explosion_26
+  - first:
+      213: 5886911674976470110
+    second: Poison Glass Bottle-Explosion_27
+  - first:
+      213: 1656966573257203502
+    second: Poison Glass Bottle-Explosion_28
+  - first:
+      213: 312082584409368741
+    second: Poison Glass Bottle-Explosion_29
+  - first:
+      213: 8255407539459232489
+    second: Poison Glass Bottle-Explosion_30
+  - first:
+      213: -1393665364796322069
+    second: Poison Glass Bottle-Explosion_31
+  - first:
+      213: -1994577833053873886
+    second: Poison Glass Bottle-Explosion_32
+  - first:
+      213: -5041435962084232803
+    second: Poison Glass Bottle-Explosion_33
+  - first:
+      213: -7852377774506265925
+    second: Poison Glass Bottle-Explosion_34
+  - first:
+      213: -3699708835430450137
+    second: Poison Glass Bottle-Explosion_35
+  - first:
+      213: -5905290162183048561
+    second: Poison Glass Bottle-Explosion_36
+  - first:
+      213: 7761408680195513952
+    second: Poison Glass Bottle-Explosion_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d15687a6cbd21a50800000000000000
+      internalID: 6490491659254911443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d777a8cf9226a180800000000000000
+      internalID: -9104551527021316137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f03210e953ef450800000000000000
+      internalID: 6124391496010633039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df3ddbefba970ab0800000000000000
+      internalID: -5041891108731404328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69587df29580ca60800000000000000
+      internalID: 7692295029913049454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd72afd1e998388d0800000000000000
+      internalID: -2845279227367249956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05b88c9a9f37c870800000000000000
+      internalID: 8702994738200491274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604a531c6dd089ef0800000000000000
+      internalID: -101315775600155642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2fc738e82c7bfb0800000000000000
+      internalID: -4632019774380117281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7d3db5b683bf440800000000000000
+      internalID: 4970628647486740453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcc41f646c931330800000000000000
+      internalID: 3680457275666123954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c697095663456ba0800000000000000
+      internalID: -6096392413716703552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_12
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554fe4ceba6d009d0800000000000000
+      internalID: -2810010133586840491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93005fbe3874de730800000000000000
+      internalID: 4029955873491451961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Glass Bottle-Explosion_14
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378a818ec07255249ac53d7ad29af6f5
+      internalID: 8048648544855420344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 396a2100a9287c2489e994f9efe843eb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":21.0,"y":1.0},"gridSpriteSize":{"x":63.0,"y":53.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Poison Glass Bottle-Explosion_0: 6490491659254911443
+      Poison Glass Bottle-Explosion_1: -9104551527021316137
+      Poison Glass Bottle-Explosion_10: 3680457275666123954
+      Poison Glass Bottle-Explosion_11: -6096392413716703552
+      Poison Glass Bottle-Explosion_12: -2810010133586840491
+      Poison Glass Bottle-Explosion_13: 4029955873491451961
+      Poison Glass Bottle-Explosion_14: 8048648544855420344
+      Poison Glass Bottle-Explosion_2: 6124391496010633039
+      Poison Glass Bottle-Explosion_3: -5041891108731404328
+      Poison Glass Bottle-Explosion_4: 7692295029913049454
+      Poison Glass Bottle-Explosion_5: -2845279227367249956
+      Poison Glass Bottle-Explosion_6: 8702994738200491274
+      Poison Glass Bottle-Explosion_7: -101315775600155642
+      Poison Glass Bottle-Explosion_8: -4632019774380117281
+      Poison Glass Bottle-Explosion_9: 4970628647486740453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

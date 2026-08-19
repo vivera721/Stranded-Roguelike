@@ -1,0 +1,2184 @@
+fileFormatVersion: 2
+guid: cc0c70f42a7c0d6428250a74bef11730
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8279508481948603033
+    second: Flame Bottle 63x54_0
+  - first:
+      213: 6320619462862173045
+    second: Flame Bottle 63x54_1
+  - first:
+      213: -7913541064066519548
+    second: Flame Bottle 63x54_2
+  - first:
+      213: -5933521626826525439
+    second: Flame Bottle 63x54_3
+  - first:
+      213: -6238602511426919429
+    second: Flame Bottle 63x54_4
+  - first:
+      213: 97171021006191414
+    second: Flame Bottle 63x54_5
+  - first:
+      213: -626573072818009779
+    second: Flame Bottle 63x54_6
+  - first:
+      213: -892696697064150746
+    second: Flame Bottle 63x54_7
+  - first:
+      213: 2223080066049351775
+    second: Flame Bottle 63x54_8
+  - first:
+      213: 3983201306738864238
+    second: Flame Bottle 63x54_9
+  - first:
+      213: 4602642880742692492
+    second: Flame Bottle 63x54_10
+  - first:
+      213: -8731721579457620266
+    second: Flame Bottle 63x54_11
+  - first:
+      213: 1776250213044948592
+    second: Flame Bottle 63x54_12
+  - first:
+      213: 1969754627429626410
+    second: Flame Bottle 63x54_13
+  - first:
+      213: 1117492414892746364
+    second: Flame Bottle 63x54_14
+  - first:
+      213: -8929489836563217210
+    second: Flame Bottle 63x54_15
+  - first:
+      213: 5607720773956179620
+    second: Flame Bottle 63x54_16
+  - first:
+      213: -8790977909379379998
+    second: Flame Bottle 63x54_17
+  - first:
+      213: 450145364038028063
+    second: Flame Bottle 63x54_18
+  - first:
+      213: -3511926873055738408
+    second: Flame Bottle 63x54_19
+  - first:
+      213: -7818406024939562019
+    second: Flame Bottle 63x54_20
+  - first:
+      213: 7002255175848421653
+    second: Flame Bottle 63x54_21
+  - first:
+      213: 8800683978679198417
+    second: Flame Bottle 63x54_22
+  - first:
+      213: -5132006218941665877
+    second: Flame Bottle 63x54_23
+  - first:
+      213: -9130287047411486992
+    second: Flame Bottle 63x54_24
+  - first:
+      213: 6027060353869581541
+    second: Flame Bottle 63x54_25
+  - first:
+      213: 168979049668596581
+    second: Flame Bottle 63x54_26
+  - first:
+      213: -7279815286896359677
+    second: Flame Bottle 63x54_27
+  - first:
+      213: 3430163568595839260
+    second: Flame Bottle 63x54_28
+  - first:
+      213: -2987286239461268586
+    second: Flame Bottle 63x54_29
+  - first:
+      213: 6008959886928232985
+    second: Flame Bottle 63x54_30
+  - first:
+      213: -7044319496226063039
+    second: Flame Bottle 63x54_31
+  - first:
+      213: -1314114634794316880
+    second: Flame Bottle 63x54_32
+  - first:
+      213: 3157938451521816675
+    second: Flame Bottle 63x54_33
+  - first:
+      213: 8983516514530347299
+    second: Flame Bottle 63x54_34
+  - first:
+      213: -3703996858758746748
+    second: Flame Bottle 63x54_35
+  - first:
+      213: -9054179757860589926
+    second: Flame Bottle 63x54_36
+  - first:
+      213: -3320829316584344722
+    second: Flame Bottle 63x54_37
+  - first:
+      213: -4990683769062619902
+    second: Flame Bottle 63x54_38
+  - first:
+      213: -1104715133186689740
+    second: Flame Bottle 63x54_39
+  - first:
+      213: 7498144920900605297
+    second: Flame Bottle 63x54_40
+  - first:
+      213: 5848258800604375475
+    second: Flame Bottle 63x54_41
+  - first:
+      213: -1752941527535146514
+    second: Flame Bottle 63x54_42
+  - first:
+      213: 8062988133610413639
+    second: Flame Bottle 63x54_43
+  - first:
+      213: 9101891991911206827
+    second: Flame Bottle 63x54_44
+  - first:
+      213: -790759369925391077
+    second: Flame Bottle 63x54_45
+  - first:
+      213: -1586995844735502113
+    second: Flame Bottle 63x54_46
+  - first:
+      213: -1959153682337459007
+    second: Flame Bottle 63x54_47
+  - first:
+      213: -2308668974724388820
+    second: Flame Bottle 63x54_48
+  - first:
+      213: 3729718957913698282
+    second: Flame Bottle 63x54_49
+  - first:
+      213: -5881578802012534703
+    second: Flame Bottle 63x54_50
+  - first:
+      213: 1141996898696608415
+    second: Flame Bottle 63x54_51
+  - first:
+      213: -611125222553691059
+    second: Flame Bottle 63x54_52
+  - first:
+      213: -2711320159315657807
+    second: Flame Bottle 63x54_53
+  - first:
+      213: 4031081182769331058
+    second: Flame Bottle 63x54_54
+  - first:
+      213: 2407443737031647738
+    second: Flame Bottle 63x54_55
+  - first:
+      213: 3290746405284133074
+    second: Flame Bottle 63x54_56
+  - first:
+      213: 4647405024403241809
+    second: Flame Bottle 63x54_57
+  - first:
+      213: -5482504588812766588
+    second: Flame Bottle 63x54_58
+  - first:
+      213: 7687601469590922503
+    second: Flame Bottle 63x54_59
+  - first:
+      213: 5602703262795114237
+    second: Flame Bottle 63x54_60
+  - first:
+      213: 6616882813246439481
+    second: Flame Bottle 63x54_61
+  - first:
+      213: -6452063771868825656
+    second: Flame Bottle 63x54_62
+  - first:
+      213: 4771345457591844704
+    second: Flame Bottle 63x54_63
+  - first:
+      213: -938564426205574130
+    second: Flame Bottle 63x54_64
+  - first:
+      213: -8913028194191539337
+    second: Flame Bottle 63x54_65
+  - first:
+      213: -8936948827629369337
+    second: Flame Bottle 63x54_66
+  - first:
+      213: 9214589734796803634
+    second: Flame Bottle 63x54_67
+  - first:
+      213: 2185715996889381605
+    second: Flame Bottle 63x54_68
+  - first:
+      213: 7252824412979091706
+    second: Flame Bottle 63x54_69
+  - first:
+      213: 9169614262794533044
+    second: Flame Bottle 63x54_70
+  - first:
+      213: 235531075819037330
+    second: Flame Bottle 63x54_71
+  - first:
+      213: 2077660101790075931
+    second: Flame Bottle 63x54_72
+  - first:
+      213: -4919368632069028106
+    second: Flame Bottle 63x54_73
+  - first:
+      213: -8483692521796410238
+    second: Flame Bottle 63x54_74
+  - first:
+      213: -3379206139083785288
+    second: Flame Bottle 63x54_75
+  - first:
+      213: 1112371961368467601
+    second: Flame Bottle 63x54_76
+  - first:
+      213: -5775074221330983461
+    second: Flame Bottle 63x54_77
+  - first:
+      213: 7718522990701754425
+    second: Flame Bottle 63x54_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 175
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dae9207e6491d80800000000000000
+      internalID: -8279508481948603033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 121
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573f154d9e957b750800000000000000
+      internalID: 6320619462862173045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 121
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e29d874547d2290800000000000000
+      internalID: -7913541064066519548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 121
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10538ed7485e7ada0800000000000000
+      internalID: -5933521626826525439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 121
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3e983c1180c69a0800000000000000
+      internalID: -6238602511426919429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 121
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b398d5788395100800000000000000
+      internalID: 97171021006191414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 121
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d498bd82c17fd47f0800000000000000
+      internalID: -626573072818009779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 121
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a35f65118c93f0800000000000000
+      internalID: -892696697064150746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 121
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50af1caa87f9de10800000000000000
+      internalID: 2223080066049351775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 121
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60ba0d0c7c274730800000000000000
+      internalID: 3983201306738864238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_10
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 121
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8616ae605fdfdf30800000000000000
+      internalID: 4602642880742692492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_11
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 121
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6d0d27c71b2d680800000000000000
+      internalID: -8731721579457620266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_12
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 121
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e81c4682286a810800000000000000
+      internalID: 1776250213044948592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 121
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22ff9eb569f55b10800000000000000
+      internalID: 1969754627429626410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_14
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 121
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7620ec3e61228f00800000000000000
+      internalID: 1117492414892746364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 67
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4403add44141480800000000000000
+      internalID: -8929489836563217210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 67
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a69c3b3550a2dd40800000000000000
+      internalID: 5607720773956179620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 67
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecc2230b2c200680800000000000000
+      internalID: -8790977909379379998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 67
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b86c8d2dc3f3600800000000000000
+      internalID: 450145364038028063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 67
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d54d5ead11234fc0800000000000000
+      internalID: -3511926873055738408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 67
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb14bdd4217f7390800000000000000
+      internalID: -7818406024939562019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 67
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519e51f9bf10d2160800000000000000
+      internalID: 7002255175848421653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d225a9537f422a70800000000000000
+      internalID: 8800683978679198417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 14
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bade2eec88377c8b0800000000000000
+      internalID: -5132006218941665877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_24
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe20b10e44ba4180800000000000000
+      internalID: -9130287047411486992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_25
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec8c38857b64a350800000000000000
+      internalID: 6027060353869581541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_26
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563daf5ec85585200800000000000000
+      internalID: 168979049668596581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_27
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 41
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30785121196e8fa90800000000000000
+      internalID: -7279815286896359677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_28
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1924a387936a9f20800000000000000
+      internalID: 3430163568595839260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_29
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 16
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693af761ef60b86d0800000000000000
+      internalID: -2987286239461268586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_30
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 17
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912cde92e2d146350800000000000000
+      internalID: 6008959886928232985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_31
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 38
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d36179dbc8d3e90800000000000000
+      internalID: -7044319496226063039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_32
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 40
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb41feb3b353cde0800000000000000
+      internalID: -1314114634794316880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_33
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 16
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36841894a4043db20800000000000000
+      internalID: 3157938451521816675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_34
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 17
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329cf6a5cacdbac70800000000000000
+      internalID: 8983516514530347299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_35
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 35
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48da5884b72c89cc0800000000000000
+      internalID: -3703996858758746748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_36
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 36
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9eef283b77195280800000000000000
+      internalID: -9054179757860589926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_37
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 41
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e637941c45b0ae1d0800000000000000
+      internalID: -3320829316584344722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20507b6cd878dbab0800000000000000
+      internalID: -4990683769062619902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_39
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 13
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435b86c70734ba0f0800000000000000
+      internalID: -1104715133186689740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_40
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 8
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1751ea42413ce0860800000000000000
+      internalID: 7498144920900605297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_41
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 14
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9639cc460392150800000000000000
+      internalID: 5848258800604375475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_42
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 14
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9ac3bd7fc4ca7e0800000000000000
+      internalID: -1752941527535146514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_43
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ed90cecfc75ef60800000000000000
+      internalID: 8062988133610413639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 16
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf07d1fa8a605e70800000000000000
+      internalID: 9101891991911206827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_45
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d09ccea88a605f0800000000000000
+      internalID: -790759369925391077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_46
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 15
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8f48effabd9f9e0800000000000000
+      internalID: -1586995844735502113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_47
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c490ef1b10bfc4e0800000000000000
+      internalID: -1959153682337459007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_48
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 33
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c286691acc5f5ffd0800000000000000
+      internalID: -2308668974724388820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_49
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 23
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef6c7e91af92c330800000000000000
+      internalID: 3729718957913698282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_50
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 24
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1584393dd3f606ea0800000000000000
+      internalID: -5881578802012534703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_51
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 31
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ab869f02039df00800000000000000
+      internalID: 1141996898696608415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cd76419d8d487f0800000000000000
+      internalID: -611125222553691059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb72a72ea47f5ad0800000000000000
+      internalID: -2711320159315657807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b3ab76af641f730800000000000000
+      internalID: 4031081182769331058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1a28ad255f86120800000000000000
+      internalID: 2407443737031647738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_56
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 12
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8bad4ab641bad20800000000000000
+      internalID: 3290746405284133074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bbbe62f36ee7040800000000000000
+      internalID: 4647405024403241809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_58
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 14
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482bd50cf1b3ae3b0800000000000000
+      internalID: -5482504588812766588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_59
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705ecb15ec8dfaa60800000000000000
+      internalID: 7687601469590922503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_60
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df623d0eeecc0cd40800000000000000
+      internalID: 5602703262795114237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_61
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93001f36cd3e3db50800000000000000
+      internalID: 6616882813246439481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_62
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c777991f2aa576a0800000000000000
+      internalID: -6452063771868825656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_63
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 14
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f7f6cf969373240800000000000000
+      internalID: 4771345457591844704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_64
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 7
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cc23980ac89f2f0800000000000000
+      internalID: -938564426205574130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_65
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7730c24a4109e4480800000000000000
+      internalID: -8913028194191539337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_66
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 7
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708ce49246499f380800000000000000
+      internalID: -8936948827629369337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_67
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e3685fa8cc0ef70800000000000000
+      internalID: 9214589734796803634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_68
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eafa766e19355e10800000000000000
+      internalID: 2185715996889381605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_69
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af856e1606537a460800000000000000
+      internalID: 7252824412979091706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_70
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8393dd693014f70800000000000000
+      internalID: 9169614262794533044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_71
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29262cbf346c44300800000000000000
+      internalID: 235531075819037330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_72
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 22
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c033bcad455dc10800000000000000
+      internalID: 2077660101790075931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_73
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f683560b44eabbb0800000000000000
+      internalID: -4919368632069028106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_74
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284efa6999ed34a80800000000000000
+      internalID: -8483692521796410238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_75
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 8
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb77199be5aa11d0800000000000000
+      internalID: -3379206139083785288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_76
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 9
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198d87fb760ff6f00800000000000000
+      internalID: 1112371961368467601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_77
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 7
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd51d06e790dadfa0800000000000000
+      internalID: -5775074221330983461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle 63x54_78
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938b67bf3c3bd1b60800000000000000
+      internalID: 7718522990701754425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flame Bottle 63x54_0: -8279508481948603033
+      Flame Bottle 63x54_1: 6320619462862173045
+      Flame Bottle 63x54_10: 4602642880742692492
+      Flame Bottle 63x54_11: -8731721579457620266
+      Flame Bottle 63x54_12: 1776250213044948592
+      Flame Bottle 63x54_13: 1969754627429626410
+      Flame Bottle 63x54_14: 1117492414892746364
+      Flame Bottle 63x54_15: -8929489836563217210
+      Flame Bottle 63x54_16: 5607720773956179620
+      Flame Bottle 63x54_17: -8790977909379379998
+      Flame Bottle 63x54_18: 450145364038028063
+      Flame Bottle 63x54_19: -3511926873055738408
+      Flame Bottle 63x54_2: -7913541064066519548
+      Flame Bottle 63x54_20: -7818406024939562019
+      Flame Bottle 63x54_21: 7002255175848421653
+      Flame Bottle 63x54_22: 8800683978679198417
+      Flame Bottle 63x54_23: -5132006218941665877
+      Flame Bottle 63x54_24: -9130287047411486992
+      Flame Bottle 63x54_25: 6027060353869581541
+      Flame Bottle 63x54_26: 168979049668596581
+      Flame Bottle 63x54_27: -7279815286896359677
+      Flame Bottle 63x54_28: 3430163568595839260
+      Flame Bottle 63x54_29: -2987286239461268586
+      Flame Bottle 63x54_3: -5933521626826525439
+      Flame Bottle 63x54_30: 6008959886928232985
+      Flame Bottle 63x54_31: -7044319496226063039
+      Flame Bottle 63x54_32: -1314114634794316880
+      Flame Bottle 63x54_33: 3157938451521816675
+      Flame Bottle 63x54_34: 8983516514530347299
+      Flame Bottle 63x54_35: -3703996858758746748
+      Flame Bottle 63x54_36: -9054179757860589926
+      Flame Bottle 63x54_37: -3320829316584344722
+      Flame Bottle 63x54_38: -4990683769062619902
+      Flame Bottle 63x54_39: -1104715133186689740
+      Flame Bottle 63x54_4: -6238602511426919429
+      Flame Bottle 63x54_40: 7498144920900605297
+      Flame Bottle 63x54_41: 5848258800604375475
+      Flame Bottle 63x54_42: -1752941527535146514
+      Flame Bottle 63x54_43: 8062988133610413639
+      Flame Bottle 63x54_44: 9101891991911206827
+      Flame Bottle 63x54_45: -790759369925391077
+      Flame Bottle 63x54_46: -1586995844735502113
+      Flame Bottle 63x54_47: -1959153682337459007
+      Flame Bottle 63x54_48: -2308668974724388820
+      Flame Bottle 63x54_49: 3729718957913698282
+      Flame Bottle 63x54_5: 97171021006191414
+      Flame Bottle 63x54_50: -5881578802012534703
+      Flame Bottle 63x54_51: 1141996898696608415
+      Flame Bottle 63x54_52: -611125222553691059
+      Flame Bottle 63x54_53: -2711320159315657807
+      Flame Bottle 63x54_54: 4031081182769331058
+      Flame Bottle 63x54_55: 2407443737031647738
+      Flame Bottle 63x54_56: 3290746405284133074
+      Flame Bottle 63x54_57: 4647405024403241809
+      Flame Bottle 63x54_58: -5482504588812766588
+      Flame Bottle 63x54_59: 7687601469590922503
+      Flame Bottle 63x54_6: -626573072818009779
+      Flame Bottle 63x54_60: 5602703262795114237
+      Flame Bottle 63x54_61: 6616882813246439481
+      Flame Bottle 63x54_62: -6452063771868825656
+      Flame Bottle 63x54_63: 4771345457591844704
+      Flame Bottle 63x54_64: -938564426205574130
+      Flame Bottle 63x54_65: -8913028194191539337
+      Flame Bottle 63x54_66: -8936948827629369337
+      Flame Bottle 63x54_67: 9214589734796803634
+      Flame Bottle 63x54_68: 2185715996889381605
+      Flame Bottle 63x54_69: 7252824412979091706
+      Flame Bottle 63x54_7: -892696697064150746
+      Flame Bottle 63x54_70: 9169614262794533044
+      Flame Bottle 63x54_71: 235531075819037330
+      Flame Bottle 63x54_72: 2077660101790075931
+      Flame Bottle 63x54_73: -4919368632069028106
+      Flame Bottle 63x54_74: -8483692521796410238
+      Flame Bottle 63x54_75: -3379206139083785288
+      Flame Bottle 63x54_76: 1112371961368467601
+      Flame Bottle 63x54_77: -5775074221330983461
+      Flame Bottle 63x54_78: 7718522990701754425
+      Flame Bottle 63x54_8: 2223080066049351775
+      Flame Bottle 63x54_9: 3983201306738864238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

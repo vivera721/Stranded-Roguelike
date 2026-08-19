@@ -1,0 +1,2428 @@
+fileFormatVersion: 2
+guid: f1e2f48a0d1f015489610194aa4cf689
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -342193692437870243
+    second: Tribe Hunter 32x37_0
+  - first:
+      213: 4389315514445984518
+    second: Tribe Hunter 32x37_1
+  - first:
+      213: 1614723339500034821
+    second: Tribe Hunter 32x37_2
+  - first:
+      213: -8662970843444098984
+    second: Tribe Hunter 32x37_3
+  - first:
+      213: 7043498610480681662
+    second: Tribe Hunter 32x37_4
+  - first:
+      213: -19923422602910085
+    second: Tribe Hunter 32x37_5
+  - first:
+      213: -5520855371240664035
+    second: Tribe Hunter 32x37_6
+  - first:
+      213: -6187043393267409738
+    second: Tribe Hunter 32x37_7
+  - first:
+      213: 4488253266274079573
+    second: Tribe Hunter 32x37_8
+  - first:
+      213: 7079220391508397134
+    second: Tribe Hunter 32x37_9
+  - first:
+      213: -8704478458535027189
+    second: Tribe Hunter 32x37_10
+  - first:
+      213: -3361339215285743327
+    second: Tribe Hunter 32x37_11
+  - first:
+      213: 3509565788573265598
+    second: Tribe Hunter 32x37_12
+  - first:
+      213: -1441985567921983029
+    second: Tribe Hunter 32x37_13
+  - first:
+      213: 3798296895190606582
+    second: Tribe Hunter 32x37_14
+  - first:
+      213: 5621954385168195199
+    second: Tribe Hunter 32x37_15
+  - first:
+      213: 7875066030116121586
+    second: Tribe Hunter 32x37_16
+  - first:
+      213: -7240641153749068043
+    second: Tribe Hunter 32x37_17
+  - first:
+      213: 395063908314407396
+    second: Tribe Hunter 32x37_18
+  - first:
+      213: -4966294174203858114
+    second: Tribe Hunter 32x37_19
+  - first:
+      213: -1878081340276558819
+    second: Tribe Hunter 32x37_20
+  - first:
+      213: 1820974083906548230
+    second: Tribe Hunter 32x37_21
+  - first:
+      213: 4739417949551387478
+    second: Tribe Hunter 32x37_22
+  - first:
+      213: -2604795165657307718
+    second: Tribe Hunter 32x37_23
+  - first:
+      213: -3153996817417916319
+    second: Tribe Hunter 32x37_24
+  - first:
+      213: -7307842217213520513
+    second: Tribe Hunter 32x37_25
+  - first:
+      213: -776134927413699427
+    second: Tribe Hunter 32x37_26
+  - first:
+      213: 3137616938128930707
+    second: Tribe Hunter 32x37_27
+  - first:
+      213: 7277215742473218797
+    second: Tribe Hunter 32x37_28
+  - first:
+      213: -3083991350370424387
+    second: Tribe Hunter 32x37_29
+  - first:
+      213: -6451022917801351932
+    second: Tribe Hunter 32x37_30
+  - first:
+      213: -1666661845268029346
+    second: Tribe Hunter 32x37_31
+  - first:
+      213: -711565596733709314
+    second: Tribe Hunter 32x37_32
+  - first:
+      213: -325648036260880521
+    second: Tribe Hunter 32x37_33
+  - first:
+      213: 281239646699427848
+    second: Tribe Hunter 32x37_34
+  - first:
+      213: 3083833971737032939
+    second: Tribe Hunter 32x37_35
+  - first:
+      213: -3752777570542810716
+    second: Tribe Hunter 32x37_36
+  - first:
+      213: 8543050280903417840
+    second: Tribe Hunter 32x37_37
+  - first:
+      213: 5014928929198197231
+    second: Tribe Hunter 32x37_38
+  - first:
+      213: -1416402059374460269
+    second: Tribe Hunter 32x37_39
+  - first:
+      213: -4548022878841088988
+    second: Tribe Hunter 32x37_40
+  - first:
+      213: -6420897467777724425
+    second: Tribe Hunter 32x37_41
+  - first:
+      213: -4182632008875742417
+    second: Tribe Hunter 32x37_42
+  - first:
+      213: -6177006814586837711
+    second: Tribe Hunter 32x37_43
+  - first:
+      213: 6686937132420881404
+    second: Tribe Hunter 32x37_44
+  - first:
+      213: -6188634054770586644
+    second: Tribe Hunter 32x37_45
+  - first:
+      213: 91213113599359811
+    second: Tribe Hunter 32x37_46
+  - first:
+      213: -8789945842620568026
+    second: Tribe Hunter 32x37_47
+  - first:
+      213: -327004774244757517
+    second: Tribe Hunter 32x37_48
+  - first:
+      213: 7685378085185357866
+    second: Tribe Hunter 32x37_49
+  - first:
+      213: 3704185838069680914
+    second: Tribe Hunter 32x37_50
+  - first:
+      213: -6100816809121896845
+    second: Tribe Hunter 32x37_51
+  - first:
+      213: -6556530838249457046
+    second: Tribe Hunter 32x37_52
+  - first:
+      213: -1467445555517733513
+    second: Tribe Hunter 32x37_53
+  - first:
+      213: -3854231749803138787
+    second: Tribe Hunter 32x37_54
+  - first:
+      213: -3380944534898977559
+    second: Tribe Hunter 32x37_55
+  - first:
+      213: -1464989012654938646
+    second: Tribe Hunter 32x37_56
+  - first:
+      213: 4928201766682972721
+    second: Tribe Hunter 32x37_57
+  - first:
+      213: 6675589329596578745
+    second: Tribe Hunter 32x37_58
+  - first:
+      213: 7148151473756393120
+    second: Tribe Hunter 32x37_59
+  - first:
+      213: 9106770544957586978
+    second: Tribe Hunter 32x37_60
+  - first:
+      213: 6200666562942383571
+    second: Tribe Hunter 32x37_61
+  - first:
+      213: 7371757781012144736
+    second: Tribe Hunter 32x37_62
+  - first:
+      213: 7398182359395051687
+    second: Tribe Hunter 32x37_63
+  - first:
+      213: -5216546216639963180
+    second: Tribe Hunter 32x37_64
+  - first:
+      213: 9023507391637847363
+    second: Tribe Hunter 32x37_65
+  - first:
+      213: 4514279329069680373
+    second: Tribe Hunter 32x37_66
+  - first:
+      213: 4157723451814332951
+    second: Tribe Hunter 32x37_67
+  - first:
+      213: 932355535204986645
+    second: Tribe Hunter 32x37_68
+  - first:
+      213: -7231204339889988464
+    second: Tribe Hunter 32x37_69
+  - first:
+      213: -1187155326204436197
+    second: Tribe Hunter 32x37_70
+  - first:
+      213: 429521263538595942
+    second: Tribe Hunter 32x37_71
+  - first:
+      213: 8572781535715968569
+    second: Tribe Hunter 32x37_72
+  - first:
+      213: -8785958621735471296
+    second: Tribe Hunter 32x37_73
+  - first:
+      213: 1429076221784572489
+    second: Tribe Hunter 32x37_74
+  - first:
+      213: 2740640728408966062
+    second: Tribe Hunter 32x37_75
+  - first:
+      213: -6353393543746756996
+    second: Tribe Hunter 32x37_76
+  - first:
+      213: 3609866913609929429
+    second: Tribe Hunter 32x37_77
+  - first:
+      213: 3889659666716791554
+    second: Tribe Hunter 32x37_78
+  - first:
+      213: 3040930297886447353
+    second: Tribe Hunter 32x37_79
+  - first:
+      213: 2041902282421401925
+    second: Tribe Hunter 32x37_80
+  - first:
+      213: -297114132098370646
+    second: Tribe Hunter 32x37_81
+  - first:
+      213: 4402119988204442048
+    second: Tribe Hunter 32x37_82
+  - first:
+      213: 4852814501765532554
+    second: Tribe Hunter 32x37_83
+  - first:
+      213: -3350103373992469264
+    second: Tribe Hunter 32x37_84
+  - first:
+      213: -7127233522910686671
+    second: Tribe Hunter 32x37_85
+  - first:
+      213: -7365429394940884618
+    second: Tribe Hunter 32x37_86
+  - first:
+      213: 2157871275543180245
+    second: Tribe Hunter 32x37_87
+  - first:
+      213: 3577307684411245869
+    second: Tribe Hunter 32x37_88
+  - first:
+      213: 2256173095117480990
+    second: Tribe Hunter 32x37_89
+  - first:
+      213: -6847084887891532555
+    second: Tribe Hunter 32x37_90
+  - first:
+      213: 4862190989275685345
+    second: Tribe Hunter 32x37_91
+  - first:
+      213: -8315250071192657240
+    second: Tribe Hunter 32x37_92
+  - first:
+      213: -4368121142728467547
+    second: Tribe Hunter 32x37_93
+  - first:
+      213: -4791725062657975974
+    second: Tribe Hunter 32x37_94
+  - first:
+      213: 7821531863058056312
+    second: Tribe Hunter 32x37_95
+  - first:
+      213: 7835063760258525121
+    second: Tribe Hunter 32x37_96
+  - first:
+      213: -6858059538319023143
+    second: Tribe Hunter 32x37_97
+  - first:
+      213: 2289683332761305679
+    second: Tribe Hunter 32x37_98
+  - first:
+      213: -4777535500132913800
+    second: Tribe Hunter 32x37_99
+  - first:
+      213: -5532103356706444198
+    second: Tribe Hunter 32x37_100
+  - first:
+      213: -3135762262953432123
+    second: Tribe Hunter 32x37_101
+  - first:
+      213: 1337237366111319431
+    second: Tribe Hunter 32x37_102
+  - first:
+      213: -6015754749578665143
+    second: Tribe Hunter 32x37_103
+  - first:
+      213: 7026705665854664781
+    second: Tribe Hunter 32x37_104
+  - first:
+      213: 2248043238565855070
+    second: Tribe Hunter 32x37_105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d598cd556a8404bf0800000000000000
+      internalID: -342193692437870243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 333
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603f9ad643bf9ec30800000000000000
+      internalID: 4389315514445984518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 333
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b9e657256a86610800000000000000
+      internalID: 1614723339500034821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 333
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858c2f09ae1f6c780800000000000000
+      internalID: -8662970843444098984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 333
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb298ad0ba88fb160800000000000000
+      internalID: 7043498610480681662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 333
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b762b01b0c739bff0800000000000000
+      internalID: -19923422602910085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1494e46a4bf163b0800000000000000
+      internalID: -5520855371240664035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 296
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc5e5e60d4332aa0800000000000000
+      internalID: -6187043393267409738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 296
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553d04ed09a794e30800000000000000
+      internalID: 4488253266274079573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 296
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c4f8250717e3260800000000000000
+      internalID: 7079220391508397134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 296
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0edaf3d5fa733780800000000000000
+      internalID: -8704478458535027189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 296
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1219d47facf1a51d0800000000000000
+      internalID: -3361339215285743327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebee5cf7d7b74b030800000000000000
+      internalID: 3509565788573265598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 259
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc135c414c90dfbe0800000000000000
+      internalID: -1441985567921983029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 259
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f22e45e6e246b430800000000000000
+      internalID: 3798296895190606582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 259
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e56671ab1350e40800000000000000
+      internalID: 5621954385168195199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 259
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb21db94dad94d60800000000000000
+      internalID: 7875066030116121586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 259
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f656b4bb33148b90800000000000000
+      internalID: -7240641153749068043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e168ae088c8b7500800000000000000
+      internalID: 395063908314407396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33bc78d2cd241bb0800000000000000
+      internalID: -4966294174203858114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14b685b8f6bfe5e0800000000000000
+      internalID: -1878081340276558819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60231780846654910800000000000000
+      internalID: 1820974083906548230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653ee1db38bc5c140800000000000000
+      internalID: 4739417949551387478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5675ef898e9dbd0800000000000000
+      internalID: -2604795165657307718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160b71bea90ca34d0800000000000000
+      internalID: -3153996817417916319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_25
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f759268d834559a90800000000000000
+      internalID: -7307842217213520513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c9bb9456d9a35f0800000000000000
+      internalID: -776134927413699427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_27
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3977c6e3bfd0b8b20800000000000000
+      internalID: 3137616938128930707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea2ff3592dddf460800000000000000
+      internalID: 7277215742473218797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 185
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db92bced4367335d0800000000000000
+      internalID: -3083991350370424387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 185
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405eb82d5dc5976a0800000000000000
+      internalID: -6451022917801351932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 185
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e502a10d1e3ded8e0800000000000000
+      internalID: -1666661845268029346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 185
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef36c4c1cd20026f0800000000000000
+      internalID: -711565596733709314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 185
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fdddc16d01b7bf0800000000000000
+      internalID: -325648036260880521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 185
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8089646f7f927e300800000000000000
+      internalID: 281239646699427848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_35
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 185
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8faaf88aafbca20800000000000000
+      internalID: 3083833971737032939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 185
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a90eb2cea47bebc0800000000000000
+      internalID: -3752777570542810716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 185
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff9c8ba7f20f8670800000000000000
+      internalID: 8543050280903417840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe940b67a4b989540800000000000000
+      internalID: 5014928929198197231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3928ad7d4dde75ce0800000000000000
+      internalID: -1416402059374460269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424d354c94d22e0c0800000000000000
+      internalID: -4548022878841088988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff47edb5c364e6a0800000000000000
+      internalID: -6420897467777724425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b68c4395e44f5c0800000000000000
+      internalID: -4182632008875742417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1356261870dd64aa0800000000000000
+      internalID: -6177006814586837711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_44
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbd05d94e5cccc50800000000000000
+      internalID: 6686937132420881404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_45
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb8380bd1e8d1aa0800000000000000
+      internalID: -6188634054770586644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b72f2f7dd044100800000000000000
+      internalID: 91213113599359811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_47
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eeda7c3d6d30680800000000000000
+      internalID: -8789945842620568026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffc84fe3ee367bf0800000000000000
+      internalID: -327004774244757517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a288b0c46a2f7aa60800000000000000
+      internalID: 7685378085185357866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 111
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b0d24e469e76330800000000000000
+      internalID: 3704185838069680914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 111
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376ae848f6b855ba0800000000000000
+      internalID: -6100816809121896845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 111
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a3f3bc0f58205a0800000000000000
+      internalID: -6556530838249457046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 111
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775c328ca0692abe0800000000000000
+      internalID: -1467445555517733513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 111
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11a3f6e4a4038ac0800000000000000
+      internalID: -3854231749803138787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e45c08cbd87411d0800000000000000
+      internalID: -3380944534898977559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 74
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae52adc31405babe0800000000000000
+      internalID: -1464989012654938646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 74
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1325794656d746440800000000000000
+      internalID: 4928201766682972721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 74
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbfdf0602574ac50800000000000000
+      internalID: 6675589329596578745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_59
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 74
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae4fe194e5533360800000000000000
+      internalID: 7148151473756393120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_60
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 74
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eff279f8fb16e70800000000000000
+      internalID: 9106770544957586978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 74
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5b2dee2613d0650800000000000000
+      internalID: 6200666562942383571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062637305aebd4660800000000000000
+      internalID: 7371757781012144736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 37
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8ad4b98af9ba660800000000000000
+      internalID: 7398182359395051687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 37
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df54cabada1b97b0800000000000000
+      internalID: -5216546216639963180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_65
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 37
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d7fa20a20f93d70800000000000000
+      internalID: 9023507391637847363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_66
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 37
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f64612d121f5ae30800000000000000
+      internalID: 4514279329069680373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_67
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 37
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a44bb637333b930800000000000000
+      internalID: 4157723451814332951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_68
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 37
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f23406b6460fc00800000000000000
+      internalID: 932355535204986645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c189627f995ab90800000000000000
+      internalID: -7231204339889988464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_70
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b112f584580668fe0800000000000000
+      internalID: -1187155326204436197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668e1b04057f5f500800000000000000
+      internalID: 429521263538595942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936c06dd263a8f670800000000000000
+      internalID: 8572781535715968569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_73
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0473d2cfe21021680800000000000000
+      internalID: -8785958621735471296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9424d6c804915d310800000000000000
+      internalID: 1429076221784572489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_75
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3c8c1d836b80620800000000000000
+      internalID: 2740640728408966062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_76
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ed6b2db3634d7a0800000000000000
+      internalID: -6353393543746756996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_77
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2d72005d2d81230800000000000000
+      internalID: 3609866913609929429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_78
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20391dbcbd8daf530800000000000000
+      internalID: 3889659666716791554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f69e309efd833a20800000000000000
+      internalID: 3040930297886447353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_80
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54979c1be4b465c10800000000000000
+      internalID: 2041902282421401925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_81
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa33782654070ebf0800000000000000
+      internalID: -297114132098370646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_82
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1929b4ec8771d30800000000000000
+      internalID: 4402119988204442048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_83
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b499af319a85340800000000000000
+      internalID: 4852814501765532554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_84
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc57502bba0281d0800000000000000
+      internalID: -3350103373992469264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribe Hunter 32x37_85
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13217a36fdaf61d90800000000000000
+      internalID: -7127233522910686671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 15df04b115ff9ed4c935cf7920c0978f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":17.0,"y":10.0},"gridSpriteSize":{"x":32.0,"y":37.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":2.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tribe Hunter 32x37_0: -342193692437870243
+      Tribe Hunter 32x37_1: 4389315514445984518
+      Tribe Hunter 32x37_10: -8704478458535027189
+      Tribe Hunter 32x37_11: -3361339215285743327
+      Tribe Hunter 32x37_12: 3509565788573265598
+      Tribe Hunter 32x37_13: -1441985567921983029
+      Tribe Hunter 32x37_14: 3798296895190606582
+      Tribe Hunter 32x37_15: 5621954385168195199
+      Tribe Hunter 32x37_16: 7875066030116121586
+      Tribe Hunter 32x37_17: -7240641153749068043
+      Tribe Hunter 32x37_18: 395063908314407396
+      Tribe Hunter 32x37_19: -4966294174203858114
+      Tribe Hunter 32x37_2: 1614723339500034821
+      Tribe Hunter 32x37_20: -1878081340276558819
+      Tribe Hunter 32x37_21: 1820974083906548230
+      Tribe Hunter 32x37_22: 4739417949551387478
+      Tribe Hunter 32x37_23: -2604795165657307718
+      Tribe Hunter 32x37_24: -3153996817417916319
+      Tribe Hunter 32x37_25: -7307842217213520513
+      Tribe Hunter 32x37_26: -776134927413699427
+      Tribe Hunter 32x37_27: 3137616938128930707
+      Tribe Hunter 32x37_28: 7277215742473218797
+      Tribe Hunter 32x37_29: -3083991350370424387
+      Tribe Hunter 32x37_3: -8662970843444098984
+      Tribe Hunter 32x37_30: -6451022917801351932
+      Tribe Hunter 32x37_31: -1666661845268029346
+      Tribe Hunter 32x37_32: -711565596733709314
+      Tribe Hunter 32x37_33: -325648036260880521
+      Tribe Hunter 32x37_34: 281239646699427848
+      Tribe Hunter 32x37_35: 3083833971737032939
+      Tribe Hunter 32x37_36: -3752777570542810716
+      Tribe Hunter 32x37_37: 8543050280903417840
+      Tribe Hunter 32x37_38: 5014928929198197231
+      Tribe Hunter 32x37_39: -1416402059374460269
+      Tribe Hunter 32x37_4: 7043498610480681662
+      Tribe Hunter 32x37_40: -4548022878841088988
+      Tribe Hunter 32x37_41: -6420897467777724425
+      Tribe Hunter 32x37_42: -4182632008875742417
+      Tribe Hunter 32x37_43: -6177006814586837711
+      Tribe Hunter 32x37_44: 6686937132420881404
+      Tribe Hunter 32x37_45: -6188634054770586644
+      Tribe Hunter 32x37_46: 91213113599359811
+      Tribe Hunter 32x37_47: -8789945842620568026
+      Tribe Hunter 32x37_48: -327004774244757517
+      Tribe Hunter 32x37_49: 7685378085185357866
+      Tribe Hunter 32x37_5: -19923422602910085
+      Tribe Hunter 32x37_50: 3704185838069680914
+      Tribe Hunter 32x37_51: -6100816809121896845
+      Tribe Hunter 32x37_52: -6556530838249457046
+      Tribe Hunter 32x37_53: -1467445555517733513
+      Tribe Hunter 32x37_54: -3854231749803138787
+      Tribe Hunter 32x37_55: -3380944534898977559
+      Tribe Hunter 32x37_56: -1464989012654938646
+      Tribe Hunter 32x37_57: 4928201766682972721
+      Tribe Hunter 32x37_58: 6675589329596578745
+      Tribe Hunter 32x37_59: 7148151473756393120
+      Tribe Hunter 32x37_6: -5520855371240664035
+      Tribe Hunter 32x37_60: 9106770544957586978
+      Tribe Hunter 32x37_61: 6200666562942383571
+      Tribe Hunter 32x37_62: 7371757781012144736
+      Tribe Hunter 32x37_63: 7398182359395051687
+      Tribe Hunter 32x37_64: -5216546216639963180
+      Tribe Hunter 32x37_65: 9023507391637847363
+      Tribe Hunter 32x37_66: 4514279329069680373
+      Tribe Hunter 32x37_67: 4157723451814332951
+      Tribe Hunter 32x37_68: 932355535204986645
+      Tribe Hunter 32x37_69: -7231204339889988464
+      Tribe Hunter 32x37_7: -6187043393267409738
+      Tribe Hunter 32x37_70: -1187155326204436197
+      Tribe Hunter 32x37_71: 429521263538595942
+      Tribe Hunter 32x37_72: 8572781535715968569
+      Tribe Hunter 32x37_73: -8785958621735471296
+      Tribe Hunter 32x37_74: 1429076221784572489
+      Tribe Hunter 32x37_75: 2740640728408966062
+      Tribe Hunter 32x37_76: -6353393543746756996
+      Tribe Hunter 32x37_77: 3609866913609929429
+      Tribe Hunter 32x37_78: 3889659666716791554
+      Tribe Hunter 32x37_79: 3040930297886447353
+      Tribe Hunter 32x37_8: 4488253266274079573
+      Tribe Hunter 32x37_80: 2041902282421401925
+      Tribe Hunter 32x37_81: -297114132098370646
+      Tribe Hunter 32x37_82: 4402119988204442048
+      Tribe Hunter 32x37_83: 4852814501765532554
+      Tribe Hunter 32x37_84: -3350103373992469264
+      Tribe Hunter 32x37_85: -7127233522910686671
+      Tribe Hunter 32x37_9: 7079220391508397134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

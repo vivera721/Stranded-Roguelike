@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 62a0d22319d8bc3448bf6c79f6d57af8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8069039884833759586
+    second: Companion PINK with shadow_0
+  - first:
+      213: -53332936781167798
+    second: Companion PINK with shadow_1
+  - first:
+      213: 1489908999155876561
+    second: Companion PINK with shadow_2
+  - first:
+      213: -8241539876932798735
+    second: Companion PINK with shadow_3
+  - first:
+      213: -7206336863862473953
+    second: Companion PINK with shadow_4
+  - first:
+      213: -2950282531518822906
+    second: Companion PINK with shadow_5
+  - first:
+      213: 5863699861887001116
+    second: Companion PINK with shadow_6
+  - first:
+      213: 8310994761306394869
+    second: Companion PINK with shadow_7
+  - first:
+      213: 2928962142846703937
+    second: Companion PINK with shadow_8
+  - first:
+      213: -1953722910297547557
+    second: Companion PINK with shadow_9
+  - first:
+      213: -1476163794197417229
+    second: Companion PINK with shadow_10
+  - first:
+      213: 1257160076597136865
+    second: Companion PINK with shadow_11
+  - first:
+      213: -733320978826238048
+    second: Companion PINK with shadow_12
+  - first:
+      213: -991784621242648762
+    second: Companion PINK with shadow_13
+  - first:
+      213: -3820815555149961132
+    second: Companion PINK with shadow_14
+  - first:
+      213: 8206424094698377899
+    second: Companion PINK with shadow_15
+  - first:
+      213: -2746883704178765916
+    second: Companion PINK with shadow_16
+  - first:
+      213: 995398664642842952
+    second: Companion PINK with shadow_17
+  - first:
+      213: 2803234033280388830
+    second: Companion PINK with shadow_18
+  - first:
+      213: -6689200902965316746
+    second: Companion PINK with shadow_19
+  - first:
+      213: 3139758352512891466
+    second: Companion PINK with shadow_20
+  - first:
+      213: 1701226301892884488
+    second: Companion PINK with shadow_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Companion PINK with shadow_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 114
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261a9fd060dfaff60800000000000000
+      internalID: 8069039884833759586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 113
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4384500af5824ff0800000000000000
+      internalID: -53332936781167798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 113
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2085247583da410800000000000000
+      internalID: 1489908999155876561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 114
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f63431c52b20ad80800000000000000
+      internalID: -8241539876932798735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 82
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bbca99dc2fdfb90800000000000000
+      internalID: -7206336863862473953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 81
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606c7c93bad7e07d0800000000000000
+      internalID: -2950282531518822906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 81
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12284905fb006150800000000000000
+      internalID: 5863699861887001116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 82
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0dccda3b5965370800000000000000
+      internalID: 8310994761306394869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 50
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149d1f4fc83c5a820800000000000000
+      internalID: 2928962142846703937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc1c264d5bf2e4e0800000000000000
+      internalID: -1953722910297547557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2f198a9dc938be0800000000000000
+      internalID: -1476163794197417229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 49
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed006fcd64527110800000000000000
+      internalID: 1257160076597136865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a768be7478b2d5f0800000000000000
+      internalID: -733320978826238048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 35
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647f22544297c32f0800000000000000
+      internalID: -991784621242648762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 26
+        width: 7
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458eff20f7cb9fac0800000000000000
+      internalID: -3820815555149961132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba214b01c3313e170800000000000000
+      internalID: 8206424094698377899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af8d1d13db11e9d0800000000000000
+      internalID: -2746883704178765916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8415fe7cfcd50dd00800000000000000
+      internalID: 995398664642842952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_18
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede86f7408617e620800000000000000
+      internalID: 2803234033280388830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673b78b383f2b23a0800000000000000
+      internalID: -6689200902965316746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ab8122699a29b20800000000000000
+      internalID: 3139758352512891466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion PINK with shadow_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80870eede48fb9710800000000000000
+      internalID: 1701226301892884488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Companion PINK with shadow_0: 8069039884833759586
+      Companion PINK with shadow_1: -53332936781167798
+      Companion PINK with shadow_10: -1476163794197417229
+      Companion PINK with shadow_11: 1257160076597136865
+      Companion PINK with shadow_12: -733320978826238048
+      Companion PINK with shadow_13: -991784621242648762
+      Companion PINK with shadow_14: -3820815555149961132
+      Companion PINK with shadow_15: 8206424094698377899
+      Companion PINK with shadow_16: -2746883704178765916
+      Companion PINK with shadow_17: 995398664642842952
+      Companion PINK with shadow_18: 2803234033280388830
+      Companion PINK with shadow_19: -6689200902965316746
+      Companion PINK with shadow_2: 1489908999155876561
+      Companion PINK with shadow_20: 3139758352512891466
+      Companion PINK with shadow_21: 1701226301892884488
+      Companion PINK with shadow_3: -8241539876932798735
+      Companion PINK with shadow_4: -7206336863862473953
+      Companion PINK with shadow_5: -2950282531518822906
+      Companion PINK with shadow_6: 5863699861887001116
+      Companion PINK with shadow_7: 8310994761306394869
+      Companion PINK with shadow_8: 2928962142846703937
+      Companion PINK with shadow_9: -1953722910297547557
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

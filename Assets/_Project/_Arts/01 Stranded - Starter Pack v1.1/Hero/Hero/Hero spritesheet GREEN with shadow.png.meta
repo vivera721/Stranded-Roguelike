@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: d3a0a3f0a99619b46afa4dc1993f13ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 924887607341295489
+    second: Hero spritesheet GREEN with shadow_0
+  - first:
+      213: -2142192969235372037
+    second: Hero spritesheet GREEN with shadow_1
+  - first:
+      213: 5240035692177897206
+    second: Hero spritesheet GREEN with shadow_2
+  - first:
+      213: 2680987456005959952
+    second: Hero spritesheet GREEN with shadow_3
+  - first:
+      213: 6856632851308005975
+    second: Hero spritesheet GREEN with shadow_4
+  - first:
+      213: -7490576680289398492
+    second: Hero spritesheet GREEN with shadow_5
+  - first:
+      213: 3761638642154888736
+    second: Hero spritesheet GREEN with shadow_6
+  - first:
+      213: 7389826167101062851
+    second: Hero spritesheet GREEN with shadow_7
+  - first:
+      213: 8451393137056727232
+    second: Hero spritesheet GREEN with shadow_8
+  - first:
+      213: -8079588169086432753
+    second: Hero spritesheet GREEN with shadow_9
+  - first:
+      213: 6216346039137205708
+    second: Hero spritesheet GREEN with shadow_10
+  - first:
+      213: 2479001894676656541
+    second: Hero spritesheet GREEN with shadow_11
+  - first:
+      213: -7516667480015090012
+    second: Hero spritesheet GREEN with shadow_12
+  - first:
+      213: 7816784429045005884
+    second: Hero spritesheet GREEN with shadow_13
+  - first:
+      213: -6118769136274422920
+    second: Hero spritesheet GREEN with shadow_14
+  - first:
+      213: 4535705910566674982
+    second: Hero spritesheet GREEN with shadow_15
+  - first:
+      213: -989212227014329669
+    second: Hero spritesheet GREEN with shadow_16
+  - first:
+      213: -5563575776663168686
+    second: Hero spritesheet GREEN with shadow_17
+  - first:
+      213: -7923186255466238100
+    second: Hero spritesheet GREEN with shadow_18
+  - first:
+      213: -6866602899948412389
+    second: Hero spritesheet GREEN with shadow_19
+  - first:
+      213: 1377150730007026557
+    second: Hero spritesheet GREEN with shadow_20
+  - first:
+      213: 1340162981411935131
+    second: Hero spritesheet GREEN with shadow_21
+  - first:
+      213: 4289431713541878134
+    second: Hero spritesheet GREEN with shadow_22
+  - first:
+      213: 7729247254915118610
+    second: Hero spritesheet GREEN with shadow_23
+  - first:
+      213: -8441036693656172228
+    second: Hero spritesheet GREEN with shadow_24
+  - first:
+      213: 7792401754738922006
+    second: Hero spritesheet GREEN with shadow_25
+  - first:
+      213: -5418682423389846559
+    second: Hero spritesheet GREEN with shadow_26
+  - first:
+      213: 1098188013107958026
+    second: Hero spritesheet GREEN with shadow_27
+  - first:
+      213: 9086521707807262772
+    second: Hero spritesheet GREEN with shadow_28
+  - first:
+      213: 7538784848326884635
+    second: Hero spritesheet GREEN with shadow_29
+  - first:
+      213: -4432992730790600720
+    second: Hero spritesheet GREEN with shadow_30
+  - first:
+      213: 8963942161838237610
+    second: Hero spritesheet GREEN with shadow_31
+  - first:
+      213: 2159699252072704625
+    second: Hero spritesheet GREEN with shadow_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 162
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1872dbce06cd5dc00800000000000000
+      internalID: 924887607341295489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 162
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7e26428d66542e0800000000000000
+      internalID: -2142192969235372037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 162
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6b1aaf2b858b840800000000000000
+      internalID: 5240035692177897206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 162
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011738203e7c43520800000000000000
+      internalID: 2680987456005959952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 162
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75acc711047a72f50800000000000000
+      internalID: 6856632851308005975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421968032302c0890800000000000000
+      internalID: -7490576680289398492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 130
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e560f3a66043430800000000000000
+      internalID: 3761638642154888736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 130
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cef1f9febfed8660800000000000000
+      internalID: 7389826167101062851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 130
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0c07fd741694570800000000000000
+      internalID: 8451393137056727232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 98
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a87222e598fdf80800000000000000
+      internalID: -8079588169086432753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 98
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdfda779c5e44650800000000000000
+      internalID: 6216346039137205708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 98
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91f8b1c61f276220800000000000000
+      internalID: 2479001894676656541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 98
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae48fe70ce6fa790800000000000000
+      internalID: -7516667480015090012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 98
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e380be50cca7c60800000000000000
+      internalID: 7816784429045005884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 98
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8734db1a3e3c51ba0800000000000000
+      internalID: -6118769136274422920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 98
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62267f49e7012fe30800000000000000
+      internalID: 4535705910566674982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 98
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba765978bc9542f0800000000000000
+      internalID: -989212227014329669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2591607ee453ac2b0800000000000000
+      internalID: -5563575776663168686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 34
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f6da954103b0290800000000000000
+      internalID: -7923186255466238100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1268e61b0de4b0a0800000000000000
+      internalID: -6866602899948412389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b1d30ea4f9c1310800000000000000
+      internalID: 1377150730007026557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93df209127399210800000000000000
+      internalID: 1340162981411935131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67175f5ca6f178b30800000000000000
+      internalID: 4289431713541878134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216f0625d6dc34b60800000000000000
+      internalID: 7729247254915118610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39069289d96bda80800000000000000
+      internalID: -8441036693656172228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612185a2c1c242c60800000000000000
+      internalID: 7792401754738922006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3023b9b09fcc4b0800000000000000
+      internalID: -5418682423389846559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 66
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0154e1fd2c8d3f00800000000000000
+      internalID: 1098188013107958026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4384abdc95fc91e70800000000000000
+      internalID: 9086521707807262772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dfe9a90e42f9860800000000000000
+      internalID: 7538784848326884635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 66
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff565d2998da72c0800000000000000
+      internalID: -4432992730790600720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 109
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7e38737e1566c70800000000000000
+      internalID: 8963942161838237610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero spritesheet GREEN with shadow_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 66
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a6875f60bc8fd10800000000000000
+      internalID: 2159699252072704625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hero spritesheet GREEN with shadow_0: 924887607341295489
+      Hero spritesheet GREEN with shadow_1: -2142192969235372037
+      Hero spritesheet GREEN with shadow_10: 6216346039137205708
+      Hero spritesheet GREEN with shadow_11: 2479001894676656541
+      Hero spritesheet GREEN with shadow_12: -7516667480015090012
+      Hero spritesheet GREEN with shadow_13: 7816784429045005884
+      Hero spritesheet GREEN with shadow_14: -6118769136274422920
+      Hero spritesheet GREEN with shadow_15: 4535705910566674982
+      Hero spritesheet GREEN with shadow_16: -989212227014329669
+      Hero spritesheet GREEN with shadow_17: -5563575776663168686
+      Hero spritesheet GREEN with shadow_18: -7923186255466238100
+      Hero spritesheet GREEN with shadow_19: -6866602899948412389
+      Hero spritesheet GREEN with shadow_2: 5240035692177897206
+      Hero spritesheet GREEN with shadow_20: 1377150730007026557
+      Hero spritesheet GREEN with shadow_21: 1340162981411935131
+      Hero spritesheet GREEN with shadow_22: 4289431713541878134
+      Hero spritesheet GREEN with shadow_23: 7729247254915118610
+      Hero spritesheet GREEN with shadow_24: -8441036693656172228
+      Hero spritesheet GREEN with shadow_25: 7792401754738922006
+      Hero spritesheet GREEN with shadow_26: -5418682423389846559
+      Hero spritesheet GREEN with shadow_27: 1098188013107958026
+      Hero spritesheet GREEN with shadow_28: 9086521707807262772
+      Hero spritesheet GREEN with shadow_29: 7538784848326884635
+      Hero spritesheet GREEN with shadow_3: 2680987456005959952
+      Hero spritesheet GREEN with shadow_30: -4432992730790600720
+      Hero spritesheet GREEN with shadow_31: 8963942161838237610
+      Hero spritesheet GREEN with shadow_32: 2159699252072704625
+      Hero spritesheet GREEN with shadow_4: 6856632851308005975
+      Hero spritesheet GREEN with shadow_5: -7490576680289398492
+      Hero spritesheet GREEN with shadow_6: 3761638642154888736
+      Hero spritesheet GREEN with shadow_7: 7389826167101062851
+      Hero spritesheet GREEN with shadow_8: 8451393137056727232
+      Hero spritesheet GREEN with shadow_9: -8079588169086432753
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

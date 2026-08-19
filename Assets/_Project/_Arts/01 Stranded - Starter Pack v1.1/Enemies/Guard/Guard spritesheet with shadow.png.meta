@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 37741f0085f07634cafb94b10146166f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5074923978546852416
+    second: Guard spritesheet with shadow_0
+  - first:
+      213: -7586524023205018058
+    second: Guard spritesheet with shadow_1
+  - first:
+      213: 5318954516107142971
+    second: Guard spritesheet with shadow_2
+  - first:
+      213: -2481063844423665661
+    second: Guard spritesheet with shadow_3
+  - first:
+      213: -6760235037655923990
+    second: Guard spritesheet with shadow_4
+  - first:
+      213: 6430179448485281797
+    second: Guard spritesheet with shadow_5
+  - first:
+      213: 2780508798539195102
+    second: Guard spritesheet with shadow_6
+  - first:
+      213: 5912528419738757201
+    second: Guard spritesheet with shadow_7
+  - first:
+      213: -7546939331893311924
+    second: Guard spritesheet with shadow_8
+  - first:
+      213: 2493285737978207567
+    second: Guard spritesheet with shadow_9
+  - first:
+      213: 9067001747217653018
+    second: Guard spritesheet with shadow_10
+  - first:
+      213: -226803204881192854
+    second: Guard spritesheet with shadow_11
+  - first:
+      213: -4978473302106674568
+    second: Guard spritesheet with shadow_12
+  - first:
+      213: -2801845732059900396
+    second: Guard spritesheet with shadow_13
+  - first:
+      213: -7175211482600710227
+    second: Guard spritesheet with shadow_14
+  - first:
+      213: 3304115601432170804
+    second: Guard spritesheet with shadow_15
+  - first:
+      213: -3489936239971089931
+    second: Guard spritesheet with shadow_16
+  - first:
+      213: 5328112109370387200
+    second: Guard spritesheet with shadow_17
+  - first:
+      213: 4423073454117902274
+    second: Guard spritesheet with shadow_18
+  - first:
+      213: -5833393670148757752
+    second: Guard spritesheet with shadow_19
+  - first:
+      213: -8092550704554095020
+    second: Guard spritesheet with shadow_20
+  - first:
+      213: -5927679265655228348
+    second: Guard spritesheet with shadow_21
+  - first:
+      213: -4090756343833327229
+    second: Guard spritesheet with shadow_22
+  - first:
+      213: -6717986525992049163
+    second: Guard spritesheet with shadow_23
+  - first:
+      213: 5605970723429760269
+    second: Guard spritesheet with shadow_24
+  - first:
+      213: -4492442265883301566
+    second: Guard spritesheet with shadow_25
+  - first:
+      213: -6749163608005896601
+    second: Guard spritesheet with shadow_26
+  - first:
+      213: -6925798558430413097
+    second: Guard spritesheet with shadow_27
+  - first:
+      213: -1176532781144978901
+    second: Guard spritesheet with shadow_28
+  - first:
+      213: 8759559019747064888
+    second: Guard spritesheet with shadow_29
+  - first:
+      213: -692151357923015080
+    second: Guard spritesheet with shadow_30
+  - first:
+      213: 4466144140260851776
+    second: Guard spritesheet with shadow_31
+  - first:
+      213: 4742255772699296302
+    second: Guard spritesheet with shadow_32
+  - first:
+      213: -7414323875764860537
+    second: Guard spritesheet with shadow_33
+  - first:
+      213: 7995059046903850631
+    second: Guard spritesheet with shadow_34
+  - first:
+      213: -3659164158991639644
+    second: Guard spritesheet with shadow_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 98
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd4a94978f3299b0800000000000000
+      internalID: -5074923978546852416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 98
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636c5e4989047b690800000000000000
+      internalID: -7586524023205018058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 98
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37a60d83f8b0d940800000000000000
+      internalID: 5318954516107142971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 98
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308ff08249d719dd0800000000000000
+      internalID: -2481063844423665661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 98
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae28e5eec02de22a0800000000000000
+      internalID: -6760235037655923990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 66
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5008bfcc3269c3950800000000000000
+      internalID: 6430179448485281797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 66
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2e6cf350a569620800000000000000
+      internalID: 2780508798539195102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 66
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1582ee695458d0250800000000000000
+      internalID: 5912528419738757201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46431db9a2e34790800000000000000
+      internalID: -7546939331893311924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 34
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d1dbf2b2ee99220800000000000000
+      internalID: 2493285737978207567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d11c0dc0674dd70800000000000000
+      internalID: 9067001747217653018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 34
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68e223dfab3adcf0800000000000000
+      internalID: -226803204881192854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 34
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a6a28a8e8e8eab0800000000000000
+      internalID: -4978473302106674568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 34
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4161029c628dd19d0800000000000000
+      internalID: -2801845732059900396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafd7472c278c6c90800000000000000
+      internalID: -7175211482600710227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431d03032a39add20800000000000000
+      internalID: 3304115601432170804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1c2cfea71419fc0800000000000000
+      internalID: -3489936239971089931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 10
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00baa72ebb141f940800000000000000
+      internalID: 5328112109370387200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c758204fd9e16d30800000000000000
+      internalID: 4423073454117902274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80765c71d5f9b0fa0800000000000000
+      internalID: -5833393670148757752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 7
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e4738a20c71bf80800000000000000
+      internalID: -8092550704554095020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448fb243d17acbda0800000000000000
+      internalID: -5927679265655228348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389832f67c6ba37c0800000000000000
+      internalID: -4090756343833327229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5226819dae4c2a0800000000000000
+      internalID: -6717986525992049163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d3547dba86ccd40800000000000000
+      internalID: 5605970723429760269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2492318af83a7a1c0800000000000000
+      internalID: -4492442265883301566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76690d505772652a0800000000000000
+      internalID: -6749163608005896601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deb7d2d7ee92ef90800000000000000
+      internalID: -6925798558430413097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a40494bad1cafe0800000000000000
+      internalID: -1176532781144978901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cb711b484309970800000000000000
+      internalID: 8759559019747064888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856c134d10cf466f0800000000000000
+      internalID: -692151357923015080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_31
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040c0f3de6eeafd30800000000000000
+      internalID: 4466144140260851776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2289cdef70efc140800000000000000
+      internalID: 4742255772699296302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_33
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789865fb7b70b1990800000000000000
+      internalID: -7414323875764860537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_34
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7862af0f7d724fe60800000000000000
+      internalID: 7995059046903850631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard spritesheet with shadow_35
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab5670a599083dc0800000000000000
+      internalID: -3659164158991639644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Guard spritesheet with shadow_0: -5074923978546852416
+      Guard spritesheet with shadow_1: -7586524023205018058
+      Guard spritesheet with shadow_10: 9067001747217653018
+      Guard spritesheet with shadow_11: -226803204881192854
+      Guard spritesheet with shadow_12: -4978473302106674568
+      Guard spritesheet with shadow_13: -2801845732059900396
+      Guard spritesheet with shadow_14: -7175211482600710227
+      Guard spritesheet with shadow_15: 3304115601432170804
+      Guard spritesheet with shadow_16: -3489936239971089931
+      Guard spritesheet with shadow_17: 5328112109370387200
+      Guard spritesheet with shadow_18: 4423073454117902274
+      Guard spritesheet with shadow_19: -5833393670148757752
+      Guard spritesheet with shadow_2: 5318954516107142971
+      Guard spritesheet with shadow_20: -8092550704554095020
+      Guard spritesheet with shadow_21: -5927679265655228348
+      Guard spritesheet with shadow_22: -4090756343833327229
+      Guard spritesheet with shadow_23: -6717986525992049163
+      Guard spritesheet with shadow_24: 5605970723429760269
+      Guard spritesheet with shadow_25: -4492442265883301566
+      Guard spritesheet with shadow_26: -6749163608005896601
+      Guard spritesheet with shadow_27: -6925798558430413097
+      Guard spritesheet with shadow_28: -1176532781144978901
+      Guard spritesheet with shadow_29: 8759559019747064888
+      Guard spritesheet with shadow_3: -2481063844423665661
+      Guard spritesheet with shadow_30: -692151357923015080
+      Guard spritesheet with shadow_31: 4466144140260851776
+      Guard spritesheet with shadow_32: 4742255772699296302
+      Guard spritesheet with shadow_33: -7414323875764860537
+      Guard spritesheet with shadow_34: 7995059046903850631
+      Guard spritesheet with shadow_35: -3659164158991639644
+      Guard spritesheet with shadow_4: -6760235037655923990
+      Guard spritesheet with shadow_5: 6430179448485281797
+      Guard spritesheet with shadow_6: 2780508798539195102
+      Guard spritesheet with shadow_7: 5912528419738757201
+      Guard spritesheet with shadow_8: -7546939331893311924
+      Guard spritesheet with shadow_9: 2493285737978207567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

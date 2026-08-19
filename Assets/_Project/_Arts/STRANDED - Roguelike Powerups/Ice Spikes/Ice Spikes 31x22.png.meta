@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 55b6c4af55ade6545b6b2d0f06f58c7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1389206923753543351
+    second: Ice Spikes 31x22_0
+  - first:
+      213: -7760650247717059906
+    second: Ice Spikes 31x22_1
+  - first:
+      213: 7936018552694568403
+    second: Ice Spikes 31x22_2
+  - first:
+      213: -3875586163100948036
+    second: Ice Spikes 31x22_3
+  - first:
+      213: 7979666525574876039
+    second: Ice Spikes 31x22_4
+  - first:
+      213: -2614966474525891698
+    second: Ice Spikes 31x22_5
+  - first:
+      213: -6845188919613041434
+    second: Ice Spikes 31x22_6
+  - first:
+      213: 1741048253687157442
+    second: Ice Spikes 31x22_7
+  - first:
+      213: -1167550146217275413
+    second: Ice Spikes 31x22_8
+  - first:
+      213: -693739105316423219
+    second: Ice Spikes 31x22_9
+  - first:
+      213: 6140320346670690329
+    second: Ice Spikes 31x22_10
+  - first:
+      213: 2887982374493034473
+    second: Ice Spikes 31x22_11
+  - first:
+      213: -3173796691615630097
+    second: Ice Spikes 31x22_12
+  - first:
+      213: 7822090375128015254
+    second: Ice Spikes 31x22_13
+  - first:
+      213: -4091334804098457223
+    second: Ice Spikes 31x22_14
+  - first:
+      213: 732695788045161416
+    second: Ice Spikes 31x22_15
+  - first:
+      213: -1542825057490576768
+    second: Ice Spikes 31x22_16
+  - first:
+      213: 1703953409643824787
+    second: Ice Spikes 31x22_17
+  - first:
+      213: 9052974643791751372
+    second: Ice Spikes 31x22_18
+  - first:
+      213: -9010954089904385548
+    second: Ice Spikes 31x22_19
+  - first:
+      213: 3534277595359063854
+    second: Ice Spikes 31x22_20
+  - first:
+      213: 4833201417588978333
+    second: Ice Spikes 31x22_21
+  - first:
+      213: 492559664323673305
+    second: Ice Spikes 31x22_22
+  - first:
+      213: -4957354314848320964
+    second: Ice Spikes 31x22_23
+  - first:
+      213: 8634081588927474268
+    second: Ice Spikes 31x22_24
+  - first:
+      213: 4365864706623553579
+    second: Ice Spikes 31x22_25
+  - first:
+      213: 8336119205121747752
+    second: Ice Spikes 31x22_26
+  - first:
+      213: -7785511645392115384
+    second: Ice Spikes 31x22_27
+  - first:
+      213: 3545075796854031414
+    second: Ice Spikes 31x22_28
+  - first:
+      213: 2327970354929106440
+    second: Ice Spikes 31x22_29
+  - first:
+      213: 8374176716009082146
+    second: Ice Spikes 31x22_30
+  - first:
+      213: 2694327661658649946
+    second: Ice Spikes 31x22_31
+  - first:
+      213: 4862462996429868439
+    second: Ice Spikes 31x22_32
+  - first:
+      213: -5606974914627569107
+    second: Ice Spikes 31x22_33
+  - first:
+      213: 8188217849542454510
+    second: Ice Spikes 31x22_34
+  - first:
+      213: 7165499211465196141
+    second: Ice Spikes 31x22_35
+  - first:
+      213: 7358896360700223257
+    second: Ice Spikes 31x22_36
+  - first:
+      213: 4687327570995220508
+    second: Ice Spikes 31x22_37
+  - first:
+      213: 5248711723771168211
+    second: Ice Spikes 31x22_38
+  - first:
+      213: -861727121445875677
+    second: Ice Spikes 31x22_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9492826c9ab88bce0800000000000000
+      internalID: -1389206923753543351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb207c6a7b1ac4490800000000000000
+      internalID: -7760650247717059906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 25
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5f44ca3d6622e60800000000000000
+      internalID: 7936018552694568403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 25
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9e2fb1be6273ac0800000000000000
+      internalID: -3875586163100948036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 25
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b47fa4d687dbe60800000000000000
+      internalID: 7979666525574876039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 24
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83245a98d5c5bbd0800000000000000
+      internalID: -2614966474525891698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 24
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4560ae1f00101a0800000000000000
+      internalID: -6845188919613041434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 22
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c256d98922792810800000000000000
+      internalID: 1741048253687157442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 24
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef8345f3570ccfe0800000000000000
+      internalID: -1167550146217275413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 24
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc931d495f75f56f0800000000000000
+      internalID: -693739105316423219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 25
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910f86e82dcc63550800000000000000
+      internalID: 6140320346670690329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 22
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e71f3d1bac241820800000000000000
+      internalID: 2887982374493034473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecb0f679b864f3d0800000000000000
+      internalID: -3173796691615630097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 23
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691e182c0c5ad8c60800000000000000
+      internalID: 7822090375128015254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_14
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971e4882ca8a837c0800000000000000
+      internalID: -4091334804098457223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_15
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 23
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c35bdeefee0b2a00800000000000000
+      internalID: 732695788045161416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 21
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ad3b1d8c8c69ae0800000000000000
+      internalID: -1542825057490576768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 23
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396c2af1998a5a710800000000000000
+      internalID: 1703953409643824787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_18
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc863db4970a2ad70800000000000000
+      internalID: 9052974643791751372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_19
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 23
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f155ef4ff8a2f280800000000000000
+      internalID: -9010954089904385548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_20
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 4
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2faff06fb64c0130800000000000000
+      internalID: 3534277595359063854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_21
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 23
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d923e47f41bf21340800000000000000
+      internalID: 4833201417588978333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcb2bea76ce5d600800000000000000
+      internalID: 492559664323673305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3247bd0480f33bb0800000000000000
+      internalID: -4957354314848320964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a23c5b57b62d770800000000000000
+      internalID: 8634081588927474268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2046bfb1daa69c30800000000000000
+      internalID: 4365864706623553579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82be79a1048dfa370800000000000000
+      internalID: 8336119205121747752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8496cbd686e44f390800000000000000
+      internalID: -7785511645392115384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634c15597a3a23130800000000000000
+      internalID: 3545075796854031414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e703524bc9e4020800000000000000
+      internalID: 2327970354929106440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d811cda5d073470800000000000000
+      internalID: 8374176716009082146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a553cadabbc246520800000000000000
+      internalID: 2694327661658649946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d0fa33550fa7340800000000000000
+      internalID: 4862462996429868439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2af81da5060032b0800000000000000
+      internalID: -5606974914627569107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecad7940c462a170800000000000000
+      internalID: 8188217849542454510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_35
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6289b18197f07360800000000000000
+      internalID: 7165499211465196141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f937e304d002660800000000000000
+      internalID: 7358896360700223257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10901f579bbc0140800000000000000
+      internalID: 4687327570995220508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_38
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d50fcff08b27d840800000000000000
+      internalID: 5248711723771168211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Spikes 31x22_39
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 3
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32016e8afb78a04f0800000000000000
+      internalID: -861727121445875677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice Spikes 31x22_0: -1389206923753543351
+      Ice Spikes 31x22_1: -7760650247717059906
+      Ice Spikes 31x22_10: 6140320346670690329
+      Ice Spikes 31x22_11: 2887982374493034473
+      Ice Spikes 31x22_12: -3173796691615630097
+      Ice Spikes 31x22_13: 7822090375128015254
+      Ice Spikes 31x22_14: -4091334804098457223
+      Ice Spikes 31x22_15: 732695788045161416
+      Ice Spikes 31x22_16: -1542825057490576768
+      Ice Spikes 31x22_17: 1703953409643824787
+      Ice Spikes 31x22_18: 9052974643791751372
+      Ice Spikes 31x22_19: -9010954089904385548
+      Ice Spikes 31x22_2: 7936018552694568403
+      Ice Spikes 31x22_20: 3534277595359063854
+      Ice Spikes 31x22_21: 4833201417588978333
+      Ice Spikes 31x22_22: 492559664323673305
+      Ice Spikes 31x22_23: -4957354314848320964
+      Ice Spikes 31x22_24: 8634081588927474268
+      Ice Spikes 31x22_25: 4365864706623553579
+      Ice Spikes 31x22_26: 8336119205121747752
+      Ice Spikes 31x22_27: -7785511645392115384
+      Ice Spikes 31x22_28: 3545075796854031414
+      Ice Spikes 31x22_29: 2327970354929106440
+      Ice Spikes 31x22_3: -3875586163100948036
+      Ice Spikes 31x22_30: 8374176716009082146
+      Ice Spikes 31x22_31: 2694327661658649946
+      Ice Spikes 31x22_32: 4862462996429868439
+      Ice Spikes 31x22_33: -5606974914627569107
+      Ice Spikes 31x22_34: 8188217849542454510
+      Ice Spikes 31x22_35: 7165499211465196141
+      Ice Spikes 31x22_36: 7358896360700223257
+      Ice Spikes 31x22_37: 4687327570995220508
+      Ice Spikes 31x22_38: 5248711723771168211
+      Ice Spikes 31x22_39: -861727121445875677
+      Ice Spikes 31x22_4: 7979666525574876039
+      Ice Spikes 31x22_5: -2614966474525891698
+      Ice Spikes 31x22_6: -6845188919613041434
+      Ice Spikes 31x22_7: 1741048253687157442
+      Ice Spikes 31x22_8: -1167550146217275413
+      Ice Spikes 31x22_9: -693739105316423219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

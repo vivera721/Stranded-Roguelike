@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: caff4444a30c530478bf9fd72e6f8bba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3232998780769582312
+    second: Hand (Final)-Slam_0
+  - first:
+      213: -7232628138162809252
+    second: Hand (Final)-Slam_1
+  - first:
+      213: -5158097931041308740
+    second: Hand (Final)-Slam_2
+  - first:
+      213: -8255316819624094748
+    second: Hand (Final)-Slam_3
+  - first:
+      213: -8811630956576817187
+    second: Hand (Final)-Slam_4
+  - first:
+      213: 1317576857908681748
+    second: Hand (Final)-Slam_5
+  - first:
+      213: -1803871908706112494
+    second: Hand (Final)-Slam_6
+  - first:
+      213: 8102078679724068387
+    second: Hand (Final)-Slam_7
+  - first:
+      213: 6056891028845630319
+    second: Hand (Final)-Slam_8
+  - first:
+      213: -7058416219699430387
+    second: Hand (Final)-Slam_9
+  - first:
+      213: -6986166732214948189
+    second: Hand (Final)-Slam_10
+  - first:
+      213: 3084739117185629110
+    second: Hand (Final)-Slam_11
+  - first:
+      213: -4405658444752159921
+    second: Hand (Final)-Slam_12
+  - first:
+      213: -485352736043200066
+    second: Hand (Final)-Slam_13
+  - first:
+      213: 8101115328648568755
+    second: Hand (Final)-Slam_14
+  - first:
+      213: -3857557371443015930
+    second: Hand (Final)-Slam_15
+  - first:
+      213: -7298518688753837977
+    second: Hand (Final)-Slam_16
+  - first:
+      213: 4957915659051889674
+    second: Hand (Final)-Slam_17
+  - first:
+      213: -5746781132854415498
+    second: Hand (Final)-Slam_18
+  - first:
+      213: 7287800260143734842
+    second: Hand (Final)-Slam_19
+  - first:
+      213: 6312026338896033524
+    second: Hand (Final)-Slam_20
+  - first:
+      213: 5445925232133193156
+    second: Hand (Final)-Slam_21
+  - first:
+      213: 316288928565007119
+    second: Hand (Final)-Slam_22
+  - first:
+      213: -5717477470296043950
+    second: Hand (Final)-Slam_23
+  - first:
+      213: 5652495195574609222
+    second: Hand (Final)-Slam_24
+  - first:
+      213: -6533309327463671768
+    second: Hand (Final)-Slam_25
+  - first:
+      213: 5906805658793309420
+    second: Hand (Final)-Slam_26
+  - first:
+      213: 7270961658855396141
+    second: Hand (Final)-Slam_27
+  - first:
+      213: 5882055761040077770
+    second: Hand (Final)-Slam_28
+  - first:
+      213: -5189254859554777046
+    second: Hand (Final)-Slam_29
+  - first:
+      213: 6664659700969982950
+    second: Hand (Final)-Slam_30
+  - first:
+      213: -4043015102354891406
+    second: Hand (Final)-Slam_31
+  - first:
+      213: 1814350634591225438
+    second: Hand (Final)-Slam_32
+  - first:
+      213: 3026185973033513397
+    second: Hand (Final)-Slam_33
+  - first:
+      213: -6133696234652308668
+    second: Hand (Final)-Slam_34
+  - first:
+      213: 3549712233164528820
+    second: Hand (Final)-Slam_35
+  - first:
+      213: 1409239071437992711
+    second: Hand (Final)-Slam_36
+  - first:
+      213: 4601814101548737784
+    second: Hand (Final)-Slam_37
+  - first:
+      213: 526514922845349012
+    second: Hand (Final)-Slam_38
+  - first:
+      213: -1761533763881067159
+    second: Hand (Final)-Slam_39
+  - first:
+      213: -6011590331408409685
+    second: Hand (Final)-Slam_40
+  - first:
+      213: 1970584497746102700
+    second: Hand (Final)-Slam_41
+  - first:
+      213: -142589489330650105
+    second: Hand (Final)-Slam_42
+  - first:
+      213: 95806951562929181
+    second: Hand (Final)-Slam_43
+  - first:
+      213: 6196452299653592330
+    second: Hand (Final)-Slam_44
+  - first:
+      213: 8249400828375497541
+    second: Hand (Final)-Slam_45
+  - first:
+      213: -3047717268538960727
+    second: Hand (Final)-Slam_46
+  - first:
+      213: 5588950028906935639
+    second: Hand (Final)-Slam_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81345f0fcb41223d0800000000000000
+      internalID: -3232998780769582312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c569f48470b80ab90800000000000000
+      internalID: -7232628138162809252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbffa9fa241ca68b0800000000000000
+      internalID: -5158097931041308740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e39ff157193f6d80800000000000000
+      internalID: -8255316819624094748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf376db45cc6b580800000000000000
+      internalID: -8811630956576817187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c1ce3eb29f84210800000000000000
+      internalID: 1317576857908681748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c244d6e0c57f6e0800000000000000
+      internalID: -1803871908706112494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e083fe1ad507070800000000000000
+      internalID: 8102078679724068387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f631899cc466e0450800000000000000
+      internalID: 6056891028845630319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_9
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cb5f368d77b0e90800000000000000
+      internalID: -7058416219699430387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_10
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae2da01f562c0f90800000000000000
+      internalID: -6986166732214948189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_11
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbf99822e13fca20800000000000000
+      internalID: 3084739117185629110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_12
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bf8d69cf4fbd2c0800000000000000
+      internalID: -4405658444752159921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_13
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb19161124ea349f0800000000000000
+      internalID: -485352736043200066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_14
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfd1984871fc6070800000000000000
+      internalID: 8101115328648568755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_15
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f03764204377ac0800000000000000
+      internalID: -3857557371443015930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_16
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768174afbe376ba90800000000000000
+      internalID: -7298518688753837977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_17
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a047224160e0ec440800000000000000
+      internalID: 4957915659051889674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_18
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fab46e1055f30b0800000000000000
+      internalID: -5746781132854415498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_19
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30edd369b7732560800000000000000
+      internalID: 7287800260143734842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_20
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6bece3382d89750800000000000000
+      internalID: 6312026338896033524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_21
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdb2a61520d39b40800000000000000
+      internalID: 5445925232133193156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_22
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f039181da1fa36400800000000000000
+      internalID: 316288928565007119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand (Final)-Slam_23
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 0
+        width: 133
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e84b3888077a0b0800000000000000
+      internalID: -5717477470296043950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b038675f22f107c4bac582702e303cc8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":24.0,"y":1.0},"gridSpriteSize":{"x":133.0,"y":103.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5199999809265137,"y":0.44999998807907107},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hand (Final)-Slam_0: -3232998780769582312
+      Hand (Final)-Slam_1: -7232628138162809252
+      Hand (Final)-Slam_10: -6986166732214948189
+      Hand (Final)-Slam_11: 3084739117185629110
+      Hand (Final)-Slam_12: -4405658444752159921
+      Hand (Final)-Slam_13: -485352736043200066
+      Hand (Final)-Slam_14: 8101115328648568755
+      Hand (Final)-Slam_15: -3857557371443015930
+      Hand (Final)-Slam_16: -7298518688753837977
+      Hand (Final)-Slam_17: 4957915659051889674
+      Hand (Final)-Slam_18: -5746781132854415498
+      Hand (Final)-Slam_19: 7287800260143734842
+      Hand (Final)-Slam_2: -5158097931041308740
+      Hand (Final)-Slam_20: 6312026338896033524
+      Hand (Final)-Slam_21: 5445925232133193156
+      Hand (Final)-Slam_22: 316288928565007119
+      Hand (Final)-Slam_23: -5717477470296043950
+      Hand (Final)-Slam_3: -8255316819624094748
+      Hand (Final)-Slam_4: -8811630956576817187
+      Hand (Final)-Slam_5: 1317576857908681748
+      Hand (Final)-Slam_6: -1803871908706112494
+      Hand (Final)-Slam_7: 8102078679724068387
+      Hand (Final)-Slam_8: 6056891028845630319
+      Hand (Final)-Slam_9: -7058416219699430387
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

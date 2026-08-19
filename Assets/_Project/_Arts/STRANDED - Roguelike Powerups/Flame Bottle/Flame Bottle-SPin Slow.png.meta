@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: cb5cb9fc992cbc045ad51061745760fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -54796930698513444
+    second: Flame Bottle-SPin Slow_0
+  - first:
+      213: 9195854410918326569
+    second: Flame Bottle-SPin Slow_1
+  - first:
+      213: 7571445873003117389
+    second: Flame Bottle-SPin Slow_2
+  - first:
+      213: -6497432614137654411
+    second: Flame Bottle-SPin Slow_3
+  - first:
+      213: -1502313627755572807
+    second: Flame Bottle-SPin Slow_4
+  - first:
+      213: 741614105653324135
+    second: Flame Bottle-SPin Slow_5
+  - first:
+      213: 4063324850444883077
+    second: Flame Bottle-SPin Slow_6
+  - first:
+      213: -7037871299799818406
+    second: Flame Bottle-SPin Slow_7
+  - first:
+      213: -376821170964457815
+    second: Flame Bottle-SPin Slow_8
+  - first:
+      213: -8623046192519272610
+    second: Flame Bottle-SPin Slow_9
+  - first:
+      213: 1934191021580203453
+    second: Flame Bottle-SPin Slow_10
+  - first:
+      213: 1747349916420967282
+    second: Flame Bottle-SPin Slow_11
+  - first:
+      213: 3178910204687158684
+    second: Flame Bottle-SPin Slow_12
+  - first:
+      213: -7495244945868227311
+    second: Flame Bottle-SPin Slow_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 13
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3feea5b725d3ff0800000000000000
+      internalID: -54796930698513444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 13
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921fef07ddc3e9f70800000000000000
+      internalID: 9195854410918326569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 13
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bb27008ed231960800000000000000
+      internalID: 7571445873003117389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 13
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573994a567b74d5a0800000000000000
+      internalID: -6497432614137654411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 13
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1966417b5b62be0800000000000000
+      internalID: -1502313627755572807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 13
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769a2ef891eba4a00800000000000000
+      internalID: 741614105653324135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 13
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584d8cd4c64d36830800000000000000
+      internalID: 4063324850444883077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 13
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fd3805755745e90800000000000000
+      internalID: -7037871299799818406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 13
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a611d8342345caf0800000000000000
+      internalID: -376821170964457815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 13
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57aa1dbc29c45880800000000000000
+      internalID: -8623046192519272610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 13
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5b9018c70a7da10800000000000000
+      internalID: 1934191021580203453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_11
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 13
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b849abd75df3810800000000000000
+      internalID: 1747349916420967282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 13
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d0e331df1cd1c20800000000000000
+      internalID: 3178910204687158684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame Bottle-SPin Slow_13
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 13
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d7bf8ee6a8bf790800000000000000
+      internalID: -7495244945868227311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flame Bottle-SPin Slow_0: -54796930698513444
+      Flame Bottle-SPin Slow_1: 9195854410918326569
+      Flame Bottle-SPin Slow_10: 1934191021580203453
+      Flame Bottle-SPin Slow_11: 1747349916420967282
+      Flame Bottle-SPin Slow_12: 3178910204687158684
+      Flame Bottle-SPin Slow_13: -7495244945868227311
+      Flame Bottle-SPin Slow_2: 7571445873003117389
+      Flame Bottle-SPin Slow_3: -6497432614137654411
+      Flame Bottle-SPin Slow_4: -1502313627755572807
+      Flame Bottle-SPin Slow_5: 741614105653324135
+      Flame Bottle-SPin Slow_6: 4063324850444883077
+      Flame Bottle-SPin Slow_7: -7037871299799818406
+      Flame Bottle-SPin Slow_8: -376821170964457815
+      Flame Bottle-SPin Slow_9: -8623046192519272610
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

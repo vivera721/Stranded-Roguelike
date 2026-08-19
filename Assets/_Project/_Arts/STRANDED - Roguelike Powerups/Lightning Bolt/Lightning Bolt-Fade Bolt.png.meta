@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 6608977d7a45ee04abd5f8993abbf0ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 331619227350130630
+    second: Lightning Bolt-Fade Bolt_0
+  - first:
+      213: 6182491929588601031
+    second: Lightning Bolt-Fade Bolt_1
+  - first:
+      213: -5718837151189600341
+    second: Lightning Bolt-Fade Bolt_2
+  - first:
+      213: 7265920165533830089
+    second: Lightning Bolt-Fade Bolt_3
+  - first:
+      213: 4741143608476059351
+    second: Lightning Bolt-Fade Bolt_4
+  - first:
+      213: 290295031397701093
+    second: Lightning Bolt-Fade Bolt_5
+  - first:
+      213: -4186369171642471798
+    second: Lightning Bolt-Fade Bolt_6
+  - first:
+      213: 4508819829272770197
+    second: Lightning Bolt-Fade Bolt_7
+  - first:
+      213: 2313751746530055088
+    second: Lightning Bolt-Fade Bolt_8
+  - first:
+      213: -3937123589347876853
+    second: Lightning Bolt-Fade Bolt_9
+  - first:
+      213: -5833326571572091816
+    second: Lightning Bolt-Fade Bolt_10
+  - first:
+      213: -838371640183847789
+    second: Lightning Bolt-Fade Bolt_11
+  - first:
+      213: -5263880671899354034
+    second: Lightning Bolt-Fade Bolt_12
+  - first:
+      213: 8738091650777527357
+    second: Lightning Bolt-Fade Bolt_13
+  - first:
+      213: -1924478312498182605
+    second: Lightning Bolt-Fade Bolt_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 51
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfd4e62ee52a9400800000000000000
+      internalID: 331619227350130630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 6
+        width: 22
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c019d957af9cc550800000000000000
+      internalID: 6182491929588601031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 47
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7790329eb92a0b0800000000000000
+      internalID: -5718837151189600341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 50
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbcdf0e4ebb5d460800000000000000
+      internalID: 7265920165533830089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 6
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d644540efcebc140800000000000000
+      internalID: 4741143608476059351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e555820bc5570400800000000000000
+      internalID: 290295031397701093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 15
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aaa913b6707e5c0800000000000000
+      internalID: -4186369171642471798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5967a08febb829e30800000000000000
+      internalID: 4508819829272770197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b31d5664f81c1020800000000000000
+      internalID: 2313751746530055088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 28
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00eb1c84f68c59c0800000000000000
+      internalID: -3937123589347876853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 205
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8542992b36cdb0fa0800000000000000
+      internalID: -5833326571572091816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 4
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39484156f618d54f0800000000000000
+      internalID: -838371640183847789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_12
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 18
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cf46b0b60f2f6b0800000000000000
+      internalID: -5263880671899354034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34b66b5f00f34970800000000000000
+      internalID: 8738091650777527357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Bolt-Fade Bolt_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 6
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3364a9dcb21ea45e0800000000000000
+      internalID: -1924478312498182605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lightning Bolt-Fade Bolt_0: 331619227350130630
+      Lightning Bolt-Fade Bolt_1: 6182491929588601031
+      Lightning Bolt-Fade Bolt_10: -5833326571572091816
+      Lightning Bolt-Fade Bolt_11: -838371640183847789
+      Lightning Bolt-Fade Bolt_12: -5263880671899354034
+      Lightning Bolt-Fade Bolt_13: 8738091650777527357
+      Lightning Bolt-Fade Bolt_14: -1924478312498182605
+      Lightning Bolt-Fade Bolt_2: -5718837151189600341
+      Lightning Bolt-Fade Bolt_3: 7265920165533830089
+      Lightning Bolt-Fade Bolt_4: 4741143608476059351
+      Lightning Bolt-Fade Bolt_5: 290295031397701093
+      Lightning Bolt-Fade Bolt_6: -4186369171642471798
+      Lightning Bolt-Fade Bolt_7: 4508819829272770197
+      Lightning Bolt-Fade Bolt_8: 2313751746530055088
+      Lightning Bolt-Fade Bolt_9: -3937123589347876853
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

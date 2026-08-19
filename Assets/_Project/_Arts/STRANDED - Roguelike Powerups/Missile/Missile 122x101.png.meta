@@ -1,0 +1,2418 @@
+fileFormatVersion: 2
+guid: 06ed8894bb6d36d4c9418cf0db0aac0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3145167660350640021
+    second: Missile 122x101_0
+  - first:
+      213: 7695194705091023477
+    second: Missile 122x101_1
+  - first:
+      213: 1685652484428711437
+    second: Missile 122x101_2
+  - first:
+      213: -6215227061364876545
+    second: Missile 122x101_3
+  - first:
+      213: 5617891759832374208
+    second: Missile 122x101_4
+  - first:
+      213: -2100680720380254620
+    second: Missile 122x101_5
+  - first:
+      213: -4385769760856543002
+    second: Missile 122x101_6
+  - first:
+      213: 2744555911128836027
+    second: Missile 122x101_7
+  - first:
+      213: 557975857697582418
+    second: Missile 122x101_8
+  - first:
+      213: 5307317005029457965
+    second: Missile 122x101_9
+  - first:
+      213: 8141953349236844493
+    second: Missile 122x101_10
+  - first:
+      213: -7904527295341912643
+    second: Missile 122x101_11
+  - first:
+      213: 1062962161451902648
+    second: Missile 122x101_12
+  - first:
+      213: -1801451753588019957
+    second: Missile 122x101_13
+  - first:
+      213: -8108577318631209129
+    second: Missile 122x101_14
+  - first:
+      213: -8218583796787628534
+    second: Missile 122x101_15
+  - first:
+      213: -4844615331722745509
+    second: Missile 122x101_16
+  - first:
+      213: -8433103447871700588
+    second: Missile 122x101_17
+  - first:
+      213: 9205045620730871600
+    second: Missile 122x101_18
+  - first:
+      213: 2390438061003920937
+    second: Missile 122x101_19
+  - first:
+      213: -5701146524468095962
+    second: Missile 122x101_20
+  - first:
+      213: -8473988107676442028
+    second: Missile 122x101_21
+  - first:
+      213: 7707725788142276748
+    second: Missile 122x101_22
+  - first:
+      213: -4990279737915003310
+    second: Missile 122x101_23
+  - first:
+      213: -6879114907085251733
+    second: Missile 122x101_24
+  - first:
+      213: -458992375689821563
+    second: Missile 122x101_25
+  - first:
+      213: 3431937890636302565
+    second: Missile 122x101_26
+  - first:
+      213: -1704053525787640214
+    second: Missile 122x101_27
+  - first:
+      213: 5238658721274173727
+    second: Missile 122x101_28
+  - first:
+      213: 4749838090559346922
+    second: Missile 122x101_29
+  - first:
+      213: -3773478705592221510
+    second: Missile 122x101_30
+  - first:
+      213: 4426297563035328196
+    second: Missile 122x101_31
+  - first:
+      213: -5045522552134590461
+    second: Missile 122x101_32
+  - first:
+      213: 5345521235019168311
+    second: Missile 122x101_33
+  - first:
+      213: -6697786713084714925
+    second: Missile 122x101_34
+  - first:
+      213: -883249853791479193
+    second: Missile 122x101_35
+  - first:
+      213: 1433754256128786312
+    second: Missile 122x101_36
+  - first:
+      213: 5781352988929845667
+    second: Missile 122x101_37
+  - first:
+      213: -7318938339516791043
+    second: Missile 122x101_38
+  - first:
+      213: 7006832292328700069
+    second: Missile 122x101_39
+  - first:
+      213: 2302054256292318720
+    second: Missile 122x101_40
+  - first:
+      213: 952707206553836385
+    second: Missile 122x101_41
+  - first:
+      213: 7300256066523523054
+    second: Missile 122x101_42
+  - first:
+      213: -8541016417798526368
+    second: Missile 122x101_43
+  - first:
+      213: 8830354522009280966
+    second: Missile 122x101_44
+  - first:
+      213: 8109643000217650612
+    second: Missile 122x101_45
+  - first:
+      213: -4246562358421667943
+    second: Missile 122x101_46
+  - first:
+      213: 3729558628422219878
+    second: Missile 122x101_47
+  - first:
+      213: -284934739070643325
+    second: Missile 122x101_48
+  - first:
+      213: -4622008955404482891
+    second: Missile 122x101_49
+  - first:
+      213: 8822842728380342933
+    second: Missile 122x101_50
+  - first:
+      213: 3333650124358528727
+    second: Missile 122x101_51
+  - first:
+      213: 6692601289273646724
+    second: Missile 122x101_52
+  - first:
+      213: 7380087569901684502
+    second: Missile 122x101_53
+  - first:
+      213: 8965372922841735456
+    second: Missile 122x101_54
+  - first:
+      213: 1356117406650699251
+    second: Missile 122x101_55
+  - first:
+      213: -5391965599292538094
+    second: Missile 122x101_56
+  - first:
+      213: 6771962628369287526
+    second: Missile 122x101_57
+  - first:
+      213: -4635892126383615606
+    second: Missile 122x101_58
+  - first:
+      213: 4016471893559842559
+    second: Missile 122x101_59
+  - first:
+      213: -6795822831553172734
+    second: Missile 122x101_60
+  - first:
+      213: -7922091904431214339
+    second: Missile 122x101_61
+  - first:
+      213: -4588859168003932534
+    second: Missile 122x101_62
+  - first:
+      213: -7606572611550397889
+    second: Missile 122x101_63
+  - first:
+      213: 3426700896207573501
+    second: Missile 122x101_64
+  - first:
+      213: -4704425371827686797
+    second: Missile 122x101_65
+  - first:
+      213: 3156598009021220220
+    second: Missile 122x101_66
+  - first:
+      213: -4354708672329125988
+    second: Missile 122x101_67
+  - first:
+      213: -3000107468836578168
+    second: Missile 122x101_68
+  - first:
+      213: 3950201234754002342
+    second: Missile 122x101_69
+  - first:
+      213: 4363296842771904720
+    second: Missile 122x101_70
+  - first:
+      213: -7412781226133256266
+    second: Missile 122x101_71
+  - first:
+      213: 2295198051621580387
+    second: Missile 122x101_72
+  - first:
+      213: -8375609934863362780
+    second: Missile 122x101_73
+  - first:
+      213: -2719260429483443699
+    second: Missile 122x101_74
+  - first:
+      213: -400044999864074120
+    second: Missile 122x101_75
+  - first:
+      213: -8685210343131992004
+    second: Missile 122x101_76
+  - first:
+      213: 5953344120651097902
+    second: Missile 122x101_77
+  - first:
+      213: 5276848905304219386
+    second: Missile 122x101_78
+  - first:
+      213: -8937019728195624940
+    second: Missile 122x101_79
+  - first:
+      213: -2981210834488402802
+    second: Missile 122x101_80
+  - first:
+      213: 2095314234067475024
+    second: Missile 122x101_81
+  - first:
+      213: -5893810724110735816
+    second: Missile 122x101_82
+  - first:
+      213: 1210085818946501357
+    second: Missile 122x101_83
+  - first:
+      213: -2535601751047983538
+    second: Missile 122x101_84
+  - first:
+      213: 828444507188607921
+    second: Missile 122x101_85
+  - first:
+      213: 1780293746867123983
+    second: Missile 122x101_86
+  - first:
+      213: 7045856720292208062
+    second: Missile 122x101_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Missile 122x101_0
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 81
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60f0cd3dae1a54d0800000000000000
+      internalID: -3145167660350640021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_1
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 25
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572da6a30d2daca60800000000000000
+      internalID: 7695194705091023477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_2
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 76
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06c02de004a46710800000000000000
+      internalID: 1685652484428711437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_3
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa93f8dae31fb9a0800000000000000
+      internalID: -6215227061364876545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_4
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 91
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb176b6ac2c6fd40800000000000000
+      internalID: 5617891759832374208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_5
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4662933c302e8d2e0800000000000000
+      internalID: -2100680720380254620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_6
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 71
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0fe79a3ad9223c0800000000000000
+      internalID: -4385769760856543002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_7
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 3
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb768055f0f961620800000000000000
+      internalID: 2744555911128836027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_8
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 52
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dee4716145eb700800000000000000
+      internalID: 557975857697582418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_9
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 0
+        width: 938
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20cb2b52b067a940800000000000000
+      internalID: 5307317005029457965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_10
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 5
+        width: 106
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc76017ee670ef070800000000000000
+      internalID: 8141953349236844493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 5
+        width: 114
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd14cb0e4a7d4290800000000000000
+      internalID: -7904527295341912643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_12
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 61
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6a50b347660ce00800000000000000
+      internalID: 1062962161451902648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_13
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 73
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0da163bc25fff6e0800000000000000
+      internalID: -1801451753588019957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_14
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 3
+        width: 125
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7578239c3eb887f80800000000000000
+      internalID: -8108577318631209129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_15
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 66
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0631bba499b1fd80800000000000000
+      internalID: -8218583796787628534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_16
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 69
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59214f060874ccb0800000000000000
+      internalID: -4844615331722745509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_17
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 77
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4914c7b381997fa80800000000000000
+      internalID: -8433103447871700588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_18
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fbdecb834eebf70800000000000000
+      internalID: 9205045620730871600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_19
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 80
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92656bb50ca8c2120800000000000000
+      internalID: 2390438061003920937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_20
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 73
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62450a4217571e0b0800000000000000
+      internalID: -5701146524468095962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_21
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 70
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452af0396b8566a80800000000000000
+      internalID: -8473988107676442028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_22
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 72
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80965c54c757fa60800000000000000
+      internalID: 7707725788142276748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_23
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 64
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e2fbb9407febab0800000000000000
+      internalID: -4990279737915003310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_24
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bd61a60797880a0800000000000000
+      internalID: -6879114907085251733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_25
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 81
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582456cbdd451a9f0800000000000000
+      internalID: -458992375689821563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_26
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 59
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8849e0451b0af20800000000000000
+      internalID: 3431937890636302565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_27
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 82
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6efc25c85cf958e0800000000000000
+      internalID: -1704053525787640214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_28
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f199c05f95473b840800000000000000
+      internalID: 5238658721274173727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_29
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 54
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8d860e390dae140800000000000000
+      internalID: 4749838090559346922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_30
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0cca92c19e1abc0800000000000000
+      internalID: -3773478705592221510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_31
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ced5ea9e2e5d6d30800000000000000
+      internalID: 4426297563035328196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_32
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 67
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300abcd98f3baf9b0800000000000000
+      internalID: -5045522552134590461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_33
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 71
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73aff90dd3b1f2a40800000000000000
+      internalID: 5345521235019168311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_34
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 65
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3502149887eac03a0800000000000000
+      internalID: -6697786713084714925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_35
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 52
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ad7d800f01eb3f0800000000000000
+      internalID: -883249853791479193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_36
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 70
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fb2cb46e7b5e310800000000000000
+      internalID: 1433754256128786312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_37
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 72
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a96e4a99ed7b3050800000000000000
+      internalID: 5781352988929845667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_38
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 73
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df64d1c8b58ed6a90800000000000000
+      internalID: -7318938339516791043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_39
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 73
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8fcf898d44d3160800000000000000
+      internalID: 7006832292328700069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_40
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 63
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ecaf7362a82ff10800000000000000
+      internalID: 2302054256292318720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_41
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 24
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b989d1822b83d00800000000000000
+      internalID: 952707206553836385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_42
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 27
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7668ec638bf4560800000000000000
+      internalID: 7300256066523523054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_43
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 26
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ae65cf1d6387980800000000000000
+      internalID: -8541016417798526368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_44
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 25
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1a02d07a8bb8a70800000000000000
+      internalID: 8830354522009280966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_45
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 25
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5c43b875d3b8070800000000000000
+      internalID: 8109643000217650612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_46
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 24
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f3bb5c80e2115c0800000000000000
+      internalID: -4246562358421667943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_47
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 40
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668791000dd02c330800000000000000
+      internalID: 3729558628422219878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_48
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 54
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383968d4d55bb0cf0800000000000000
+      internalID: -284934739070643325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_49
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 48
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b60170f7535bdfb0800000000000000
+      internalID: -4622008955404482891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_50
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 45
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592af3e47b8017a70800000000000000
+      internalID: 8822842728380342933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_51
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 54
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dea3db2021834e20800000000000000
+      internalID: 3333650124358528727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_52
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 51
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e1a76e965e0ec50800000000000000
+      internalID: 6692601289273646724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_53
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617044f1b865b6660800000000000000
+      internalID: 7380087569901684502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_54
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02123e83c276b6c70800000000000000
+      internalID: 8965372922841735456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_55
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 39
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd8329a895e1d210800000000000000
+      internalID: 1356117406650699251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_56
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 50
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213ca05fad3eb25b0800000000000000
+      internalID: -5391965599292538094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_57
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6690c209128dafd50800000000000000
+      internalID: 6771962628369287526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_58
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 49
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81dfdd4ca00aafb0800000000000000
+      internalID: -4635892126383615606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_59
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 45
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff699f138ef5db730800000000000000
+      internalID: 4016471893559842559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_60
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 58
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ba8c8f32360b1a0800000000000000
+      internalID: -6795822831553172734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_61
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 61
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0316ec2631f0290800000000000000
+      internalID: -7922091904431214339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_62
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8eb4d646e81150c0800000000000000
+      internalID: -4588859168003932534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_63
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 8
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ab25ad286007690800000000000000
+      internalID: -7606572611550397889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_64
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 0
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df117f54f461e8f20800000000000000
+      internalID: 3426700896207573501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_65
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 55
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37230e7ac0686beb0800000000000000
+      internalID: -4704425371827686797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_66
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 64
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c754a623a2d7ecb20800000000000000
+      internalID: 3156598009021220220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_67
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 55
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f6285e887f093c0800000000000000
+      internalID: -4354708672329125988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_68
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cdffff62a7d56d0800000000000000
+      internalID: -3000107468836578168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_69
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 48
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad52dc081fe1d630800000000000000
+      internalID: 3950201234754002342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_70
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 53
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8b00b5c5b8d8c30800000000000000
+      internalID: 4363296842771904720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_71
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 33
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b784aadfb2802990800000000000000
+      internalID: -7412781226133256266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_72
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ea21ca77e2adf10800000000000000
+      internalID: 2295198051621580387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_73
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4259c3fd32bd3cb80800000000000000
+      internalID: -8375609934863362780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_74
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 10
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0afcd0fb0f334ad0800000000000000
+      internalID: -2719260429483443699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_75
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 13
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8704ee03131c27af0800000000000000
+      internalID: -400044999864074120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_76
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 3
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30b11a853fe77780800000000000000
+      internalID: -8685210343131992004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_77
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27a1118fe68e9250800000000000000
+      internalID: 5953344120651097902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_78
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 27
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe11161f122b3940800000000000000
+      internalID: 5276848905304219386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_79
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410ed3658e359f380800000000000000
+      internalID: -8937019728195624940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_80
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 0
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cd5c98a8c90a6d0800000000000000
+      internalID: -2981210834488402802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_81
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 12
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a5966c13d041d10800000000000000
+      internalID: 2095314234067475024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_82
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836edf78f5af43ea0800000000000000
+      internalID: -5893810724110735816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_83
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea3b0a14a61bc010800000000000000
+      internalID: 1210085818946501357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_84
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 13
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e2de044abbfccd0800000000000000
+      internalID: -2535601751047983538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_85
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 7
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbb917d3e93f7b00800000000000000
+      internalID: 828444507188607921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_86
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 4
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f073dd9fabfd4b810800000000000000
+      internalID: 1780293746867123983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile 122x101_87
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdd0574b59e7c160800000000000000
+      internalID: 7045856720292208062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Missile 122x101_0: -3145167660350640021
+      Missile 122x101_1: 7695194705091023477
+      Missile 122x101_10: 8141953349236844493
+      Missile 122x101_11: -7904527295341912643
+      Missile 122x101_12: 1062962161451902648
+      Missile 122x101_13: -1801451753588019957
+      Missile 122x101_14: -8108577318631209129
+      Missile 122x101_15: -8218583796787628534
+      Missile 122x101_16: -4844615331722745509
+      Missile 122x101_17: -8433103447871700588
+      Missile 122x101_18: 9205045620730871600
+      Missile 122x101_19: 2390438061003920937
+      Missile 122x101_2: 1685652484428711437
+      Missile 122x101_20: -5701146524468095962
+      Missile 122x101_21: -8473988107676442028
+      Missile 122x101_22: 7707725788142276748
+      Missile 122x101_23: -4990279737915003310
+      Missile 122x101_24: -6879114907085251733
+      Missile 122x101_25: -458992375689821563
+      Missile 122x101_26: 3431937890636302565
+      Missile 122x101_27: -1704053525787640214
+      Missile 122x101_28: 5238658721274173727
+      Missile 122x101_29: 4749838090559346922
+      Missile 122x101_3: -6215227061364876545
+      Missile 122x101_30: -3773478705592221510
+      Missile 122x101_31: 4426297563035328196
+      Missile 122x101_32: -5045522552134590461
+      Missile 122x101_33: 5345521235019168311
+      Missile 122x101_34: -6697786713084714925
+      Missile 122x101_35: -883249853791479193
+      Missile 122x101_36: 1433754256128786312
+      Missile 122x101_37: 5781352988929845667
+      Missile 122x101_38: -7318938339516791043
+      Missile 122x101_39: 7006832292328700069
+      Missile 122x101_4: 5617891759832374208
+      Missile 122x101_40: 2302054256292318720
+      Missile 122x101_41: 952707206553836385
+      Missile 122x101_42: 7300256066523523054
+      Missile 122x101_43: -8541016417798526368
+      Missile 122x101_44: 8830354522009280966
+      Missile 122x101_45: 8109643000217650612
+      Missile 122x101_46: -4246562358421667943
+      Missile 122x101_47: 3729558628422219878
+      Missile 122x101_48: -284934739070643325
+      Missile 122x101_49: -4622008955404482891
+      Missile 122x101_5: -2100680720380254620
+      Missile 122x101_50: 8822842728380342933
+      Missile 122x101_51: 3333650124358528727
+      Missile 122x101_52: 6692601289273646724
+      Missile 122x101_53: 7380087569901684502
+      Missile 122x101_54: 8965372922841735456
+      Missile 122x101_55: 1356117406650699251
+      Missile 122x101_56: -5391965599292538094
+      Missile 122x101_57: 6771962628369287526
+      Missile 122x101_58: -4635892126383615606
+      Missile 122x101_59: 4016471893559842559
+      Missile 122x101_6: -4385769760856543002
+      Missile 122x101_60: -6795822831553172734
+      Missile 122x101_61: -7922091904431214339
+      Missile 122x101_62: -4588859168003932534
+      Missile 122x101_63: -7606572611550397889
+      Missile 122x101_64: 3426700896207573501
+      Missile 122x101_65: -4704425371827686797
+      Missile 122x101_66: 3156598009021220220
+      Missile 122x101_67: -4354708672329125988
+      Missile 122x101_68: -3000107468836578168
+      Missile 122x101_69: 3950201234754002342
+      Missile 122x101_7: 2744555911128836027
+      Missile 122x101_70: 4363296842771904720
+      Missile 122x101_71: -7412781226133256266
+      Missile 122x101_72: 2295198051621580387
+      Missile 122x101_73: -8375609934863362780
+      Missile 122x101_74: -2719260429483443699
+      Missile 122x101_75: -400044999864074120
+      Missile 122x101_76: -8685210343131992004
+      Missile 122x101_77: 5953344120651097902
+      Missile 122x101_78: 5276848905304219386
+      Missile 122x101_79: -8937019728195624940
+      Missile 122x101_8: 557975857697582418
+      Missile 122x101_80: -2981210834488402802
+      Missile 122x101_81: 2095314234067475024
+      Missile 122x101_82: -5893810724110735816
+      Missile 122x101_83: 1210085818946501357
+      Missile 122x101_84: -2535601751047983538
+      Missile 122x101_85: 828444507188607921
+      Missile 122x101_86: 1780293746867123983
+      Missile 122x101_87: 7045856720292208062
+      Missile 122x101_9: 5307317005029457965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

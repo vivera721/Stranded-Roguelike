@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 82ddd070d1f6ff54db434c6f672d858c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -679085508496382436
+    second: Boomerang Axe 36x32_0
+  - first:
+      213: 3307472180961011051
+    second: Boomerang Axe 36x32_1
+  - first:
+      213: -946354088435478881
+    second: Boomerang Axe 36x32_2
+  - first:
+      213: -5759860422494923711
+    second: Boomerang Axe 36x32_3
+  - first:
+      213: 5816146186585502298
+    second: Boomerang Axe 36x32_4
+  - first:
+      213: 8996421753854317961
+    second: Boomerang Axe 36x32_5
+  - first:
+      213: 4913317614239056718
+    second: Boomerang Axe 36x32_6
+  - first:
+      213: 6738295174878614008
+    second: Boomerang Axe 36x32_7
+  - first:
+      213: 381244752127561999
+    second: Boomerang Axe 36x32_8
+  - first:
+      213: -1317171937066499444
+    second: Boomerang Axe 36x32_9
+  - first:
+      213: 5358734228462385512
+    second: Boomerang Axe 36x32_10
+  - first:
+      213: -1131828977351146150
+    second: Boomerang Axe 36x32_11
+  - first:
+      213: -537483186607419905
+    second: Boomerang Axe 36x32_12
+  - first:
+      213: -5792151176626655662
+    second: Boomerang Axe 36x32_13
+  - first:
+      213: -4679744299274402092
+    second: Boomerang Axe 36x32_14
+  - first:
+      213: -2069648817145893749
+    second: Boomerang Axe 36x32_15
+  - first:
+      213: 6592312132579068729
+    second: Boomerang Axe 36x32_16
+  - first:
+      213: 7545485218225307165
+    second: Boomerang Axe 36x32_17
+  - first:
+      213: -8142002349923685369
+    second: Boomerang Axe 36x32_18
+  - first:
+      213: -3091253576019498618
+    second: Boomerang Axe 36x32_19
+  - first:
+      213: -1434834968598420426
+    second: Boomerang Axe 36x32_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1625f5f3576396f0800000000000000
+      internalID: -679085508496382436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 76
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65eaa2cc6086ed20800000000000000
+      internalID: 3307472180961011051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 76
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e801778ffddd2f0800000000000000
+      internalID: -946354088435478881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144db59767dd010b0800000000000000
+      internalID: -5759860422494923711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 72
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52fb25342a17b050800000000000000
+      internalID: 5816146186585502298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98555188be5b9dc70800000000000000
+      internalID: 8996421753854317961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 73
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e438369965c9f2440800000000000000
+      internalID: 4913317614239056718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 75
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f15e52b2cb338d50800000000000000
+      internalID: 6738295174878614008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 73
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f019b0705147a4500800000000000000
+      internalID: 381244752127561999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 44
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82c9071a1778bde0800000000000000
+      internalID: -1317171937066499444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 41
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8693a35936c0e5a40800000000000000
+      internalID: 5358734228462385512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 41
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55cd72ba8fea40f0800000000000000
+      internalID: -1131828977351146150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 43
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd0585b3e97a88f0800000000000000
+      internalID: -537483186607419905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25eaec761352e9fa0800000000000000
+      internalID: -5792151176626655662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6071aaa553e0fb0800000000000000
+      internalID: -4679744299274402092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c2634cd512743e0800000000000000
+      internalID: -2069648817145893749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b8fdef4f89c7b50800000000000000
+      internalID: 6592312132579068729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eb74a04d2f6b860800000000000000
+      internalID: 7545485218225307165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c276c300cc10f80800000000000000
+      internalID: -8142002349923685369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689a3b23049a915d0800000000000000
+      internalID: -3091253576019498618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boomerang Axe 36x32_20
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634e169b231761ce0800000000000000
+      internalID: -1434834968598420426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boomerang Axe 36x32_0: -679085508496382436
+      Boomerang Axe 36x32_1: 3307472180961011051
+      Boomerang Axe 36x32_10: 5358734228462385512
+      Boomerang Axe 36x32_11: -1131828977351146150
+      Boomerang Axe 36x32_12: -537483186607419905
+      Boomerang Axe 36x32_13: -5792151176626655662
+      Boomerang Axe 36x32_14: -4679744299274402092
+      Boomerang Axe 36x32_15: -2069648817145893749
+      Boomerang Axe 36x32_16: 6592312132579068729
+      Boomerang Axe 36x32_17: 7545485218225307165
+      Boomerang Axe 36x32_18: -8142002349923685369
+      Boomerang Axe 36x32_19: -3091253576019498618
+      Boomerang Axe 36x32_2: -946354088435478881
+      Boomerang Axe 36x32_20: -1434834968598420426
+      Boomerang Axe 36x32_3: -5759860422494923711
+      Boomerang Axe 36x32_4: 5816146186585502298
+      Boomerang Axe 36x32_5: 8996421753854317961
+      Boomerang Axe 36x32_6: 4913317614239056718
+      Boomerang Axe 36x32_7: 6738295174878614008
+      Boomerang Axe 36x32_8: 381244752127561999
+      Boomerang Axe 36x32_9: -1317171937066499444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
